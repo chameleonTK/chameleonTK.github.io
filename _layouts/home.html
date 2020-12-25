@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<style>
+    table td{
+        border: 0px;    
+    }
+
+    @media only screen and (max-width: 600px) {
+        table td {
+            display: block;
+            
+        }
+    }
+</style>
+
+<div class="home">
+
+    <div id="main" class="call-out"
+         style="background-image: url('{{ site.header_feature_image | relative_url }}')">
+        <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+    </div>
+
+    <table>
+     <tr>
+        <td>
+            <img style="min-width: 250px;" alt="me" class="" src="/assets/img/me.png">
+        </td>
+        <td>
+            <div>THIS IS ME</div>
+            <b style="font-size:30px">PAKAWAT NAKWIJIT</b>
+            
+            
+            <div style="color: #717171;">
+                An experienced full-stack web developer | Now, I'm doing reasearch in NLP, transfer learning, and continual learning interested in how to leverage linguistic knowledge to improve trasferablity in cross-lingual models especially for Thai language. | cat slave 😾😾😹😾😾😹 | a big fan of The Big Bang Theory | boardgame enthusiasts
+            </div>
+        </td>
+     </tr>
+     
+    </table>
+    
+
+</div>

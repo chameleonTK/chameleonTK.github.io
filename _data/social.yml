@@ -1,0 +1,40 @@
+# Icons on the footer
+rss: false
+email_address:  p.nakwijit@qmul.ac.uk
+behance:
+bitbucket:
+dribbble:
+facebook:
+flickr:
+gitlab:
+github: chameleontk
+instagram:
+keybase:
+linkedin:         # Full URL
+pinterest:
+reddit:
+soundcloud:
+stack_overflow:
+stack_exchange:   # Full URL
+steam:
+tumblr:
+twitter: pakawat_nk
+vimeo:
+wordpress:
+youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+
+# rss specify feed path
+feed:
+  path: feed.xml
+
+# Share button options
+share:
+  facebook: false
+  twitter: true
+  tumblr:
+  pinterest:
+  pocket:
+  reddit: false
+  linkedin:
+  wordpress:
+  email: true

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<style>
+    .content{
+        padding-top: 100px;
+    }
+</style>
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+
+{% include blog.html %}
+
+<script>
+    var grid = document.querySelector('.posts');
+    var msnry = new Masonry(grid, {
+        itemSelector: '.post-teaser',
+        columnWidth: ".post-sizer"
+    });
+</script>

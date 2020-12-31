@@ -35,14 +35,20 @@ def main():
 
     
     
-    q = []
-    with open("img_folders.csv") as fin:
-        for line in fin:
-            line = line.strip().split(",")
-            q.append({
-                "id": line[1],
-                "path": line[0]
-            })
+    q = [
+        {
+            "id": "1P0ISDpWfcmQoUzhcinumok93TqZMcTKy",
+            "path": "year-in-review-2020/"
+        }
+    ]
+    # with open("img_folders.csv") as fin:
+    #     for line in fin:
+    #         line = line.strip().split(",")
+    #         q.append({
+    #             "id": line[1],
+    #             "path": line[0]
+    #         })
+
 
     fin = open("_imgs.csv", "w")
     while len(q)>0:

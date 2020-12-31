@@ -63,6 +63,7 @@ for path, subdirs, files in os.walk(root):
                         os.makedirs(p)
 
                     if not os.path.exists(new_feat_image):
+                        print(feat_image, new_feat_image)
                         copyfile(feat_image, new_feat_image)
 
                     line = line.replace("assets/img/", "assets/feats/")

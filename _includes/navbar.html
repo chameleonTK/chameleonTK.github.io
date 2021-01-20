@@ -28,7 +28,36 @@
                     Blog 
             </a>
         </li>
-        {% for page in site.pages %}
+
+        <li class="separator"> | </li>
+        <li>
+            <a class="clear" aria-label="Blog" title="Blog" href="http://wp.curve.in.th/terminal-like-resume/">
+                    CV
+            </a>
+        </li>
+
+        <li class="separator"> | </li>
+        <li>
+            <a class="clear" aria-label="Blog" title="Blog" href="http://wp.curve.in.th/code-challanges/">
+                    Code Challanges
+            </a>
+        </li>
+        <li class="separator"> | </li>
+        <li>
+            <a class="clear" aria-label="Search" title="Search" href="/search/">
+                    <i class="fa fa-search" aria-hidden="true"></i>
+                
+            </a>
+        </li>
+        
+        <li class="separator"> | </li>
+        <li>
+            <a class="clear" aria-label="Tags" title="Tags" href="/tags/">
+                    <i class="fa fa-tags" aria-hidden="true"></i>
+                
+            </a>
+        </li>
+        <!-- {% for page in site.pages %}
             {% unless page.title == null or page.hide or name_page contains page.title %}
             <li class="separator"> | </li>
             <li>
@@ -39,7 +68,7 @@
             </li>
             {% endunless %}
             {% assign name_page = page.title | append: name_page %}
-        {% endfor %}
+        {% endfor %} -->
     </ul>
 
 	</nav>

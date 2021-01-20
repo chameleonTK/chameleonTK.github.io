@@ -8,7 +8,7 @@ I'm interested in Natural Language Processing and its applications in Thai langa
 
 Before that, I worked as a web developer in a small company named Maxile co. ltd. I developed various kinds of website: an online magazine, an data-intensive site used to collecte TBs of data and generate hundreds of reports and also a mobile application based on web technology.
 
-In my spare time, I play a lot of boardgames [[BGG account](https://boardgamegeek.com/user/chameleontk)] and enjoy sharing my passion for learning how things work through my own blog. I am trying to translate useful resurces to Thai as many as possible because I found that it will be a good starting point to many young Thai students.
+In my spare time, I play a lot of boardgames [[BGG account](https://boardgamegeek.com/user/chameleontk)] and enjoy sharing my passion through my own blog (mostly written in Thai 🇹🇭).
 
 
 Btw, thank to [Type on Strap](https://github.com/sylhare/Type-on-Strap) for this really cool template.
@@ -27,7 +27,7 @@ Btw, thank to [Type on Strap](https://github.com/sylhare/Type-on-Strap) for this
 
 ## Serve the website locally
 ```
-python -m http.server 1337
+bundle exec jekyll serve
 ```
 
 

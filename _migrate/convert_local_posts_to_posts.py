@@ -3,17 +3,17 @@ import re
 
 from shutil import copyfile
 
-root="./_posts_local"
-target="./_posts"
+root="../_posts_local"
+target="../_posts"
 gimages = {}
 
-with open("./_migrate/imgs.csv") as fin:
+with open("../_migrate/imgs.csv") as fin:
     for line in fin:
         line = line.strip().split(",")
+        # print(line)
         gimages[line[0]] = line[1]
 
 for path, subdirs, files in os.walk(root):
-
     newpath = path.replace(root, target)
     if not os.path.exists(newpath):
         os.makedirs(newpath)
@@ -36,7 +36,7 @@ for path, subdirs, files in os.walk(root):
                         if img in gimages:
                             links_to_gdrive.append(f"https://drive.google.com/uc?export=view&id={gimages[img]}")
                         else:
-                            print("NO", line)
+                            print("NO", line, os.path.join(path, name))
                             links_to_gdrive.append(img)
                     
                     match = re.search("column=(\d+)", line)
@@ -52,19 +52,18 @@ for path, subdirs, files in os.walk(root):
                 
                 # save feature images to local
                 elif line.strip().startswith("thumbnail:"):
-                    
                     feat_image = line.replace("thumbnail:", "").replace("\"", "").replace("\'", "").strip()
                     new_feat_image = feat_image.replace("assets/img/", "assets/feats/")
 
                     
                     p = "/".join(new_feat_image.split("/")[0:-1])
                     
-                    if not os.path.exists(p):
-                        os.makedirs(p)
+                    # if not os.path.exists(p):
+                    #     os.makedirs(p)
 
-                    if not os.path.exists(new_feat_image):
-                        print(feat_image, new_feat_image)
-                        copyfile(feat_image, new_feat_image)
+                    # if not os.path.exists(new_feat_image):
+                    #     print(feat_image, new_feat_image)
+                    #     copyfile(feat_image, new_feat_image)
 
                     line = line.replace("assets/img/", "assets/feats/")
 
@@ -76,11 +75,11 @@ for path, subdirs, files in os.walk(root):
                     
                     p = "/".join(new_feat_image.split("/")[0:-1])
                     
-                    if not os.path.exists(p):
-                        os.makedirs(p)
+                    # if not os.path.exists(p):
+                    #     os.makedirs(p)
 
-                    if not os.path.exists(new_feat_image):
-                        copyfile(feat_image, new_feat_image)
+                    # if not os.path.exists(new_feat_image):
+                    #     copyfile(feat_image, new_feat_image)
 
                     line = line.replace("assets/img/", "assets/feats/")
 

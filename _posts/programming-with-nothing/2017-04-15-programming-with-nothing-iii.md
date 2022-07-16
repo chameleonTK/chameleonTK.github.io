@@ -67,7 +67,7 @@ const INCREMENT = (n)=>((p)=>(x)=>p(n(p)(x)));
 
 หลังจากที่เราได้ INCREMENT แล้วเจ้าสิ่งนี้จะกลายเป็นเครื่องมือในการสร้าง operators ตัวต่อๆไปนั้นก็ต่อ ADD, MULTIPLY และ POWER
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Ey4f3N6oz2Q0_19qgxo-YVJE94qSB0mS" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1sszgaNcVgSWPTsgJfIlwpI2GZ3sqEJlh" column=1 %}
 
 เป็นเรื่องง่ายสำหรับทุกๆคน ที่บอกว่า 4 + 3 = 7 เพราะความคุ้นเคย และการฝึกฝนมาหลายสิบปี
 

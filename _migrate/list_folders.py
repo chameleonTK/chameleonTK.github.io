@@ -9,9 +9,6 @@ from google.auth.transport.requests import Request
 SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly']
 
 def main():
-    """Shows basic usage of the Drive v3 API.
-    Prints the names and ids of the first 10 files the user has access to.
-    """
     creds = None
     # The file token.pickle stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
@@ -35,7 +32,7 @@ def main():
 
     fin = open("_img_folders.csv", "w")
     q = [{
-        "id": "1SkYHNyVPiO3wJVrigf1HiEL4bpPovBT5",
+        "id": "1_FZifKo2QEDcL1-UJykbl-1PeMN-fnXv",
         "path": ""
     }]
 

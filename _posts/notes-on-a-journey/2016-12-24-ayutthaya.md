@@ -13,7 +13,7 @@ color: rgb(19, 196, 165)
 ทริปนี้เป็นทริปครอบครัว พาทุกคนมากราบพ่อหลวง <span class="tag-en">#OnceInALifetime</span> แล้วก็เลยไปตะลุยไหว้พระ 9 วัดรอบเมืองพระนครศรีอยุธยา
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Xre-I6kMDkB7mKweYVy7p30CTo9GbjiT" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=19HtD-lQ9raGVSAKdD8eDNYqjApKmDlpI" column=1 %}
 
 วัน พฤหัสบดี ที่ 13 ตุลาคม 2559 คงเป็นวันที่คนไทยหลายคนใจหาย เนื่องด้วยเป็นวันสวรรคตของพระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดชฯ หรือ "ในหลวง ร.9" ของคนไทย ซึ่ง /me จำบรรยากาศเย็นวันนั้นได้เป็นอย่างดี โดยเฉพาะในช่วงเวลาที่ได้ฟังประกาศ บรรยากาศที่ทุกๆคนเศร้าไปด้วยกัน เป็นการพิสูจน์อย่างชัดเจนว่า ท่านคือ "ศูนย์รวมใจของคนไทย" อย่างแท้จริง
 
@@ -35,14 +35,14 @@ color: rgb(19, 196, 165)
 
 หลังจากคุณๆทั้งหลาย มาถึง กทม. แล้วเป้าหมายแรก ก็คือ กระทรวงสาธารณสุข เพราะว่า ขุ่นพ่อต้องไปจัดการเอกสารเกี่ยวกับแพทย์แผนไทย เจ๋งปะละ /me มีพ่อเป็นหมอนะเอออ แต่บังเอิญว่าไม่ใช่หมอฝรั่ง แต่เป็นหมอต้มยาแผนไทย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1haAGI15BNAD17YaubJzWzJscCpByPpWb" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1VRY9hwcumGJl_5mXc2idUriyXGik8S5r" column=1 %}
 
 
 ถึงแม้ว่า ความจริงแล้ว /me จะไม่เคยเห็นหม้อต้มยาก็เถอะนะ แต่ว่าที่บ้านก็มีห้องทำยาหม่อง กลิ่นตะไคร้ พิมเสน บลาๆ ฉุนจนอยู่เกิน 10 นาทีอาจจะตายได้เลยทีเดียว
 
 แต่ก่อนที่จะเดินทางไปก็ต้องพักเติมพลังกันก่อนที่ ร้านหมูกรอบชื่อดัง ร้านหมูแดงนายไซ (หมูกรอบอร่อย แต่ร้านเป็นร้านหมูแดง?) ซึ่งเป็นหมูกรอบที่ได้ชื่อว่า อร่อยที่สุดใน กทม. เลยทีเดียว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1L36-jyfjsfTZY9ngv_1nC4EMnOkW4q-Z" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1B4nvjWaKlAdH0aRpL6TtTqmcdd-9c_2w" column=1 %}
 
 //ขอใช้รูปจาก [Sawasdee Bangkok](http://saysawasdee.blogspot.com/2011/10/blog-post.html) เพราะกินเร็วมาก จนไม่ทันได้ถ่ายรูป
 
@@ -56,24 +56,24 @@ color: rgb(19, 196, 165)
 
 หลังจากที่ทุกคนจ่ายค่าข้ามฝากคนละ 2 บาทแล้ว /we ก็มาถึงแล้ววว ซึ่งภายในเกาะเกร็ดก็จะมีตลาด วัด หมู่บ้านขนมหวาน หมู่บ้านเครื่องปั้นดินเผา แต่บังเอิญว่าวันที่ไป ดันเป็นวันธรรมดา ร้านค้าส่วนใหญ่ปิด!! อ่าวววววว เห้ยยยย สุดท้ายก็เลยไม่ได้เดินเที่ยวมาก ก็แค่ไปไหว้พระ ให้อาหารปลา
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1XQnMESF-5IECkkbZTPnVvmXOwa4IW0nS" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1tp943BcVawdv1W5VlgyWqFcDCeYuSD3Q" column=1 %}
 
 
 แต่ในความโชคร้ายก็ยังมีโชคดี เพราะว่า ร้านข้าวแช่ ซึ่งเป็นอาหารขึ้นชื่อก็เกาะเกร็ด เปิดอยู่ 1 ร้านถ้วน! ซึ่งแน่นอนว่าจะพลาดไม่ได้เด็ดขาด จัดซิ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1_7k8vggDiXXdlEn_2duF9kiRo1JWXeQt" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1UmVOQBUSRtonS1_B_KS1ZplqTlt61PTr" column=1 %}
 
 
 เพราะว่า ร้านอื่นๆปิดกันหมด เลยมีเวลาคุยกับป้าเจ้าของร้านอยู่นาน แถมกลายเป็นว่า แกเป็นคนใต้แถมยังอายุพอกับขุ่นย่าด้วยซะด้วย //โลกมันกลมแฮะ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mYblX78hE1RDtwELuPBdpXQ2elgj9S2T" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1IRbTQOIArUgo40M__hVUlT0uIHj2w52S" column=1 %}
 
 
 หลังจากกลับจากเกาะเกร็ดแล้ว ก็มีเสียงโทรศัพท์มาจากขุ่นพ่อที่ไปจัดการเอกสาร ซึ่งได้ความว่า เพื่อนๆขุ่นพ่ออยู่ กทม. เหมือนกันก็เลยจะนัดไปหากันที่ Central Westgate เอิ่มมมม ไกลไปอีก แต่ก็หนะ จะห้ามก็ไม่ได้ เลยต้องปล่อยไป... แต่ตอนขากลับหนิซิ ได้เรื่อง เดี๋ยวรู้ๆ...
 
 หลังจากที่ขุ่นพ่อหนีไปเที่ยวคนเดียวแล้วขุ่นแม่ก็ร่าเริงในทันใด <span class="tag-en">#แมวไม่อยู่หนูร่าเริง</span> ที่ต่อไปจึงกลายเป็นแหล่งช๊อปปิ้งไปโดนปริยาย ซึ่งที่แห่งนั้นก็คือ "ตลาดวังหลัง" ซึ่งก็ต้องเดินทางด้วยเรือยาวๆจากท่าเรือน้ำนนท์ ยาวๆไปจนเกือบสุดสายที่ท่าวังหลัง ถึงแม้ว่าสภาพแวลล้อมจะเสียงดังยังไง แต่ทั้งขุ่นแม่ และขุ่นย่าก็หลับกันได้ อย่างง่ายดาย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1flnmOs6ofUx2B0q1jKYvs3QiBlq786wf" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1DBLCI88Df9eRCoC3TBGJTs77k6oEUD4V" column=1 %}
 
 
 ตื่นมาอีกทีก็ ก็ขึ้นจากเรือเดินช๊อปปิ้ง ได้เสื้อดำมา 1 ea แต่ดูท่าแล้วขุ่นย่าจะเดินไม่ไหว จึงให้นั่งพัก แอบกินโรตีที่ร้านเซเว่นเซนต์ ปล่อยให้ท่านแม่ช๊อปให้สบายใจ
@@ -81,13 +81,13 @@ color: rgb(19, 196, 165)
 แต่ระหว่างนั้น ก็มีเสียงโทรศัพท์ดัง คราวนี้ถึงคราวของการผจญภัยของขุ่นพ่อแล้ว แหมๆๆ ไปซะไกลเลย การเดินทางกลับก็เลยไม่ได้ง่ายๆนะซิ แถมจะให้ขึ้นรถเมลล์แลดูจะยากเกินไป ก็เลยปล่อยให้ขึ้น BTS สายสีม่วงมาสุดสายก่อน แล้วให้นั่งแท๊กซี่ไปที่พัก แต่เพราะความงก บอกว่า "แท๊กซี่มันแพง" กลายเป็นว่า งอแง ไปขึ้นรถเมลล์ฟรีมาที่ BTS หัวลำโพง ไหนๆก็มาใกล้ๆกันแล้ว ก็เลยนัดให้ขึ้นต่อมาที่ สนามหลวงเลยละกัน เฮ้อออออ~
 //รวมแล้วเดินทางทั้งหมด 2 ชม.
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1lG3s8n1l1XuqCe_P7H3yyJQTlbL0LXps" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1yqZzxTfyCocSC3QgGEB8R1c2dQor_fwP" column=1 %}
 
 /me และคนที่เหลือซึ่งรอลุ้นอยู่ ก็เลยข้ามฝากมาที่ท่ามหาราช เดินจ้ำๆกันไปที่สนามหลวง ถือเป็นการ survey ไปด้วยในตัว เดินไปได้สักพัก ก็มีคนแถวนั้นบอกว่าตอนนี้ขบวณเสด็จของสมเด็จพระเทพฯ มาพอดี เลยได้รับเสด็จไปในตัว
 
 หลังจากเดินถึงสนามหลวงแล้ว 3 ทุ่มกว่าก็ยังมีคนเยอะนั่งรอเพื่อกราบพระบรมโกศอยู่เยอะมากๆ แถมยังมีหมี่หน้าไก่ แจกด้วย เยี่ยมไปเลยย...
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1RP10-ZLzjNo8KpvNap054YUeJUA0Vo0t" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ChIYlwqk71V29Is2aEZkO_Ja1RbmZhSy" column=1 %}
 
 
 พอเริ่มกินได้ไม่นาน ขุ่นพ่อก็มาถึงพอดี ก็เลยขอหมี่มาคนละ 1 ea แล้วกินกันอย่างอร่อย กลับที่พัก เตรียมตัวไปกราบพ่อหลวงในวันรุ่งขึ้น..
@@ -96,48 +96,48 @@ color: rgb(19, 196, 165)
 
 ทุกคนต้องตื่นกันตั้งแต่ตี 4 เพื่ออาบน้ำ แต่งตัว ถึงแม้ /me จะนอนอู้ก็โดนบังคับให้ลุก ToT
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1aiyet4nmAUKWLJjB2DshCBCJVKLiNy26" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ovF707IMiwGr3osllO-NI24rQLRQRj0X" column=1 %}
 
 
 หลังจากที่ทุกคนพร้อมก็ออกไปโบกแท๊กซี่ ซึ่งปกติแล้ว ตี4 น่าจะหาแท๊กซี่ยากพอสมควร แต่กลายเป็นว่าไม่ถึง 5นาทีก็ได้แท๊กซี่ใจดี 1 คัน พี่เขาเล่าว่า เขาขับช่วงนี้เพราะจะมารับคนที่ไปเคารพพระบรมโกศหนิแหละ แถมดูเหมือนว่าแกจะรู้ลู่ทางมาเป็นอย่างดี เยี่ยม!! เก็บวีลแชร์ขึ้นรถ แล้วก็ออกเดินทาง
 
 นี้คือ สถาพ ณ เวลาตี 5 ตอนที่มาถึงปลายแถวสำหรับรอเพื่อเข้าพระราชวัง
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1pkW_n-p7d0qYxUFLhWLNveBQu2VGE-bV" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1el_NLo-oVA_r49fQ8KACO00Bgixj92M2" column=1 %}
 
 
 เห้ยยยยย ตี 5 นะเว้ยยยย คนเยอะมากๆๆๆๆๆๆๆ แถวคิวก็ยาวววววววสุดๆ แถมยังดูเหมือนว่ายังยาวไปเรื่อยๆอีกด้วย ระหว่างที่เข็นวีลแชร์พาย่าไป ก็มีคุณตาที่ยืนข้างๆก็ถามว่า "หนูเอาวีลแชร์มาจาไหนเหรอ ตากลัวจะเดินไม่ไหวหนะ" ก็เลยได้คุยกัน เลยได้รู้ว่า คุณตาอายุ 90+ แล้ว แกอยู่มาตั้งแต่ในหลวงขึ้นครองราชย์ใหม่ๆ แกชื่อชมในตัวท่านมาก ยังไงก็ต้องมาให้ได้ เลยให้ที่บ้านพามา คุณตาอดทนมากๆ แต่ตอนนั้นก็ไม่รู้จะช่วยแกยังไง สุดท้ายแกก็บอกว่า "ไม่เป็นไรๆ ตาทนได้" หลังจากนั้นก็คลาดกัน ไม่รู้นะว่าคุณตาจะได้เข้าไปกราบพระบรมโกศรึปล่าว ก็ได้แต่เอาใจช่วย สู้ๆนะครับคุณตา
 
 อย่างที่บอกว่าแถวยาวสุดๆ แต่สำหรับคนพิการ หรือคนชรา พร้อมผู้ติดตามจะได้สิทธิพิเศษในการลัดคิวเพื่อเข้าพระบรมราชวังก่อนคนอื่น
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=13eW4ZQm915snxrHnLN7MH5IcCBj25RLH" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1eGYNoUpxpPj74JTgSchIc05MHjU2YBdU" column=1 %}
 
 
 ทำให้ /me และคุณย่าได้เข้าไปในพระบรมราชวังแต่ตั้ง 6 โมงเลย เยี่ยมมมมม แต่หลังจากเข้าไปแล้ว ดันตรงกับช่วงที่ทำวัตรเช้า(?) พอดี เลยมีขบวณเสด็จของทั้งสมเด็จพระเทพฯ และพระบรมฯ แต่ขุ่นย่า ไม่ได้เห็นขบวณเสด็จหรอกนะ เพราะแกหลับปุ๊ยบนวีลแชร์ จะไปปลุกก็ไม่ทัน 555
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1vl5TUbl4JUJJbT3UgJFXcmKOVs1WUsNZ" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1OPIA-WOEIbtnBd8PGAAQADVxEPI4fiJB" column=1 %}
 
 
 หลังจากนั้นไม่นาน ก็ได้เข้าไปกราบพระบรมโกศ ซึ่งบรรยากาศ spiritual มากๆ ทุกๆคนจากทุกๆที่มาเพื่อเหตุผลเดียวกัน พร้อมเสียงสวดทำนองแปลกๆ Once in a lifetime สำหรับคนที่ศรัทธาในตัวท่าน อยากให้มาจริงๆ
 
 หลังจากกราบตามขั้นตอนเสร็จเรียบร้อยแล้ว ก็เดินออกไป ซึ่งในบริเวณนั้นเขาห้ามถ่ายรูป แต่จะได้ของที่ระลึกเป็นภาพถ่ายเบื้องหน้าพระบรมโกศ 1 รูป และข้าวสารพอเพียง ไปแทน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1GBMnugj5AU1rykoKvvkOpckanqghqQYq" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=16c5zH7gMWfhyi1AnkPnfNZhl7GWVbFBT" column=1 %}
 
 
 หลังจากนั้นก็เดินไปรอบๆ รอคนที่เหลือ หลังจากติดต่อกันพบว่า 10.00 แล้ว แถวปกตินั้นยังไม่ขยับไปไหนเลย น่าจะอีกนานนน ก็เลยเปลี่ยนไปกำหนดการพาขุ่นย่าไปไหว้วัดพระแก้วก่อนละกัน เข็นๆๆ แวะถ่ายรูปหน้ามหาลัยศิลปกร
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1c52LZDEy8YO0SYokInjOKF_soyOwI0Br" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1u9EshmldiGuxToG-zsNgJmbwLC0N6Sup" column=1 %}
 
 
 ไปนั่งตากแอร์ที่สตาร์บั๊ค แล้วก็จะไปเดินเล่นๆที่มิวเซียมสยาม แต่ไปถึงแล้วก็ไม่ได้เข้าไปเพราะปิดปรับปรุง เลยพากันไปต่อที่วัดราชบพิธฯ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1P3tolWLKDAaUX1VEXNxDiFthgiAm6P4A" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1xtJX_2Sl6j4-YB4xw7bLKf8vVVB7GZ7r" column=1 %}
 
 
 แล้วสุดท้ายก็จบลงที่วัดภูเขาทอง
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1rb5XsXgk6M_mXykdED3vH0X2k6q_qRXK" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Jc54PYk9-D_e1CxYngC9bUM-q_6lXuoy" column=1 %}
 
 //ไม่มีปัญหาถ่ายรูปจากมุมนี้แฮะ ขออนุญาตเอารูปมาจาก ref
 
@@ -145,7 +145,7 @@ color: rgb(19, 196, 165)
 
 แล้วจบด้วยการที่ขุ่นพ่อ กลับไปนอนยาวๆ ไม่ได้ออกมากินข้าวเย็น ส่วนขุ่นแม่ก็แจ้นมากินส้มตำกับ /me และขุ่นย่า แล้วกลับไปนอนอย่างรวดเร็ว <span class="tag-en">#OnecInALifetime</span> <span class="tag-en">#กราบพ่อ</span>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=14VCnT2D5K8z_dyKHMCZpcWuQZ4G_sBhv" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1wtdgrM-Dp7vFXxvHoaq2n9VAYt-xnEuA" column=1 %}
 
 
 # วันที่ 3
@@ -154,7 +154,7 @@ color: rgb(19, 196, 165)
 
 สำหรับทริปนี้ ตอนแรกคิดว่าจะเหมารถขับไปกันเอง แต่ดูเหมือนว่าจะลำบากไปซักหน่อย แถมราคาสำหรับเหมารถแค่ 1 วัน มันแพงกว่าปกติมากๆ //ไม่คุ้มเลยแฮะ ซึ่งไอเดียของคุณแม่ก็คือ ให้ไปเหมาทัวร์ที่อยุธยาซะเลยก็เลยลองค้นๆดู มีจริงๆด้วยแฮะ เป็นบริการรถตุ๊กตุ๊กนำเที่ยว มีหลายแพ็คเกตเลย ถ้าใครสนใจสามารถไปหาได้ที่ บขส.อยุธยา ได้เลย แต่ /me กลัวว่าจะแป๊ก ก็เลยติดต่อลุงคนนึงไปก่อนล่วงหน้าซะเลย ชื่อ ลุงธง ติดต่อ ซึ่งลุงแกรับเหมารถตุ๊กตุ๊กแบบนี้ อยู่ตลอด ติดต่อง่าย แถมสุภาพมากๆ /me ก็เลยปล่อยหน้าที่พาเที่ยวไปให้ลุงธงจัดการ //สบายแฮ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=191fbPF7ZMmqFPWjE4gXBXAsIvNj6kkh0" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ZizGvkdae-tPGMxi-pmvxZQ9sf28oWM2" column=1 %}
 
 
 ดังนั้น เรื่องสุดท้ายที่น่าเป็นห่วง ก็เหลือแค่ /กรูจะไปอยุธยายังไงวะเนี๊ยะ ตอนแรกก็ไม่กังวลอะไรหรอกนะ แต่หลังจากคุยๆกับพี่แท๊กซี่ระหว่างวันที่ 1,2 ทำให้พึ่งรู้ว่า จุดขึ้นรถตู้ไป ตจว. โดยย้ายจากอนุสาวรีย์เรียบร้อยแล้ว แยกไปสายใต้บ้าง หมอชิตบ้าง เอกมัยบ้าง อ่าวชิปละ แล้วรถตู้กรุงเทพ-อยุธยา ย้ายไปที่ไหนละเนี๊ยะ?
@@ -167,7 +167,7 @@ color: rgb(19, 196, 165)
 
 ในที่สุดก็มาถึง
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=19hYSveJmNMUNTPI7DtZqrIyf9I9NiZOv" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1qosqfHfyd6ozSaH9OE4PwiOAniO7Rxfg" column=1 %}
 
 
 หลังจากจ่ายไปคนละ 60 บาท กับการเดินทางประมาณ 1.30 ชม. (มั้ง?) พวกเราก็มาถึงอยุธยา พร้อมกับทักทายลุงธง กับรถตุ๊กๆคันใหญ่ นั่งได้ 6 คนแบบชิวๆ (มีญาติมาเพิ่มอีก 2 คน)
@@ -178,95 +178,95 @@ color: rgb(19, 196, 165)
 
 //ชักภาพหมู่ 1 รูป
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1XwZzhPIjcp9o28tNLXTGbWt2rMMrDwQm" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1UcyYNl5iOpJwtVHkqZVwRgxWA-3-2cwd" column=1 %}
 
 
 เดินไปเดินมา เห็นดอกเฟื้อฟ้ากำลังบาน แถมมีหลายสีซะด้วย ชักภาพให้นางแบบของเราอีก 1 รูป
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1JmvNPpodJXuzw515gkyG0z99clBaBJbf" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1070LRGZ0wWNJJGjOe9qQkYOHGClzgC9V" column=1 %}
 
 //กวาดสายตาเซ็กซี่ด้วยนะเออ นางแบบยังอาย
 
 แต่น่าเสียดายที่ ไม่สามารถถ่ายรูปเจดีย์ได้เพราะว่า มันย้อนแสงมากๆ ขออนุญาตแปะรูปจาก [เวปไซท์เมืองอยุธยา](http://ww2.ayutthaya.go.th/travel/detail/37) แทนละกัน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1OhLZXhDVtmfKRt_f1kgtu6Lc0N5rPXVB" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1DPD-daOoaxLf5XWNzrRVoThvNJ91vBrE" column=1 %}
 
 
 ต่อมาก็นั่งรถมาต่อที่วันที่ 2 <span class="tag-en">#วัดพนัญเชิงวรวิหาร</span>
 
 แรกเห็นนึกว่า หนิมัน อ๊าม(ศาลเจ้าจีน)แถวบ้านหนิหน่าาา เพราะว่าวัดพนัญเชิง เป็นใกล้ๆวัดมีศาลเจ้าอยู่ด้วย จึงเกิดเป็นการผสมผสานกันระหว่าไทย-จีน หลังจากเข้าไปภายในวัดก็จะพบพระใหญ่ หรือ หลวงพ่อโต ซึ่งสร้างขึ้นในสมัยสมเด็จพระรามาธิบดีที่ ๑
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=13H0HXFPz--T-112fE2s5SYz0_uplQiBi" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1wNp_E5Bsy5zcoJduzEDzC2QxKEMusQRW" column=1 %}
 
 
 นอกจากนี้ด้านนอกใกล้ๆกันก็ยังมี ตำหนักเจ้าแม่สร้อยดอกหมาก ซึ่งเป็นศาลเจ้าของคนเชื้อสายจีน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1FMLLLrIAEX93J3tIxI9rLrfw-KeVzOwt" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Ari9nzvzK0QoCO1877zfr_6SGoQlvOvU" column=1 %}
 
 
 เที่ยวมา 2 วัด แปปเดียวก็เกือบเที่ยงแล้ว ตลอดทางทั้งขุ่นแม่ และขุ่นอาที่มาด้วยกัน เล็งกันมาเป็นอย่างดีว่า ต้องไปกิน "ก๊วยเตี๋ยวเรืออยุธยา" ให้ได้ ซึ่งก็ต้องเป็นไปตามนั้น ลุงธงเลยจัดให้พวกเราแวะกินข้าวกันที่ร้าน
 
 [ก๋วยเตี๋ยวลุงเล็ก](https://www.wongnai.com/restaurants/9951ig-%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81) ซึ่งลุงธงรับประกันว่า อร่อยแน่นอน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1g-Y5obh-haVatlaz6KGK4vCDHp8tcclr" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1zJC5ieYjfPdEo872EtoC8_3-1zbyqc2F" column=1 %}
 
 
 หลังจากนั้นก็ลุยกันกับวันที่ 3 <span class="tag-en">#วัดแม่นางปลื้ม</span> ลุงธงเล่าว่า ถึงแม้ว่าจะเป็นวัดเล็กๆ แต่ก็เป็นวัดที่สร้างโดยพระเจ้าตากสินเลยทีเดียว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1nK1XC17k3h0PWndWRBtSGI3GM9EAuL-E" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=18OFGu6vHBkvHCZj875xuatl6U3EF0avt" column=1 %}
 
 
 ภายในจะเห็นพระพุทธรูปองค์สีขาว เป็นเอกลักษณ์และสวยมากๆ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1OJxbDJvW7I0TDb_qI8EENIKaw-NWXFRS" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=17VWzwNhi6GKub2EZ7lGjFRV2-Q_JDTPz" column=1 %}
 
 //มีสิงห์ด้วยนะ เท่ห์สาสสส
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1KvajWkCp-DYx-C0LTV1zV3NCudmzYTvw" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1NEwish5-bzW8JDH3T1KRkwCGusH3-bVU" column=1 %}
 
 
 หลักจากนั้นก็ออกจากวัดเพื่อเดินทางไปสู่วัดที่ 4 <span class="tag-en">#วัดธรรมมิกราช</span> จะพบซากวิหารหลวงซึ่งมีเพียงเสา เพราะถูกทำลายไปในช่วงเสียกรุงครั้งสุดท้าย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1M2Qg_-Zez9pACj0TZx7D_fT68LX2Dyjh" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1YhFmqW6b2uOZUIhfifckVLV_9Ywh43f3" column=1 %}
 
 
 แต่ก็ยังมีการค้นพบเศียรของพระประธานเก่าแก่ แต่น่าเสียด้ายที่โดนย้ายไปเก็บรักษาไว้ที่ พิพิธภัณฑสถานแห่งชาติเจ้าสามพระยา แล้ว //แต่ที่วัดก็มีรูปปั้นจำลองนะ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1z6hvdS52y8CNxeUBcPfehLuObQJWjfUV" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Me22-NurSEV4hjSMJeGOQr0u1dWry-S6" column=1 %}
 
 
 ต่อมา วัดที่ 5 <span class="tag-en">#วัดหน้าพระเมรุ</span> เป็นวัดที่มีความสำคัญเพราะว่าเดิมเป็นวัดที่พม่าใช้ตั้งฐานบัญชาการ จึงเป็นวัดเดียวไม่ได้ถูกพม่าทำลาย ทำให้มีสถาปัตยกรรมแบบอยุธยาในสภาพสมบูรณ์มากที่สุด ซึ่งมีพระประธานเป็นพระพุทธรูปทรงเครื่องใหญ่ ตามแบบฉบับอยุธยา
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1gsqni0kXa9khHXHViJUz9xybs3WTyOzn" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Du6BFZqN-YUbcy0iV11eOd41P-9VnQo2" column=1 %}
 
 
 นอกจากนี้ยังมีพระคันธารราฐ ซึ่งพระพุทธรูปศิลา อายุ 600 กว่าปี
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=18_jWU5Wt1TDqtDzmbNC3rrXs9vluItnd" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1rV6vIbDYZN6q_u10ZfOBz2if1q5JCiHO" column=1 %}
 
 
 ซึ่งในพระวิหารที่ประดิษฐานพระคันธารราฐ ก็เห็นลายเขียนตามผนัง ซึ่งถ่ายทอดวิถีชีวิตของชาวบ้านได้อย่างสวยงาม
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1aOd2H7e67EElZgRebQ0u937xo61-yDHx" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mWOdWH-DmiMZI1M32n-u_7mCqC_He28a" column=1 %}
 
 
 หลังจากเดินมาหลายวัด ขุ่นย่าเริ่มบ่นว่าเหนื่อยละ สู้ๆ อีกนิดเดียวก็จะครบ 9 ละนะ
 
 และ วัดที่ 6 ก็เป็นวัดที่อยู่ใกล้ๆกัน ชื่อว่า <span class="tag-en">#วัดเชิงท่า</span> ระหว่างที่ /me เดินๆ อยู่ๆก็มีน้องคนนึงเข้ามาอธิบายนู้นนี้ๆ เห้ยยย มันน่าสนใจมากๆ หลังจากฟังน้องเล่าเรื่องซักพัก ก็เลยพบว่า น้องเป็นคนอยู่แถวนี้ ว่างๆก็จะมาเป็นไกล์ท้องถิ่นอาสาสมัคร ซึ่งสิ่งที่น้องเล่า ทำให้รู้สึกทึ่งมากๆ เพราะแค่วัดเล็กๆ ก็มีประวัติมากมายให้ศึกษาแล้ว แถมน้องยังเล่าได้น่าสนใจมาก //ขุ่นแม่ชอบมาจัดทิปให้หนักเลย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1fmvhjm-iIPkTlgUEWMRQbTX6klnTDhBA" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=19ZELGxkturyB3KDpgWfg6CMb3IvbF4HD" column=1 %}
 
 
 วัดเชิงท่านั้นเป็นสำนักของพระอาจารย์ทองดี ซึ่งสมเด็จพระเจ้าตากสินมหาราชได้เรียนรู้วิชาต่างๆ จากที่วัดแห่งนี้
 
 เนื่องจากวัดเชิงท่าตั้งอยู่ใกล้แม่น้ำ ในปีที่มีน้ำท่วมใหญ่ วัดแห่งนี้ก็โดนน้ำท่วมไปทำ ทำให้จิตรกรรมฝาผนังส่วนใหญ่ชำรุดไปมาก น่าเสียดายมากๆ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Ky8ZgrYYecJfo4CMaCj-ut-C45c7kCR2" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1HLDFN6vrUXUyiYv2GLv8o1hBZzIeEJXe" column=1 %}
 
 
 ต่อมาก็มาสู่วัดที่ 7 <span class="tag-en">#วัดกษัตราธิราชวรวิหาร</span> วัดนี้ดูๆไปแล้ว จะพบว่าเหมือนวัดที่พึ่งสร้างใหม่มากๆ เพราะได้รับปฏิสังขรณ์ใหม่ ซึ่งจัดตั้งอยู่ริมแม่น้ำเจ้าพระยา ทำให้ได้บรรยากาศดีมาก นั่งพักแบบชิวๆ ปล่อยเวลาให้ผ่านไป
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Y2JBy3py9ccYJowRQ4EBz3hbG9t1egvK" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1SOYFRwKPy8is9_p70jcJ5sf8gbFSei6U" column=1 %}
 
 
 ที่วัดแห่งนี้ ว่ากันว่ามีอดีตเจ้าอาวาสเป็นถึงเกจิอาจารย์ชื่อดัง แต่น่าเสียดายที่ /me ไม่ได้สนใจสักเท่าไร เลยเปลี่ยนไปสนใจให้อาหารปลาแทน ซึ่งปกติแล้ว ปลาในวัดมักเป็นปลาสวายตัวโตๆ หรือไม่ก็ปลาดุก ปลาช่อน แต่ที่นี้เป็นปลาตะเพียน แปลกตากเหมือนกัน
@@ -275,40 +275,40 @@ color: rgb(19, 196, 165)
 
 ต่อมาก็วัดที่ 8 <span class="tag-en">#วัดท่าการ้อง</span> ซึ่งเป็นวัดที่แตกต่างจากที่อื่นมากเลยทีเดียว เพราะแอบเป็นวัดเชิงพาณิชย์ไปซักหน่อย จุดที่น่าสนใจเลยไม่ใช่วัดแต่กลายเป็นตลาดน้ำที่อยู่ในตัววัด //แต่วันนี้มันไม่มีตลาดน้ำ ToT
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1rlm9wvooZWqX1RL9t8skwVeA6hVYeFow" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=15EmZtX2aGzKL5rSWkPKnrC_0bu5CMx7L" column=1 %}
 
 
 ด้วยความเป็นวัดพาณิชย์ ที่นี้จะมีกล่องบริจาคเยอะมากๆ ขุ่นย่าก็เล่นจะหยอดทุกกล่องที่เป็นไปได้เพื่อทำแต้ม ม่ายยยยยย /me ก็เลยต้องเข็นไปรอบๆ แล้วออกมาอย่างรวดเร็ว ก่อนที่ขุ่นย่าจะหมดตัว //ขุ่นย่าเป็นคนใจบุญ
 
 หลังจากรอด ตู้บริจาค crisis มาแล้วก็เข้ามาสู่วัดสุดท้าย แต่ไม่ท้ายสุด วัดที่ 9 <span class="tag-en">#วัดพระศรีสรรเพชญ์</span> ซึ่งอยู่ในเขตพระราชวังโบราณ โดยเป็นวัดประจำพระราชวัง เป็นที่ที่เก็บอัฐิของพระมหากษัตริย์ ดังนั้นวัดนี้จึงมีความใหญ่และหรูหรามาก โดยเฉพาะเจดีย์ใหญ่ 3 องค์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Xre-I6kMDkB7mKweYVy7p30CTo9GbjiT" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=19HtD-lQ9raGVSAKdD8eDNYqjApKmDlpI" column=1 %}
 
 
 ซึ่งใกล้ๆกัน ก็มีวิหารพระมงคลบพิตร แต่ดันไปในช่วงที่กำลังปิดปรับปรุง ทำให้ไม่มีภาพมาให้ดู
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1IomVvgx6PXfX6vEamanEIFAdnmFqQag_" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1JlfYro9xg0NGdsl2I1GqADc9WNHJu7x7" column=1 %}
 
 //ภาพจาก [wikipedia](https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%9A%E0%B8%9E%E0%B8%B4%E0%B8%95%E0%B8%A3)
 
 และใกล้ๆกันก็มีวัดโบราณอีกวัด คือ วัดพระราม ซึ่งเป็นวัดที่มีพระปรางค์ขนาดใหญ่ ตามศิลปะแบบเขมรโบราณ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1NPKSBACYZdKnfUCyXOntxu650TebyMsn" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1nwbCXiJuBJiTepoRhS0le9sH4g2J6Z6U" column=1 %}
 
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1yknyISTlCIdfojdIjLD-IuXKz0p1kNbY" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1YwAHzjfLIdKVYrJXcqHLRSQUpndPTyGv" column=1 %}
 
 
 รอบๆวัดพระยาม จะมีแก๊งช้างเดินอยู่ไปมา ระหว่างเข็นไปใกล้ๆ คุณย่าบ่นยกใหญ่ "อย่าเข้าไปใกล้ซิ เดี๋ยวมันเหยียบเอา" 555
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1jh1BXkbGXILPPR_QrMxen4qb5x0lNNBh" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1DmzVsUSNt1qUTIJ3y3Gp2LRERKLkUA_D" column=1 %}
 
 
 ถึงตอนนี้ก็ครบ 9 วัดเรียบร้อยแล้ว แต่มาถึงอยุทธยาทั้งที ยังขาดอีกที่ที่ต้องไปถ่ายรูปให้ได้ /me เลยขอให้ลุงธงช่วยพาไปให้หน่อย เพราะอยู่ใกล้ๆกัน
 
 สิ่งที่ /me อยากไปถ่ายรูปก็คือ สิ่งนี้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1IlSFiM1LItsqCCP-RzkItHN-udqbdwlf" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1eMHJ7MEAQIbhKaZNdaR6ypmcfRyYVgFQ" column=1 %}
 
 
 เป็นเศียรพระพุทธรูปกว่าร้อยปีในรากไม้ ภายในวัดมหาธาตุ Signature สำคัญของเมืองอยุธยา
@@ -321,12 +321,12 @@ color: rgb(19, 196, 165)
 
 หลังจากรถตู้ไปส่งทุกคนที่ BTS จตุจักร ก็เล่นเอาเกือบ 1 ทุ่มแล้ว ที่สุดท้ายก่อนหมดทริปนี้ ก็คือ อาหารมื้อเย็นที่ถนนเยาวราช
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1vZhevxGsyt3VjD8UUvmCsm-jebYtO184" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1CW1IcSG-8nAvh_l5w0WosNpDl2tcBn8z" column=1 %}
 
 
 ร้านที่ /me พาไปกินก็คือ ก๊วยจั๊บอ้วนโภชนา ร้านหน้าโรงหนัง
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ggo3HdP23k3eu2bYer4OHlJgMusbxpMU" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1eXA1XK3oEYCFYlMSOJ-iBAZWcYuh5iYm" column=1 %}
 
 
 ซึ่งเราจะได้รสก๊วยจั๊บเข้มๆ กับรสพริกไทย ดีมากๆ และนอกจากร้านนี้ /me ก็ยังไปกินก๊วยเตี๋ยวคั่วไก่กระทะทองเหลือง(อะไรสักอย่างหนิแหละ) นอกจากรสชาติงั้นๆแล้ว ราคาก็แพง ให้น้อย แถมเจ้าของร้านมารยาทแย่มากถึงมากที่สุด บางทีก็ไม่เข้าใจเหมือนกันว่าทำไมถึงอยู่ได้มานานถึงขนาดนี้ //ถ้าเจ๊งวันไหน บอกด้วยนะจะไปฉลอง

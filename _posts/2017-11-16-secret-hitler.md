@@ -16,7 +16,7 @@ color: rgb(224 44 67)
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1rDYp9TkKARU-RjBtnqLXghhFZ3ukvK8H" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1KJEeZH8RctM5W7ETmvZqJlQYCZC1gt-G" column=1 %}
 
 เมื่อวันอาทิตย์ที่ผ่านมา [12/11/2017]
 
@@ -26,7 +26,7 @@ color: rgb(224 44 67)
 
 ตัวเกมส์ Secret Hitler เป็นเกมส์บลัฟ แบ่งเป็น 2 ฝ่าย: Fascists และ Liberals แต่ละทีมต้องกล่อมประสาทอีกฝ่ายให้ร่างนโยบายของฝ่ายตัวเองให้ได้ โดยสามารถเล่นกันได้ 5-10 คน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1oGE-jvLYfOEUaKcPH7SGr78ytckavhyd" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1iAHpsu4eACd2PASI3Tn54x-gLgTR3mF6" column=1 %}
 
 กติกาคราวๆ คือ จะแบ่งเป็นรอบๆ ในแต่ละรอบ จะเลือก President (ประธานาธิบดี) และ Chancellor (นายกรัฐมนตรี) โดย President จะสุ่มหยิบนโยบายจากกองกลางมา 3 นโยบายแล้วเลือก 2 นโยบายให้ Chancellor เลือกไปปฏิบัติจริง 1 นโยบาย
 
@@ -36,7 +36,7 @@ color: rgb(224 44 67)
 
 
 <div style="text-align: center;margin-bottom:20px">
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1AY9RaMfchIUQq2kqF8k9TQbJfBzDagez" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1QJE3TcHsuQaERg68AySIpyZYvarKh9JO" column=1 %}
 * ตัวอย่างนโยบาย
 </div>
 
@@ -50,7 +50,7 @@ color: rgb(224 44 67)
 
 ปล. นอกจากธีม Hitler แล้ว ดูเหมือนว่าจะมีธีม Donald Trump ด้วย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1SfS6E_w_ESxy9QDO9149zXuD5k0ZLPCh" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1nAR_sPYTi9EtWXMTIV6pXgC15fCqPm_g" column=1 %}
 
 # ความเจ๋งของเกมส์อย่างที่ 2 คือ สมดุล
 
@@ -68,13 +68,13 @@ color: rgb(224 44 67)
 
 เพราะว่า /me ชอบมาก เลยไปค้นๆดูเลยได้มารู้ทีหลังว่า สามารถเข้าไปที่เวปไซท์ [Secret Hitler](http://secrethitler.com/) แล้วกด Print&Play ได้เลย ในเวปไซท์ยังบอกอีกว่า เกมส์นี้อยู่ภายใต้ลิขสิทธิ์แบบ [Creative Commons BY–NC–SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) หรือ เปิดให้ทุกคนดัดแปลงแก้ไขได้อิสระ เพียงแต่ต้องให้เครดิตต้นฉบับ ห้ามใช้เชิงพาณิชย์ และอยู่ภายใต้ CC เดิม
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1qZ0meV4KlCFcUozOjrn6p8ci-OBdK5tt" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1S3YZB5UA6z5E26Cl6CTVdVUKBxBivvYL" column=1 %}
 
 # ความเจ๋งของเกมส์อย่างที่ 4 คือ เรียบง่าย
 
 สำหรับคนที่เคยเล่นบอร์ดเกมส์มาพอสมควร ก็คงรู้ว่า จริงๆแล้ว Secret Hitler แอบมีวิธีการเล่นคล้ายๆ The Resistance, Avalon แต่ข้อดีของเกมส์นี้คือ ลดทอนความยุ่งยากไปเยอะมากๆ เหมาะกับมือใหม่ เรียนรู้เกมส์ใหม่ๆ แต่ถ้าใครที่เป็นนักตอแหลมือฉมัง หลังจากเล่นไป 3-4 รอบ ก็คงทำให้เบื่อได้ เพราะว่า ตัวเองไม่สามารถดัดแปลงได้หลากหลาย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ZlpnXSTksw1vkSGOZoyJMHZaOM3DfBi-" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1G4RXlCghVuHAm1NGNrlIUOPqmexZnaOQ" column=1 %}
 
 # Conclusion
 

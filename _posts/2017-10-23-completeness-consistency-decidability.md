@@ -20,7 +20,7 @@ color: rgb(247 214 56)
 
 และเมื่อหัวข้อมากขึ้น นักคณิตศาสตร์หลายคนเริ่มเกิดคำถามที่เป็นที่น่าหวั่นใจของนักคณิตศาสตร์มากที่สุด "สมการที่ได้มาจากการต่อยอดกันมานับ 100 ปี ในแต่ละสาขา มันไม่ขัดแย้งกันจริงๆใช่ไหม?" เสมือนการเขียนโปรแกรมหลายๆฟีเจอร์มาประกอบกัน ถึงแม้ว่าแต่ละส่วนจะทดสอบมาเป็นอย่างดีว่า ไม่มีความผิดพลาด แต่เมื่อนำมาประกอบกัน ก็ไม่ได้แปลว่ามันจะใช้งานร่วมกัันได้อย่างสมบูรณ์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1EKgOyt7buEasHTD6-kMXiVO13ZR7ViVY" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1W3mPxgAHZqFAIEtsmMK80ibYjHat-Fpc" column=1 %}
 
 นี้จึงเป็นจุดเริ่มต้นของการพยายามศึกษา Foundation of Mathematics เพื่อพยายามหาความเชื่อมโยงในของแต่ละสาขาเข้าด้วยกัน ตลอดหลายสิบปีที่ผ่านมา การตามหา Foundation of Mathematics นี้จึงเป็นเหมือนตามหาจอกศักดิ์สิทธิ์ที่สูญหายไป
 
@@ -52,7 +52,7 @@ color: rgb(247 214 56)
 
 แต่ว่า ปัญหาที่ Hilbert พูดจริงๆ สนใจเจาะจงเฉพาะ consistentcy of arithmetic และหนึ่งในความพยายามแก้ปัญหานี้มาจากนักคณิตศาสตร์ 2 คน คือ Gödel และ Gentzen
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=15qwT-iGraEZfj9NN_uD1XC8jl2PQWHp0" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1v0mlMZHv2yDbodFRkz9dRivw_iX9BrWd" column=1 %}
 
 โดย Gödel พิสูจน์ว่า arithmetic ไม่สามารถใช้แค่ตัวมันเองพิสูจน์ความเป็น consistentcy ของตัวมันเองได้ ซึ่งข้อพิสูจน์นี้ เป็นส่วนหนึ่งของ Gödel's incompleteness theorem ที่กล่าวว่า "ระบบ arithmetic ที่ Consistency จะไม่ Completeness และไม่สามารถพิสูจน์ความ Consistency ของตัวมันเองได้"
 

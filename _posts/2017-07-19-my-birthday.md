@@ -14,7 +14,7 @@ What do you do when you wake up and realize that today is your birthday?
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1G2d1BmxkzOvQ9iqV_2SFIgRmMYX2tkyG" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1aBOMq2ckfsmlBuF84nShPEHFwFgiTkRo" column=1 %}
 
 What do you do when you wake up and realize that today is your birthday? When I was a boy, I looked forward to my birthday. There was a big party with my family. We sang songs, eat and drink a lot (not alcohol). It was the happiest and most memorable time. I didn't even know when I started crying on my birthday.
 
@@ -30,6 +30,6 @@ This year, I wake up with a big smile. Like other years, there are several calls
 
 After that day, I later found that they didn't forget. They were quite busy guys. Thank to them, thank to my family, thank to everyone. I know all of you value me although you forget my birthday.
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1wAGufsASFOnkK1ywwAKs-mF_ZBVPgeQW" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1yH72C_ZshiSB2IFHtUTGi_nDafFTjPcI" column=1 %}
 
 PS. Last year, my dad surprised me with his video that he created by himself. It is good time for me to start looking forward to my next birthday.

@@ -37,8 +37,8 @@ def main():
     
     q = [
         {
-            "id": "1BdzqUhBt22hHY_AH4qljNdVBDPtTLshM",
-            "path": "year-in-review-2021/"
+            "id": "1AcJZV2wZLBSre7J28e_gJdZwM0Tz-SmU",
+            "path": "lrec2022/"
         }
     ]
     # with open("img_folders.csv") as fin:

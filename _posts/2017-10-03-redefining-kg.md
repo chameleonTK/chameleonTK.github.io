@@ -14,7 +14,7 @@ color: rgb(247 214 56)
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1R44ysBzLVsN5gu3HPRg9Cn0OUn-6uWj0" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1GR7VkPuDkz-hlGArMrIS2kr04FarIr3_" column=1 %}
 
 หลายๆคนคงเคยไปเดินตลาด มันเป็นเรื่องง่ายๆที่มักจะเจอแม่ค้าตะโกนไปมาๆ พร้อมกับหยิบฟังทองที่เราเลือกไว้ไปชั่ง พร้อมกับยื่นมือบอกราคาอย่างรวดเร็ว โดยแทบจะไม่ได้มองหน้าปัดตาชั่ง
 
@@ -26,7 +26,7 @@ color: rgb(247 214 56)
 
 ท่ามกลางหน่วยทั้งหมดทั้งมวล มีหน่วยที่เป็นพี่ใหญ่ทั้งหมด 7 ตัว ที่เรียกว่า "Base units" ประกอบไปด้วย metre(m), kilogram(kg), second(s), ampere(A), kelvin(K), mole(mol) และ candela(cd)
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1XT2rvU98xvzfLwO6g6kUjYlNSlsAFlRG" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=11T9ChJnZIaUk5X8v66oEJdrvkDuMJEVo" column=1 %}
 
 ซึ่งแน่นอนว่า "kg" ก็เป็นพี่ใหญ่กับเขาด้วยเหมือนกัน
 
@@ -34,7 +34,7 @@ color: rgb(247 214 56)
 
 ท้ายที่สุดแล้วในปี 1799 นิยามของ 1 kg ได้ถูกเปลี่ยนไปเป็น **แท่ง Platinum–Rridium** ที่ถูกเก็บรักษาไว้อย่างดีในสูญญากาศ ที่ประเทศฝรั่งเศษ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1zCDmOF2T93A7BaZqM0gILkbgK4pMEy49" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=13ljr_qmgqct87n86uWqcdshTLZwEHZ2k" column=1 %}
 
 ซึ่งเราเรียกแท่งเหล็ก 1 kg นี้ว่า **"Kilogramme des Archives"** หรือ **International Prototype of the Kilogram(IPK)** และมีชื่อเล่นว่า "Big K"
 
@@ -54,7 +54,7 @@ color: rgb(247 214 56)
 
 กล่าวคือหลักจากที่นำเหล่า Sister copies มาวัดเทียบกับ Big K อีกครั้ง นักวิจัยพบว่า น้ำหนักมันไม่เหมือนเดิม มีบางชิ้นต่างจากเดิมถึง 6.6 µg หรือ ประมาณ 1 เม็ดข้าวสาร
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1NZk8Qf3LU9EoimwofRdvbUEcbvP2Y-3d" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1cd7kpuIy5GvKDK2zbXhC77ROY2L_cAOT" column=1 %}
 
 แต่เราไม่มีทางรู้ได้เลยว่า ใครเป็นคนเปลี่ยนไป เพราะเราฝากการนิยาม 1 kg ไว้กับ Big K ดังนั้นอาจจะเป็นไปได้ว่า Big K มีมวลลดลง หรือ Sister copies อื่นๆมีการปนเปื้อน
 
@@ -108,7 +108,7 @@ color: rgb(247 214 56)
 
 ## Kibble Balance
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1rRNUkxZMJxa-0PumyuH6TLE2NoB0ahy3" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1nn2U2aqY9Z_JdOgUhA01tAgrRKqksKsm" column=1 %}
 
 Kibble Balance หรือ Watt balance คือ การวัดน้ำหนักโดยใช้แรงแม่เหล็กไฟฟ้า โดยมีหลักการทำงานแบ่งเป็น 2 โหมด คือ
 
@@ -124,7 +124,7 @@ $$ V = BLv $$
 
 $$ m = \frac{VI}{gv} = \frac{V^2}{gvR} $$
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1UlspLQdnGmn4pQk9yBBCKB_ymN3fDBhe" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1eSThftXOeFGSumnZCgPWuHu1fwiEMbQh" column=1 %}
 
 ท้ายที่สุด คือวัดค่าทั้งหมดอย่างแม่นยำ โดย
 
@@ -136,7 +136,7 @@ g และ v สามารถวัดได้โดยตรงจากเ
 
 ## Avogadro project
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1UdLG5ovS23Fg2RmEflHkgrH0czzozK4y" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1fGfN2fkr-P8GRYy_4jwz7Y0Hy5DVSeTm" column=1 %}
 
 อีกหนึ่งการทดลอง แต่คราวนี้มาจากความสัมพันธ์ง่ายๆ อย่าง
 

@@ -22,6 +22,7 @@ for path, subdirs, files in os.walk(root):
         p = os.path.join(newpath, name)
         fout = open(p, "w", encoding="utf-8")
 
+        print(os.path.join(path, name))
         with open(os.path.join(path, name), encoding="utf-8") as fin:
             for line in fin:
 

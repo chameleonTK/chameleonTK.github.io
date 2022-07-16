@@ -15,17 +15,17 @@ color: rgb(234 67 53)
 
 ------------
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1XZUVU_WS7tk5_SqK2qQtf-IhIUEeXiRH" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1SoY_Eh_LR_HxoVW_owZZn5Tj7jTkJCj5" column=1 %}
 
 ฃ่วงเวลานี้ใครๆก็พูดถึง อนิเมชั่นจากแดนญี่ปุ่นที่ทำรายได้ถล่มทลาย Box office ที่ญี่ปุ่นมาหลายสัปดาห์ ก็มาถึงคราวที่ได้เข้ามาฉายในไทยบ้าง ความจริงหนังเรื่องนี้มีเกือบจะไม่ได้เข้าฉายในไทยเหมือนกัน แต่ด้วยอำนาจที่ทรงพลัง ในที่สุดก็เข้าฉายจนได้ เย้
 
 หนังที่ /me พูดถึงนี้ก็คือ เรื่อง Kimi no Na wa (君の名は) หรือ Your Name ซึ่งเป็นผลงานกำกับของ Makoto Shinkai ซึ่งได้ฝากผลงานชื่อดังไว้ในปี 2007 อย่างเรื่อง 5 Centimeters Per Second ที่ละเมียดละไมทั้งงานภาพและเพลงประกอบ พา /me อินไปกับเพลง One more time One more chance มากๆ ถึงแม้ว่าจะไม่เข้าใจเนื้อหาของเพลง แต่ก็ทำให้ /me เสียน้ำตา
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1YPIqvITU7QhxSWsJ7kxxYs6JcKoPmmaA" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Dc3wRFh4QB231AaKVEZ6_vrgQps56srV" column=1 %}
 
 มาคราวนี้ Kimi no Na wa เป็นเนื้อเรื่องของคู่วัยรุ่นชายหญิง มิซึฮะ(Mitsuha) กับ ทาเคอิ(Taki) ซึ่งอยู่ดีๆก็พบว่าหลังจากพวกเขาหลับ พวกเขาจะสลับร่างกัน จบ! สำหรับใครที่ดู Trailer ก็คงจะได้เนื้อหาคร่าวๆเท่านี้ ซึ่งเนื้อหาต่อจากนี้ คือความสัมพันธ์ที่แปลกๆ และซับซ้อน ที่ทำให้ทั้งสองได้เจอกับปรากฏการณ์ที่พิเศษ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ieWhOl8YXZOU3TXVpdlgOikiE2S3uPG5" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=14bFziZKdUSGevm6WYkZrxi35ngLz1f6o" column=1 %}
 
 
 <div style="background: rgba(255, 48, 48, 0.74); padding: 10px; border-radius: 10px; margin-bottom: 10px; color: #fff;">เนื้อหาต่อไปนี้ อาจจะมีบางส่วนเป็น SPOIL</div>
@@ -36,7 +36,7 @@ color: rgb(234 67 53)
 
 และ ยังเพิ่มความรสชาติให้กับหนัง ด้วยการเล่าเรื่องที่ไม่ได้เล่าเป็นเส้นตรงแบบที่หนังสลับร่างทั่วไปทำ แต่กลับเล่าสลับไปมาๆ อดีตบ้าง อนาคตบ้าง ไปมาๆ /me ต้องแหกตา(ด้วยสายตาง่อยๆที่สั้นลงทุกทีๆ)เพ่งวันที่ในแต่ละฉาก หวังว่ามันจะมีพลาดบ้าง แต่น่าเสียดายที่พบว่า มองไม่ทัน 555+ ซึ่งการเล่าเรื่องนี้ ทำให้เราเห็นค่อยๆเข้าใจความคิดและความสัมพันธ์ของตัวละคร ได้อย่างแนบเนียบ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1LmDe_y8_G49IB0y0bj1p3SrvDRv4Vzg7" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1DVJeXe4TkCnkGRFCxl31SseYCmoRUhET" column=1 %}
 
 จริงๆ แล้ว /me คิดว่า Makoto Shinkai ไม่ได้ตั้งใจกำกับเฉพาะหนังที่เราดูเท่านั้น แต่เขาพยายามที่จะกำกับอารมณ์ของคนดูไปพร้อมกัน โดยการแบ่งหนังยาว 106 นาที เป็นหลายองค์
 
@@ -46,7 +46,7 @@ color: rgb(234 67 53)
 
 แล้วก็พลิกกลับมาดราม่า อีกครั้งในองค์ที่ 3 ที่ทุกตัวละคร พบคำตอบของตัวเอง ทั้งคำตอบในเชิงความรัก และคำตอบของปัญหาที่เจอแล้วพยายามเพื่อแก้ไข ซึ่งแทรกแง่มุมต่างๆ ทั้งในเชิงวิทยาศาสตร์และความเชื่อมาได้อย่างดี
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1rcd8oukRaGeyA0YUIDzXwqDpBTzKvZqE" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1tCOEcIpgjUAqy43FI1GSqwgyGdq_GjKc" column=1 %}
 
 องค์ประกอบที่แบ่งมาเป็นอย่างดีนี้ทำให้เรื่องราวที่ค่อนข้างซีเรียส กลายมาเป็นอาหารที่ย่อยง่ายและเหมาะสำหรับทุกๆคน นอกจากเนื้อเรื่องแล้ว Your Name ยังมีองค์ประกอบอันเป็นเอกลักษณ์ของคุณ Makoto Shinkai ที่โดดเด่นมาตั้งแต่เรื่อง 5 Centimeters Per Second แล้ว ซึ่งก็คือ งานภาพและงานเสียง ที่บอกได้เลยว่าต้องบรรจงมากๆในการทำมันขึ้นมา ไม่ว่าจะเป็นภาพในฉากสำคัญๆของเรื่องอย่าง ตอนตาวหางตก ก็ออกมาสวยและอลังการณ์ หรือ เป็นฉากเล็กๆ อย่างฉากที่พระเอกและนางเอกเจอกัน ก็ยังมีรายละเอียดที่งดงาม //แอบได้ยินเสียงกระดิ่งแทรกขึ้นมา
 

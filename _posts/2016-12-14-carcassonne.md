@@ -13,7 +13,7 @@ color: rgb(19, 196, 165)
 เกมส์นึงที่ /me ประทับใจสุดๆ ระหว่างที่ไปเที่ยวในช่วงที่ผ่านมา 10-12/10/2016  ชื่อว่า Carcassonne ซึ่งจะให้ผู้เล่นต่อชิ้นๆต่างของเมืองเพื่อให้ได้แต้ม ใครได้แต้มมากที่สุดก็จะชนะไป /me ชนะด้วยแหละ
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=17-CTnnDcWQ9u_nNyEiQeiwH9-tLCmhgQ" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1sfwKFFgEGDoJfSDo8xPXv0RUZUFQ_Gct" column=1 %}
 
 ช่วงธันวา ถือเป็นสวรรค์ในใจของพนักงานหลายๆคนเลยทีเดียว เพราะมันมีวันหยุดเยอะมากๆ ฮูเล่!!
 
@@ -23,10 +23,10 @@ color: rgb(19, 196, 165)
 แต่สิ่งที่น่าประทับใจสุดๆ ก็คือ ไอ้เจ้าบอร์ดเกมส์ที่เอามาเล่นกันหนิแหละ ไม่น่าเชื่อว่า มันจะสนุกขนาดนี้แฮะ เล่นเอาติดงอมแงมตามๆกัน แถม /me ยังพึ่งรู้อีกว่า โลกของบอร์ดเกมส์มันมีเยอะกว่าที่คิดแฮะ ปีๆนึงมีเกมส์ใหม่ๆเป็น 100+ เกมส์ <span class="tag-en">#ฉันตามไม่ทันแล้วพี่บัวลอย</span>
 
 แต่เกมส์นึงที่ /me ประทับใจสุดๆ ก็ต้องยกให้ เกมส์ที่ชื่อว่า Carcassonne หนิแหละ
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ic0gNNs3ESEWFKRNd8QrXm72Aqtxt2gP" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1qMUse6tepuOhWS_WVuyx4Tf1rLyKemxY" column=1 %}
 
 เดิมทีชื่อ Carcassonne นี้เป็นชื่อเมืองป้อมปราการที่อยู่ทางตอนใต้ของฝรั่งเศส แถมยังถูกยกให้เป็น **มรดกโลก** อีกด้วย และเป็นต้นแบบทำให้ Klaus-Jürgen Wrede ออกแบบเกมส์นี้ขึ้นมา
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1tLuRjrVoFC0Ko5lekq2wmc15ocRI5Xgv" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1dzPykq5b0mT7TJKNRWKN-yuxvza-fkV6" column=1 %}
 
 เกมส์ Carcassonne นี้เป็นเกมส์กระดานที่จะมีแผ่นกระดาษเป็นชิ้นๆต่างของเมืองให้ผู้เล่นแข่งกันต่อเมืองเพื่อให้ได้แต้ม ใครได้แต้มมากที่สุดก็จะชนะไป แต่มันก็มีกติกาเล็กๆน้อยๆอีกนะ ซึ่งทำให้มันสนุกมากๆ เกมส์หนึ่งเลย ถึงจะเป็นเกมส์ที่ออกมาตั้งแต่ปี 2000 [ปัจจุบันปี 2016 == เกมส์นี้อายุ 16 ปีแล้ว] แต่ก็ยังมีคนพูดถึงอยู่ ถึงกับมีการแข่งขันระดับโลก "International Carcassonne tournaments" ที่จัดขึ้นที่เยอรมันในทุกๆปี
 
@@ -35,17 +35,17 @@ color: rgb(19, 196, 165)
 แต่ยังเอิญว่าในทริปนี้ อุปกรณ์ที่เล่นดันเป็นของเก๊ ปริ้นเอง เล่นเอง /me ขออภัย แต่สำหรับของแท้แล้ว มันควรจะมีอุปกรณ์ดังนี้
 * **Tile หรือ แผ่นเมือง** ซึ่งในทุกๆเทิร์น เราจะเริ่มต้นด้วยการหยิบ Tile ขึ้นมา 1 ชิ้นแล้วทำ Tile ชิ้นนั้นมาต่อกับแผ่นอื่นๆให้เป็นแผนที่ผืนใหญ่ โดยมีข้อกำหนดว่าต้องต่อให้เมืองต้องต่อกับเมือง หญ้าต่อกับหญ้า ถนนต่อกับถนน ห้ามมี confilct เกิดขึ้น ถ้าไม่มีพื้นที่ตรงไหนต่อกันได้จริงๆก็ให้หยิบแผ่นใหม่
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1r0vzD8ZwuqqtNCZJLhoavwPahTEnDjZf" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1p9UizakycpSy9h_5Ucaz0JYXzOyRFuEl" column=1 %}
 
 * **Meeple หรือ ตัวละคร** เป็นหมากที่ใช้จับจองพื้นที่ เมื่อเราวาง Tile แล้ว เราจะสามารถเลือกจับจองสิทธิของพื้นที่ได้ โดยอาจจะเลือกเมือง หญ้า หรือ ถนนก็ได้ แต่จองได้แค่ 1 สิทธิเท่านั้น แต่ไม่สามารถจองพื้นที่ที่มีคนอื่นจองอยู่แล้ว แต่ไอ้หมากตัวละครนี้ แต่ละคนจะมีเพียง 7 ตัวเท่านั้น ถ้าหมดแล้วก็ไม่สามารถจองพื้นที่ได้อีกเลย เว้นก็แต่จะสามารถล้อม พื้นที่ที่เราจองไว้จนสามารถขึ้น score ได้ซึ่งจะทำให้เราได้ meeple ของพื้นที่นั้นกลับคืนมา!
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1cUA3F7lqiMs-x0FOY3TgYg8EsdKei4my" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1x9KeTjrZwJvbGQiST5BzKB5KDhUAMKGM" column=1 %}
 
 แต่นอกจากนี้ ยังมีกติกาว่า ถ้าพื้นที่ที่ 2 คนจองบังเอิญมันเกิดมาเชื่อมต่อกัน ทั้ง 2 คนนั้นก็จะได้คะแนนเท่าๆกัน แต่ถ้ามีคนใดคนหนึ่งดันสามารถวาง meeple มากกว่า คะแนนทั้งหมดก็จะให้แค่คนที่มี meeple มากกว่าแค่คนเดียว //กติกาของพวกทรชน
 
 * และชิ้นสุดท้าย คือ **Score board หรือ กระดานสกอร์**
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1nGX8NaVM4y7Csh4MOafoTFmMJHaMimF7" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1D7JpvzhYURaZw2NQtWdm0SZzK67ojf-s" column=1 %}
 
 เป็นกระดานเพื่อแสดงแต้มของแต่ละคน ระหว่างที่เล่นอยู่ใครก็ตามที่สามารถล้อมเมืองจนกลายเป็นเมืองปิด หรือ ต่อถนนจนเป็นถนนปิด ได้ก็จะได้คะแนนไปครอบครอง
 
@@ -64,7 +64,7 @@ color: rgb(19, 196, 165)
 
 //แผนที่ที่ /me และผองเพื่อนเล่น /me ชนะด้วยนะเออ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mrY63tbpXjMTUizywnh3RpA5I6fe4_Iw" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1XtrD3G-ibPt6Bb71QuQTj4PnGtnCE7Uh" column=1 %}
 
 # วิจารณ์
 

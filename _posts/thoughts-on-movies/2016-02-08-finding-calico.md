@@ -14,11 +14,11 @@ color: rgb(234 67 53)
 <!--more-->
 
 ----------------
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1pFy0LeRWmlVf6DbsJL-nEuTBR0x76q2f" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1gVhCU0ON4oDoDPro7kg_wChyZUwYZRTH" column=1 %}
 
 <span class="tag-en">#me</span> พึ่งได้ว่างไปดู Finding Calico เมื่อวันเสาร์ที่ผ่านมา [06-02-2016] แถมยังเป็นครั้งแรกที่ไปดูที่โรงหนังลิโด้ด้วย ประทับใจฟุดๆ สำหรับเรื่องนี้เป็นเรื่องที่ตั้งหน้าตั้งตารอมาตลอดตั้งแต่รู้ข่าว ดูแล้วก็ไม่ได้ผิดหวัง น่ารัก :))
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=14F6o7KPhpWzeIJB1dPFtkcPD1gyW5vRL" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1P_5qtU5uj1qEQxkAsXdx7GdHGlQPzAdA" column=1 %}
 
 ปล. มีหนังแมวญี่ปุ่นอีกเรื่องที่กำลังเข้าโรง เหมือนกัน "Sekai kara Neko ga Kieta nara (ถ้าหากว่าแมวหายไปจากโลกนี้)" <span class="tag-en"><span class="tag-en">#ฉันรอพี่ที่ท่าน้ำทุกวันเลยนะ</span></span>
 
@@ -31,7 +31,7 @@ Finding Calico เป็นผลงานกำกับของ Yoshihiro Fuk
 
 # แมวจร
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1xXvfnMagwXHC91km4Yg53hQTjfIg3OCt" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1VWC1kYDj9Zs8QwFF6fT9pfcS0TQk6LPh" column=1 %}
 
 แมวจรซึ่งเป็นจุดเริ่มต้นของเรื่อง แสดงโดยเจ้าสามสีชื่อ Drop [เป็นแมวชาวนา แต่ได้แสดงเป็นพระเอกหนัง //อิจ] เป็นแมวจรที่เดินทางไปทั่วเมือง แต่ละคนที่พบเห็นก็จะให้อาหาร <span class="tag-en"><span class="tag-en">#เมิงแรดไปทั่ว</span></span> แต่ละบ้านก็จะเรียกต่างกันไป ไม่ว่าจะ มี้, โซระ, ทามาโกะ, ฮิจิโร่ มีคนใจดีเยอะแยะมาให้อาหาร แต่ไม่รับไปเลี้ยงดู ด้วยเหตุผลว่า “ไม่พร้อมที่จะดูแล” ก็มันน่ารักน่าเอ็นดู แต่ไม่อยากผูกพันธ์ [ขอให้พวกเมิง โดนอกหักบ่อยๆ] จนบางครั้งก็กลายเป็นปัญหาสังคม บางทีอาจจะบอกได้ว่า คนที่เลี้ยงแมวจร ก็แค่ คนเห็นแก่ตัวกลุ่มนึงเท่านั้นเอง
 
@@ -40,7 +40,7 @@ Finding Calico เป็นผลงานกำกับของ Yoshihiro Fuk
 
 # ความหมายของการดูแล
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1evGas_lIz5_K8JJJkSk6HeBFJhK5ohqr" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1fAzK1TE_siuhzkNPozUUo0bBbsupega2" column=1 %}
 
 จุดสำคัญของเรื่อง คือ การเดินทางของคุณครูใหญ่ที่ทำให้ได้เห็นความหมายของการมีสัตว์เลี้ยงมากขึ้น ถึงแม้ว่า มี้ จะเป็นแค่แมวจร แต่บทหนังก็แสดงให้เห็นว่า มันเป็นสมบัติชิ้นสำคัญของหลายๆคนในเรื่อง ทั่วไปจะเห็นว่า แค่การให้อาหารแมวตัวเดียว ถ้ามองธรรมดาๆ เราแทบจะไม่ได้ประโยชน์อะไรจากมันเลย [จับหนู จับแมงสาบนะเหรอ นังแมวที่บ้านให้แมงสาบผ่านหน้ามันยังไม่แคร์เลย] แต่หนังได้พาเราไปเจอหลายๆคนที่ได้อะไรมากกว่านั้น // เป็นเครื่องเตือนความทรงจำดีๆ // เป็นสิ่งที่สร้างรอยยิ้ม // ของเล่นให้เด็กๆ // เครื่องบำบัดจิตเคลื่อนที่ // คลายความเหงาให้คนแก่ <span class="tag-en"><span class="tag-en">#อินมาก</span></span>
 

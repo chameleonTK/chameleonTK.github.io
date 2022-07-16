@@ -95,7 +95,7 @@ const RIGHT = p=>p(x=>y=>y)
 
 สำหรับการสร้าง List ด้วย pair นั้น เราสามารถสร้างได้หลากหลายรูปแบบ และรูปแบบที่ง่ายที่สุด ก็คือ "linked list" โดยการสร้างแต่ละ PAIR เก็บ value และอีกด้านชี้ไปยัง PAIR คู่ถัดๆไป ตามรูป
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1WElpkXuqNLwuY4hmY8GGJf_65qEq5bMX" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1HiUR16aO8Mk6x5opT59NlltVjPWAPDp1" column=1 %}
 
 //ตัวอย่าง linked list และแถมตัวอย่างสำหรับคนที่อยากจะสร้าง tree
 

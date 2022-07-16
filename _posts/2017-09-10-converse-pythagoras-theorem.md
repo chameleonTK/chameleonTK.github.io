@@ -13,7 +13,7 @@ color: rgb(19, 196, 165)
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Xp__jLRtySKzATFrkZxb6bp7-MGc5ofd" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mMCZZ524tULC3shLpH4bNWLS6OImNLzo" column=1 %}
 
 ถ้าพูดถึง Pythagoras' theorem หรือ ทฤษฎีบทสามเหลี่ยมอันโด่งดัง ก็คงจะไม่ยากที่จะทำให้นึกถึงสมการนี้
 
@@ -70,7 +70,7 @@ $$ a^{2}+b^{2} = c^{2}$$
 
 เริ่มต้นจากการสร้างสามเหลี่ยม ABC เป็นสามเหลี่ยมมุมป้าน จากนั้นลากเส้นตั้งฉาก และกำหนดความยาวแต่ละด้าน ตามรูป
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1HXF2XkBoOmd-HHVStc3-nFUbKN6CK6LD" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1liIbnLy_Go2Fm3y1al721zF3lzmym4kb" column=1 %}
 
 จากนั้นใช้ (3) ซึ่งเป็น Pythagoras' theorem จะได้ว่า
 
@@ -94,7 +94,7 @@ $$
 
 กลับที่ดูทางด้านสามเหลี่ยมมุมป้านมุมแหลมบ้าง เริ่มต้นเช่นเดียวกัน ตามรูป
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Vsdt40tlplC1X6P1HnTgLxyT8ev9t-cK" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1laXguUor84Ra_TETYtLnGZePbZLJQ2lU" column=1 %}
 
 จากนั้นใช้ (3) ซึ่งเป็น Pythagoras' theorem จะได้ว่า
 

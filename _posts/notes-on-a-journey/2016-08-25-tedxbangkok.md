@@ -12,7 +12,7 @@ color: rgb(19, 196, 165)
 <span class="tag-en">#TEDxBangkok</span> ไปแล้วได้อะไร? กิจกรรมที่ให้คนที่มีความคิดที่แตกต่างออกไปพูดๆ เพื่อทำให้เกิดการ Learn, Unlearn, Relearn
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1iVzpCPeP4pjdWnqbz05RgRdHvtDy8yAO" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1yxmRlE7TmRQlm6qjAVms2yqefMkS5tvB" column=1 %}
 
 ในวันเสาร์ที่ผ่านมา 22-08-2559 /me โชคดีได้รับโอกาศไปฟัง talk ในงาน <span class="tag-en">#TEDxBangkok</span> ครั้งที่ 2 ซึ่งปีนี้จัดที่ Siam Square One เป็นอีเว้นที่ประทับใจที่สุดในปีนี้เลย
 
@@ -37,7 +37,7 @@ TED Talks ย่อมาจากคำ 3 คำ คือ Technology, Entertai
 
 แต่ในส่วนของ TEDx เป็นงานระดับท้องถิ่นที่จัดขึ้นอย่างอิสระด้วยตัวเอง โดยเริ่มมีในไทยในช่วย 2-3 ปีที่ผ่านมา ตอนนี้เกิด TEDx อยู่หลายๆที่ ไม่ว่าจะ TEDxThammasatU, T­E­Dx­Chiang­Mai และ กำลังจะมี คือ T­E­Dx­Chulalongkorn­U, T­E­Dx­K­M­U­T­T
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Ac9o0GpRVO78GAhtAk1BKPsaBnI0AQ5I" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1UpsNOYGPLE2LGqLxwvzOkHfWSjcSmUoc" column=1 %}
 
 # TEDxBangkok เป็นยังไงบ้าง?
 
@@ -47,7 +47,7 @@ TED Talks ย่อมาจากคำ 3 คำ คือ Technology, Entertai
 
 นอกจากนี้แล้ว ในงานนี้ยังมีการเปิดโต๊ะให้คนที่มาร่วมงานได้คุยกันผ่านกิจกรรมต่างๆ เช่น กิจกรรมพากษ์เสียง กิจกรรมอุโมงค์กาลเวลา {ตอบคำถามและอ่านคำตอบจากมุมมองคนอายุมากกว่า 30 และ น้อยกว่า 30} แต่ที่ชอบมากที่สุด คือ กิจกรรม GIFT FOT GIVE ซึ่งเป็นกิจกรรมที่ให้เราเขียนสิ่งที่เราอยากให้ 1 อย่างกับคนอื่น มาแลกเปลี่ยนกัน ซึ่งทำให้ /me ได้เข้าไปคุยกับคนนู้นนี้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1O6yPi1lCYgeZxqSVWLcz1pKcd5TR85mr" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1v4iz17fWYrIDmzWcZJnxIhyd1F8MEjO-" column=1 %}
 
 
 หลังจากคุยกับคนอื่นเพลินๆ ก็มาถึงเวลาที่ทุกคนรอคอย...
@@ -58,7 +58,7 @@ TED Talks ย่อมาจากคำ 3 คำ คือ Technology, Entertai
 
 คนแรกที่จะพูดถึง คือ คุณหมอตั้ม และคุณหมอก้อย เจ้าของเพจ "เลี้ยงลูกให้เป็นคนปกติ" //พึ่งเคยได้ยินชื่อเพจนี้ในงานนี้แหละ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1B9a4Tw3Jd1C5x6rUMcSDfHlVKCK9IKWi" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Elli1WPm_CIybbFIyKpuoWy7gfScgcw3" column=1 %}
 
 
 คุณหมอทั้ง 2 เป็นจิตแพทย์เด็ก มาพูดเกี่ยวกับ "หลักการเลี้ยงลูก" ฟังครั้งแรกแล้วก็นึกว่า มันเป็นเรื่องไกลตัวมากๆ แต่สมการแรกที่คุณหมอทั้ง 2 ตั้งขึ้นมา "เก่ง + ดี = มีความสุข?" ทำให้เกิดความสงสัยตามมาเหมือนกัน สิ่งที่เราทำอยู่ในตอนนี้ ทำให้เรามีความสุขแล้ว?
@@ -76,7 +76,7 @@ TED Talks ย่อมาจากคำ 3 คำ คือ Technology, Entertai
 
 คนต่อมาที่ประทับใจ คือ การแสดงแรก ซึ่งเป็นการแสดงดนตรีของชาวปกาเกอะญอ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1OC3E36T7GJ9f7tyPjBsxtgZckYy7qAh5" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1x64pcxaTml_WXMtQg7pthKBwVLqFqhF4" column=1 %}
 
 
 มีความเพราะและความฟิน หลังจากการแสดงจบ อาจารย์ชิ เล่าให้ฟังว่า "ปกาเกอะญอ" แปลว่า "มนุษย์" หมายถึงความเป็นมนุษย์ที่เท่าเทียมกัน แต่เขากลับถูกคนอื่นดูแคลน ทั้งๆที่พวกเขาก็คือคนเหมือนกัน หลายคนบอกว่าพวกเขา คือ คนที่ทำลายผืนป่า ทำลายแหล่งน้ำ ทำลายข้าว แต่กลับไม่รู้ว่า ชาวปกาเกอะญอถือความเชื่อและปฏิบัติตามความคิดที่ว่า "ถ้าอยากกินปลา ต้องดูแลแม่น้ำ อยากปลูกข้าว ต้องดูแลดิน อยากมีน้ำ ต้องดูแลป่า"
@@ -99,7 +99,7 @@ In the end...I see no borders at all. All that will remain is the land, the rive
 
 น้าต๋อย เซมเบ้ นักพากษ์การ์ตูนชื่อดัง อย่าง อาราเล่, ดราก้อนบอล, ไอ้มดแดง? บลาๆ ถือเป็นเสียงที่ทุกคนวัย 20-30 น่าจะคุ้นเคยกันทุกคน <span class="tag-en">#กรี๊ดลั่นฮอลล์</span>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=16nR97oaTU4DuUvfFsfIe9AmsY0Ym5AbT" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=12xfr6RSQfn47-w316nD_1TsD0qbc11D_" column=1 %}
 
 
 น้าต๋อยเล่าการเดินทางในวงการการ์ตูน 30+ ปี ที่ผ่านมา ซึ่งมีทั้งง่ายและยากปนกันไป ซึ่งตลอดการเดินทางของน้าต๋อย มักจะเจอคำถามว่า "ดูการ์ตูนแล้วได้อะไร?" ซึ่งน้าต๋อยตอบว่า เราได้ความสนุกสนาน สร้างความสุข การ์ตูนสอนให้เด็กๆมีคุณธรรม ความรัก ความสามัคคี //เยอะ
@@ -114,7 +114,7 @@ In the end...I see no borders at all. All that will remain is the land, the rive
 
 พี่น้ำหวาน นักพัฒนาชุมชน? ที่เดินทางไปทั่วเพื่อพัฒนาหมู่บ้านตามชนบท พี่บอกว่า "เธอโชคดีที่เธอได้ใช้ชีวิตทั้ง 2 โลก คือ โลกเหลี่ยมๆของคนในเมือง และโลกกลมๆของชาวบ้านชนบท"
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=14DJJt1maw9bbwz_xbHAfXAZd9wTlIQVt" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1U9bkD0Jp_l3BqO0z9ghgEaTgiy112etU" column=1 %}
 
 
 พี่น้ำหวานเล่าว่า ในทั้ง 2 โลกต่างมีข้อดีของมัน โลกเหลี่ยมๆ มันเต็มไปด้วยสิ่งอำนวยความสะดวก กดปุ๊บติดปั๊บ เทคโนโลยีต่างๆมากมาย แต่กลับทำให้เราต้องเครียดกับเรื่องต่างๆที่มากมาย ผ่านไปมาอย่างรวดเร็วจนตามไม่ทัน แต่ในโลกกลมๆ ซึ่งเป็นโลกช้าๆที่ อยากจะกินอะไรก็ต้องปลูกเอาเอง ถึงไม่สบาย แต่ทุกคนก็ยิ้มแย้ม กินอิ่ม นอนหลับได้ ซึ่งโลกทั้งสองต่างต้องการกันและกันเพื่ออยู่รอด โลกเหลี่ยมๆต้องการผลผลิตจากโลกกลมๆ และโลกกลมๆก็ต้องการความรู้จากโลกเหลี่ยมๆเพื่อพัฒนาตัวเอง
@@ -130,7 +130,7 @@ In the end...I see no borders at all. All that will remain is the land, the rive
 
 (X)ป๋อมแป๋ม {ไม่รู้จะแทนด้วยสรรพนามอะไรดี ในเวปอื่นๆต่างเรียกว่า 'ยาย'} พิธีกร และเจ้าของรายการ 'เทยเที่ยวไทย' มาพูดในหัวข้อซีเรียสๆ เกี่ยวกับการแปะป้ายตัดสินคนอื่น ซึ่งชวนให้นึกถึงนิยายเรื่อง "คำพิพากษา" ของชาติ กอบจิต เลยทีเดียว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1xtKf__79S0MvcWkEOflURqGj8wTOYrn0" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1zzoXmdtVmF_SO98aNLYAvFb4Jfl8cb7-" column=1 %}
 
 
 พี่ป๋อมแป๋มถามคำถามข้อหนึ่งว่า "กะเทยต้องเป็นคนตลกและสร้างสรรค์สีสันเสมอไปหรือ? ความเข้าใจเหล่านี้ผิดมาจากไหน?" สิ่งเหล่านี้มักเกิดขึ้นจากกระบวนการที่เรียกว่า "Labelization" หรือ การแปะป้ายตัดสินคนอื่น ซึ่งการแปะป้ายในที่นี้หมายถึง การตัดสินคนอื่นตั้งแต่ก่อนที่เขากระทำ เมื่อเราแปะป้ายเขาไปแล้วว่า "แย่" ไม่ว่าสิ่งที่เขาจะทำมันดีหรือไม่? แต่สุดท้ายผลลัพย์ออกมาก็จะดูแย่อยู่ดี
@@ -143,12 +143,12 @@ In the end...I see no borders at all. All that will remain is the land, the rive
 
 ดร.สมเกียรติ ความจริงอาจารย์ท่านี้เป็น ผู้เชี่ยวชาญทางด้าน AI //ตาลุกวาว ท่านเริ่มต้นด้วยเรื่องเกี่ยวกับ Technology ซึ่งนับวันก็ค่อยๆเปลี่ยนแปลงวิถีชีวิตของเรา โดยเฉพาะเทคโนโลยีทางด้าน AI แต่ทั้งนี้ เทคโนโลยีนี้ต้องการการพัฒนาใน 2 ด้าน คือ ด้านฮาร์ดแวร์ และ ซอฟแวร์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1RVULB1n00mxzT0OsAIF8iwGXfSHOZCz3" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=18XM6obKucOCYsmbr8XKBk58TbuxJDwIi" column=1 %}
 
 
 ในขณะที่หลายๆประเทศ ต่างทยอยเปิดเผยข้อมูลเพื่อพัฒนา แต่ประเทศไทยกลับเกิดนโยบายปิดกั้นข้อมูล //ตบมือรัวๆๆ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1CpDYk9C-r-m_iCx8eexBuaK1tFEPVfLL" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1U30kuyudES6HTMRN8wwXMV_RoPhORJmV" column=1 %}
 
 
 เทคโนโลยีใหม่ๆ อย่าง Grab และ Uber ถูกแบน, เกมส์ Pokemon Go ถูกตราหน้าว่าเป็นภัยสังคม?, ข้อมูลไทยไม่ฟรี คอมพิวเตอร์เข้าถึงไม่ได้ แล้วเราจะพัฒนาต่อไปกันได้ยังไง? สิ่งที่ประเทศไทยต้องการ คือ การเตรียมรับมือกับยุคดิจิทัล แทนที่จะสร้างกฎเกณฑ์เพื่อมาจำกัดการเข้าถึงข้อมูลของประชาชน แต่หากรัฐไม่สามารถทำได้ เราก็ควรที่จะเป็นผู้นำรัฐเพื่อเดินทางไปสู่สังคมดิจิตอลไปพร้อมๆกัน
@@ -174,7 +174,7 @@ In the end...I see no borders at all. All that will remain is the land, the rive
 
 เต๋อ นวพล ผู้กำกับหนังร้อยล้าน? ความจริง /me ก็พึ่งรู้จัก เต๋อ นวพล จากหนังเรื่อง Freelance ซึ่งชอบมากมาย โหลดบิทเก็บไว้ <span class="tag-en">#เดี๋ยวนะ</span> //ไม่มีรูปที่ดีกว่านี้แล้ว เพราะไฟส่องมารัวๆ มือถือกาก สู้แสงไฟเวทีไม่ได้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Yy6lF0NzsrtjTrdYYGj2DfeXmc3aRDxo" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1RJ5lfKvNG2SHlQdidK_9DINMD3kwxeF1" column=1 %}
 
 
 พี่เต๋อ ยกตัวอย่างให้ดูรูป 1 รูปที่มีแคปชั่นต่างกัน แค่นี้เราก็มีรู้สึกต่อรูปต่างกันแล้ว พี่เต๋อยังบอกอีกว่า จริงๆแล้วภาพนิ่ง มันคือสื่อที่โคตรอ่อนแอ และบอบบาง แค่มุมต่าง แคปชั่นต่าง เฟรมต่าง โทนสีต่าง แค่เปลี่ยนแปลงนิดๆหน่อยๆ ก็สื่อได้คนละแบบแล้ว เรายังสามารถเชื่อสิ่งที่เห็นตามสื่อได้จริงๆเหรอ?
@@ -190,7 +190,7 @@ In the end...I see no borders at all. All that will remain is the land, the rive
 และทฤษฏีหนึ่งที่อาจารย์เชนตั้งขึ้นมา คือ ถ้าเราไม่สามารถสั่งการแขนขาของเราได้ เพราะสมองส่งสัญญาผ่านสันหลังไม่ได้ ทำไมเราไม่ bypass สัญญาณตรงไปที่แขนขาโดยตรงเลยหละ?
 
 ตลอดหลายปีที่อาจารย์เชน ศึกษา แต่กลับไม่มีใครกล้าที่จะสนับสนุน หลายครั้งที่อาจารย์ผิดพลาดและท้อ แต่อาจารย์ได้ฟังคำพูดของคนพิการคนหนึ่งว่า "ถ้าไม่มีคนกล้าล้มเหลวเพื่อเขา ไม่มีคนบ้า ไม่มีคนที่กล้าเสี่ยงเพื่อเขา ก็ไม่รู้ว่าจะอยู่ต่อไปทำไม" นั้นจึงเป็นแรงให้อาจารย์เดินต่อ ซึ่งสิ่งที่ทำให้คนทั่งฮอลล์ตกใจ คือ อาจารย์เชนเล่าต่อว่า นอกจากวันนี้จะเป็นโอกาศที่ดีที่เขาได้มาพูดเรื่องราวของเขาแล้ว วันนี้ยังเป็นวันที่ คุณโชค(คนพิการตั้งแต่ลำตัวจนถึงขา)ได้กลับมามีโอกาสปั่นจักรยานอีกครั้ง เป็นครั้งแรกตั้งแต่พิการ
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1MOcxg1nxI2qgFvJKxM93buZC0zqfe2Xu" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1uV4mpmNzXgFvPaEmQigvFoo8mrCEdhBO" column=1 %}
 column=1 %}
 
 //ฮือฮาาา ลุกขึ้นตบมือรัวๆ

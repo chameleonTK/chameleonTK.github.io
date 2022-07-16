@@ -20,7 +20,7 @@ color: rgb(19, 196, 165)
 
 บทความหนึ่ง ซึ่งเป็นแรงบันดาลใจในการเขียนบทความนี้ คือ [Programming with Nothing](https://codon.com/programming-with-nothing) ของ [@tomstuart](http://twitter.com/tomstuart) ซึ่งเล่าว่า จริงๆแล้ว แค่เพียงภาษาโปรแกรมนั้นสามารถสร้าง function ได้ ก็เพียงพอที่จะสามารถแก้ไขทุกๆปัญหาที่แก้ได้ด้วย Computer ดังนั้นการแก้ปัญหาด้วย functions ก็เป็นอีกหนึ่งวิธีที่น่าสนใจ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1-28JNRAoXbHeXxYLyko0zNVcmFl6_CvC" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1rU59-3vStf17MBQfSB4koCwn3KOjkL5u" column=1 %}
 
 /me อยากลองเขียนโค้ดโดยใช้แค่ฟังก์ชั่นขึ้นมาจริงๆด้วยภาษา javascript [ต้นฉบับเขาเขียนด้วย Ruby ฮะ] โดยในบทความนี้อาจจะมีเนื้อหาหลายส่วนไม่เหมือนกับต้นฉบับ มีการลดทอนและเพิ่มเติมส่วนที่ /me สนใจ แต่ยังคงใช้รูปแบบเหมือนกับที่ [@tomstuart](http://twitter.com/tomstuart) เสนอเอาไว้ คือ หลังจากนี้ไป เราจะลืมการใช้ Library, Modules, NPM, Classes, Objects หรือ แม้กระทั้ง Arrays, Strings, Numbers และ Booleans
 
@@ -55,7 +55,7 @@ def isPrime(p):
 
 ### Function is Black box.
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=14g6cNp8OpCT_yPKSGe6OSyt1Bg5RnYXZ" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=17hov9k-ww2r96UN4YfP_hCSavsT3p8oL" column=1 %}
 
 
 นิยามง่ายๆของคำว่า ฟังค์ชั่น คงหนีไม่พ้นคำว่า "กล่องดำที่เราไม่จำเป็นต้องรู้กระบวนการภายในกล่อง" การสร้างฟังก์ชั่น ก็คือ การสร้างกล่องเครื่องมืออันหนึ่งซึ่งรับ input เข้าไปผ่านกระบวนการอะไรสักอย่างที่เราไม่จำเป็นต้องรู้ แล้วสามารถพ่น output ออกมาได้ สมมติ

@@ -19,7 +19,9 @@ Btw, thank to [Type on Strap](https://github.com/sylhare/Type-on-Strap) for this
     * check `tags`, `color` and `thumbnail`
 
 * After it works ok locally then please upload all images to the google drive 
-* run `_migrate/list_folders.py` and `_migrate/list_images.py` to generate `imgs.csv`
+* run `_migrate/list_folders.py` 
+* copy new content from `_img_folders.csv`to `img_folders.csv`
+* run `_migrate/list_images.py` to generate `imgs.csv`
 * then copy the new post to `_posts_local`
 * then run `_migrate/convert_local_posts_to_posts.py` to generate posts in `_posts`
 
@@ -29,6 +31,14 @@ Btw, thank to [Type on Strap](https://github.com/sylhare/Type-on-Strap) for this
 ```
 bundle exec jekyll serve
 ```
+
+
+## Create Google Credential
+1. Open the [Google Cloud console](https://console.cloud.google.com/).
+2. At the top-left, click Menu menu > APIs & Services > Credentials.
+3. Click Create Credentials > OAuth client ID.
+4. Click Application type > Desktop application.
+5. Enable Google Drive API
 
 
 

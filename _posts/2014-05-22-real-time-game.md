@@ -213,7 +213,7 @@ function onNewPlayer(data) {
 
 
 <div style="text-align: center;border: 1px solid #c7c7c7;margin-bottom: 20px;">
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1HDzZTdkDzENPQNB1JQMBPLEtev1T1sMA" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Vr-T42wGPVCEYcp4rVzQbEyEKXpLj2Q3" column=1 %}
 </div>
 
 ก่อนจะเริ่ม Implement จะมาแนะนำไฟล์ต่างๆให้รู้จักกันก่อน
@@ -503,7 +503,7 @@ function onMovePlayer(data) {
  
 ```
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1FHwGJ6hQ79j4QGHBUwLBng0ZXwHWdXTY" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1kp7Ees62FoGJZhlqPfn4oAyasR13uoTb" column=1 %}
 
 
 [ดูโค้ดฉบับเต็ม](https://github.com/robhawkes/mozilla-festival)

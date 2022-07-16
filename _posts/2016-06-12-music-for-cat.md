@@ -13,7 +13,7 @@ color: rgb(19, 196, 165)
 คนชอบฟังเพลง แล้วทำไมแมวจะไม่ชอบฟังเพลง? เรื่องนี้กลายเป็นประเด็นที่น่าสนใจจน Mr. David Teie ตั้งใจทำเพลงขึ้นเพื่อแมวโดยเฉพาะ
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1IEjhQ2PTImArbnFrC-IVfYS_us-JyIJt" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1UjABL-1RLAERCVY2g6MfXwPpr2fCENIG" column=1 %}
 
 แรกเริ่มเดิมที แล้ว กะจะเขียนเรื่องเกี่ยวกับเสียงร้องของแมว จะเล่าลอยๆก็คงไม่ได้เลยถือโอกาสศึกษาไปด้วยในตัว จนเจอข่าว ["Kickstarter: Cellist Raises $200K to Create Music for Cats"](http://www.catster.com/the-scoop/kickstarter-cellist-raises-200k-to-create-music-for-cats) [เว็บไซต์ Kickstarters: โปรเจคระดมทุน 200K เพื่อสร้างเพลงสำหรับแมว] เป็นอะไรที่น่าตื่นเต้นมาก <span class="tag-en">#ตื่นเต้นอยู่คนเดียวรึปล่าว</span>?
 
@@ -23,7 +23,7 @@ color: rgb(19, 196, 165)
 
 ซึ่งการระดมทุนครั้งนี้ ตั้งขึ้นโดย David Teie ซึ่งถือเป็นครั้งแรกที่มนุษย์แต่เพลงเพื่อสัตว์โดยมีการรับรองทางวิทยาศาสตร์ โดยตั้งอยู่บนฐานความคิดว่า **"ทุกๆสปีซี่สามารถรับรู้และตอบสนองต่อเสียงที่เกิดขึ้นรอบ โดยเฉพาะเฉพาะเสียงที่เกิดในช่วงแรกเกิด"** ด้วยสมมติฐานนี้ Teie จึงแต่งเพลง โดยใช้เสียงร้องแบบต่างๆของแมว และเสียงธรรมชาติ แล้วทำการปรับแต่งให้มันอยู่ในช่วงความถือเฉพาะสำหรับแมว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1PZbag0KdwEuo6pEccGcy6I7cZtR54Gjy" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1pER7S-BNvGzIxz2ZWacuqXwS_yqoyQWE" column=1 %}
 
 นอกจากแต่งเพลงแล้ว เขายังเขียนเอกสารทางวิชาการ ตีพิพม์ที่ Applied Animal Behavior ในหัวข้อ [Cats prefer species-appropriate music](http://www.appliedanimalbehaviour.com/article/S0168-1591%2815%2900060-X/abstract) ซึ่งเป็นการยืนยันว่า แมวให้ความสนใจต่อเพลงที่เป็นเสียงแมวเหล่านี้มากกว่าเพลงที่เกิดจากเสียงคน และยังพบว่า แมวเด็กและแมวแก่ จะให้ความสนใจกับเพลงมากกว่าแมววัยรุ่น <span class="tag-en">#พวกเอ็งต้องการเที่ยวกะแดร๊กมากกว่าฟังเพลงซินะ</span>
 

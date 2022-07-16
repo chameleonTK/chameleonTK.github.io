@@ -14,7 +14,7 @@ color: rgb(247 214 56)
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1y7jAvnMR8-FHwxIc0HSUvZ3PhMKgVth1" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1LNw-bdQ3rN0KD8aJMYXHoGU_VweBAWRR" column=1 %}
 
 วันอาทิตย์ที่แสนน่าเบื่อกลับมาอีกแล้ว ร่างการต้องการการพักผ่อน แต่มันเบื่อไปซะทุกเรื่อง เฮ้อออออออ~
 
@@ -29,7 +29,7 @@ color: rgb(247 214 56)
 
 Cake Cutting Problem หรือ ปัญหาการตัดเค้ก พูดถึงปัญหาง่ายๆในการแบ่งเค้กยังไงให้เท่าเทียมกัน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1peps7uy6r6p1OYPMYP6giqsY8VHRNR3m" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1D-WZoI_jRW-nMMjeQgG4c_AJMKHjdTP1" column=1 %}
 
 สิ่งที่น่าสนใจ คือ เจ้าปัญหาเป็นที่พูดถึงกันในหลายๆสาขา ไม่ว่าจะเป็น Mathematics, Computer science หรือแม้กระทั้ง Economics
 

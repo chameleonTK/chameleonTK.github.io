@@ -27,7 +27,7 @@ color: rgb(19, 196, 165)
 
 ยอมรับว่า พึ่งเคยได้ยินชื่อ Zedd เป็นครั้งแรก ก็เลยเริ่มค้นใน Google ทำให้รู้ว่า จริงๆแล้ว Zeddเป็น Dj ที่ดังมากๆคนนึงเลยทีเดียว แนวที่เขาเล่นจะเป็นแนว Electronic [ไม่ค่อยได้ฟังแนวนี้เท่าไร ก็เลยพึ่งรู้จักเนี๊ยะแหละ]
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1XvFeQkSHNbS_eOB1tU5jiZa7ZqlqdM1Q" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Rmia3nHZ-mx6hIn7l02o6HZ7arOt0c0t" column=1 %}
 
 เมื่อปีที่ผ่านมา(2015) Zedd พึ่งออกอัลบั้มใหม่ที่ชื่อว่า True Colors เข้าใจว่าเขาร้องแค่บางเพลง ส่วนใหญ่จะเล่นทำนอง ซึ่งเพลงนี้ร้องโดย Kesha เพราะ แถมเนื้อหาดี /me เปิดฟังไปแล้วกว่า 100+ รอบ
 

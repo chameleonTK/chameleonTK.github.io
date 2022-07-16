@@ -12,13 +12,13 @@ color: rgb(19, 196, 165)
 /me เป็น Developer ที่ทำนู้นทำนี้ บางครั้งก็ลองใช้ Ruby บ้าง Python บ้าง แต่สุดท้ายสิ่งที่ทำก็ไม่ได้เอามาให้คนอื่นใช้งาน เพราะไม่มี server สำหรับ deploy เลยถือโอกาสจิ้มๆ สร้าง VPS ใน Digital Ocean มาเป็น server ของตัวเองซะเลย
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=148lJ10LkliRBX3Soih4aMsgJPZqVnpHk" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1U9zeL_vPg56v0GhicvYjZ0XxAXqdp1uG" column=1 %}
 
 ห่างหายไปนาน จริงๆก็แอบว่างนะ แต่อากาศร้อนๆแบบนี้ ใครจะมานั่งเขียนบล๊อคยาวๆไหว ประเทศไทยตอนนี้ก็ 41 องศาไปเรียบร้อบแล้ว <span class="tag-en">#ฉันยังอยู่ประเทศไทยนะไม่ใช่ดวงอาทิตย์</span> แต่ด้วยความที่ Draft ไว้เพียบ เลยต้องมาค่อยๆเครียร์
 
 วันก่อนครับ <span class="tag-en">#ไม่เล่นมุกละ</span> ประมาณช่วงศุกร์ที่ผ่านมา [17/4/2015] อยู่ๆก็ตัดสินใจเช่า VPS มาเป็นของตัวเอง ส่วนเหตุผลก็คือ <span class="tag-en">#ตังค์เหลือ</span> <span class="tag-en">#หลอกๆ</span> ความจริงคือ เซงที่โฮสที่เช่าอยู่ ไม่ยอมอัพเดตอะไรให้เลย แต่ก็ไม่ใช่ความผิดของโฮสหรอกนะ เค้าไม่สามารถอัพเดตได้อยู่แล้ว เพราะมันต้องอัพเดตทั้งระบบ แล้วเวปของบางคนอาจจะพังได้ <span class="tag-en">#คงจะมีคนเงิบมากมาย</span> เลยมาลงเอยที่ VPS ของตัวเอง
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1VE31aEU553xndHxnzMLE6nD7hx63bbl4" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1V1vFAxRszIWOjfG77p7A4hUrS-Li6dpi" column=1 %}
 
 # VPS คืออะไร ??
 
@@ -28,7 +28,7 @@ color: rgb(19, 196, 165)
 
 สรุป คือ ถ้าอยากได้ Server ของตัวเอง โดยไม่ต้องไป <span class="tag-en">#ซื้อเอง</span> <span class="tag-en">#ประกอบเอง</span> <span class="tag-en">#ต่อเน็ตเอง</span> <span class="tag-en">#ดูแลเอง</span> แนะนำว่าให้หา VPS มาซักอันเถอะครับ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1vom1ayqVMGCed4qf6kZbQF_E8YTaiCih" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1yk7E0Sjlh6X6fOQJwz7v28Lm7i9-TRr6" column=1 %}
 
 
 # ทำไมต้องมาเลือก Digital Ocean
@@ -39,12 +39,12 @@ color: rgb(19, 196, 165)
 
 ตอนแรกนึกว่า สร้าง VPS ซักอันจะยาก พอเห็นแล้ว ง่ายกว่าที่คิดแฮะ <span class="tag-en">#ง่ายโคตร</span>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1qihTY3jqGlQ8GbZdTBDs49_iu9dt7hOO" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mrN2l16WrH5x7jWGnxdY0ds676ifkdw-" column=1 %}
 
 
 ที่เสียเวลาที่สุด ไม่ใช่ ตอนสร้าง VPS แต่เป็น ตอนผูกบัญชีเข้ากับ Paypal ต่างหาก เพราะเดบิตธนาคารกรุงเทพ ไม่สามารถจ่ายตังค์กับ Digital Ocean ได้ แต่ถ้าใครใช้ บัตรเครดิต ก็คงไม่มีปัญหาอะไร
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=19K46WYMAbXPbLSpfJE0t4eG_31fnA9E1" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=16vb8CXMky_fu8KS2-b-rc-xr3WGjFfXq" column=1 %}
 
 
 ด้านบนเป็นภาพตอนเลือกแพคเกต ซึ่งจะไม่สามารถปรับ Disk, RAM, Bandwidth ได้ตามใจชอบ มันมาให้แล้วเป็นแพคเกตๆ แต่เราสามารถเลือกได้ว่าจะลง OS อะไร? แถมถ้าใครคิดว่าไม่อยากเซตอัพระบบเอง มันก็มีระบบที่เซตอัพมาแล้วให้ด้วย
@@ -57,7 +57,7 @@ color: rgb(19, 196, 165)
 
 ถ้าจะ SSH ก็ใส่เพียง IP ที่เราได้ โดย เริ่มต้น เราจะต้องใช้ User: root ไปก่อนถ้าใครอยากได้ชื่ออื่นก็ไปทำเอาเองละกัน ก็จะได้หน้าตาแบบนี้ <span class="tag-en">#เต็มไปด้วยเซ็นเซอร์</span> แค่นี้ก็เหมือนกันว่า มีเครื่องคอมเครื่องนึงมาเล่นกันแล้ว <span class="tag-en">#ฉลอง</span> <span class="tag-en">#แต่มันยังไม่จบ</span>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1VzItofkrsAKCIDzjovv6PguDd1zIJZH7" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=122KqpaUsgqfLA2t6uHmgCwy8mGnLa5HS" column=1 %}
 
 ** ถ้าได้มาลอง จะรู้ว่าตอน SSH แอบกระตุ๊กเล็กๆ เพราะว่า เครื่องหลักอยู่ไกลถึงอเมริกา ไม่รู้ว่าจะมีขยายสาขามาตั้งที่เอเชียเมื่อไร <span class="tag-en">#รอกันต่อไป</span>
 
@@ -132,7 +132,7 @@ sudo service apache2 restart
 
 *** root directory จะอยู่ที่ /var/www/html
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=12vTW7b-GG6AkNq90TmZXrbcSN6cENDhP" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Ryt9ObVHrfRwweysuy9d687ubnlGhADV" column=1 %}
 
 <span class="tag-en">#เยี่ยมจริงๆ</span> <span class="tag-en">#เยี่ยมจริงๆ</span> <span class="tag-en">#เยี่ยมจริงๆ</span> แต่อย่าลืมนะว่า VPS ก็เสมือนคอมพิวเตอร์ของเรา มันติดไวรัส หรือ โดนแฮ๊กได้ ซึ่งปกติ Hosting จะเป็นคนดูแลเรื่องนี้ให้เรา แต่ตอนนี้ เราต้องมาดูแลเองละ <span class="tag-en">#ฉันก็แอบกลัวโดนแฮ๊กอยู่เหมือนกัน</span>
 

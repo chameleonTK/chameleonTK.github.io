@@ -16,7 +16,7 @@ color: rgb(19, 196, 165)
 ถึงเวลาที่จะมาพิสูจน์กันเถอะ~
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ga7MZdREUMQrSjxZleSgmc17fQ41ozA-" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1E8vZqNAGXt8wMW4O3vxE3nZZ_VGK5z61" column=1 %}
 
 หลังจากบล๊อคที่แล้ว [[What is PI?]](http://wp.curve.in.th/what-is-pi) /me ได้เล่าไปแล้วว่า $$ \pi$$ มีที่มาจากไหน และ มันมีคุณสมบัติที่น่าสนใจยังไง
 

@@ -16,7 +16,7 @@ color: rgb(19, 196, 165)
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1aHqtHq-vcKIes7Zq105hJ1gNqxzU_att" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1VY_ahDT6o8oNbeZ7weo76rdvVsFhU8At" column=1 %}
 
 อีก 1 ตอนก็จะถึงบทสรุปของซีรีย์ Cat Coat Pattern แล้ว อดใจรอกันอีกหน่อยนะ
 
@@ -36,7 +36,7 @@ color: rgb(19, 196, 165)
 
 ทั้ง 3 รูปแบบนี้ เป็นผลจากยีนต์หลายๆตัวทำงานร่วมกันจนเกิดขนที่มีสีเข้มเฉพาะในส่วนปลาย แต่ส่วนก้านจะเป็นสีอ่อน เมื่อน้องแมวขยับตัวไปมาจะทำให้ขนพริ้ว แสดงให้เห็นส่วนที่เป็นสีอ่อนภายเป็นประกาย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1emMubX1XqWvbu0SfkW_kAQLX6pPxXWhQ" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=11gap8_l17nEXou2f7zHJuyaQcJP9IL1r" column=1 %}
 
 แรกเริ่มเดิมทีแล้ว สันนิฐานกันว่าเกิดจากยีนต์ในส่วนที่เกี่ยวกับสีเผือก(albino locus)ในแมว ซึ่งเป็นกรณีเดียวกันกับ Colorpoint cat แต่อย่างไรก็ตาม เมื่อมีข้อมูลมากขึ้น ข้อสันนิฐานนี้ก็ตกไป
 
@@ -52,19 +52,19 @@ color: rgb(19, 196, 165)
 
 #### Smoke : มีส่วนสีเข้มที่ปลายขน 1/2 ส่วน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1klGHVkvw0HhRlP24LuKkEtanWQQF3-u2" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1NPdJrnIOAVsfGDoVn_Xv-TsGuYdwZBbq" column=1 %}
 
 เป็นลายที่มีส่วนสีเข้มยาวที่สุดในแมวกลุ่ม โดยเกิดจาก Agouti gene tt ซึ่งควรจะได้ Solid Cat หรือ แมวสีล้วนแต่มีผลจาก Wide band genes ทำให้เกิดแถบสีอ่อนสั้นๆที่โคน ทำให้แมวลายนี้มีลักษณะทั่วไปเหมือนแมวสีล้วนธรรมดา แต่เมื่อมันเคลื่อนไหวจะพบริ้วรอยความอลังการของขนสีอ่อนที่อยู่ภายใน (แต่ก็เห็นได้ชัดในแมวขนยาว)
 
 #### Shaded : มีส่วนสีเข้มที่ปลายขน 1/4 ส่วน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1BOKeOXqmXbF3SWc6LSrhixf7DI8es3eA" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1zGyqzBhBKxNfaWymsKAXcGK8Iv5rRIqh" column=1 %}
 
 สีเฉดเป็นการผสมผสานระหว่าสีเข้มและสีอ่อน เกิดจากในระดับกลางๆ เกิดจาก Agouti gene Tb/- ซึ่งเป็นลาย Ticked Tabby และ Wb/wb ทำให้เกิดแมวที่มีสีสันที่ตามรูป
 
 #### Chinchilla/Shell : มีส่วนสีเข้มที่ปลายขน 1/8 ส่วน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1XvbgKtRN8VBnRP4jPEsrd6j-ahOsPVjR" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1PEpQWvUvNDSIxQ4Dc0IHbEMJl2vb_vWG" column=1 %}
 
 ในส่วนสุดท้าย เป็นสีที่มีความสว่างไสวมากที่สุด โดยเกิดจากรูปแบบเหมือนกันกับ Shaded แต่มี Wb/Wb ทำให้เกิดแถวขาวที่กว้างจนเกือบตลอดทั้งเส้น สามารถเห็นความฟรุ้งฟริ้งได้ แม้ว่ามันจะอยู่นิ่งๆก็ตาม
 
@@ -78,21 +78,21 @@ color: rgb(19, 196, 165)
 
 #### Silver Tabby
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1F_P58fcAmUaSFmthkpv0TYLarj9nYKhV" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1H-7vmcaU8BrhbfQAeID6urL3PbKYJxmC" column=1 %}
 
 หรือแมวลายเสือที่มีสีพื้นเป็นสีขาว หรือสีเงิน //โคตรเท่ห์
 
 นอกจากที่เห็นแล้ว /me สามารถบอกได้ว่า ทั้ง Smoke, Shaded และ Chinchilla สามารถเกิดขึ้นได้กับทุกๆรูปแบบที่ผ่านมา ไม่ว่าจะเป็น Solid, Tabby, Tortoiseshell, Calico หรือแม้กระทั้ง Colorpoint
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1BDEGsdh9CXkFJ--Y-od-N9lbIupS0t8l" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1qr4349NuazL8wLbxzX9EJO5lxqr2QFwO" column=1 %}
 Smoke Colorpoint
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1PWkgDyIYmxzdE3udxaKuU-eT7H_54IdP" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1xEVeh77OOTtAnnGtSwhNMbFX2cPeiRuR" column=1 %}
 Shaded Tortie
 
 แต่เมื่อเกิดขึ้นในแมวตระกูลสีส้ม(Reds or Creams) เรามักเรียกแทนด้วยชื่อ Cameos
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1_vS2ObbCJ98wt0dyLhhoindpHem077Ch" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Q41NXq8azpYmRG-oLlKw2kVCwjx1gZ2P" column=1 %}
 
 สุดท้ายนี้ นอกจาก Smoke/Shaded/Chinchilla แล้ว อีกรูปแบบที่มีลักษณะคล้ายๆกัน คือ
 
@@ -102,15 +102,15 @@ Shaded Tortie
 
 ## Grizzle (สำหรับ Chausies)
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1jFXZuNCAlDPLf1S07goaI5l9Wqsq0c89" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1JSxpLNdc_6PuqUEnMHehNlb8DSCvMCnA" column=1 %}
 
 ## Silver tipping (สำหรับ Korat, Russian Blue)
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1rN_0i4PemMlggIAz2NJ5N6aemd4_IQ9r" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1iHaUoaAiesBxMbEXJP0lJsSyGIzyUmWZ" column=1 %}
 
 ## Satin (สำหรับ Tennessee Rex)
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1M1t-3A7nTS7ZwgNImIMb2YdIHn7x_-XA" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1u-IpoUZ9j_zuqzHkYNdxcFwdDpsVCypv" column=1 %}
 
 ----------------
 

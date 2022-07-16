@@ -15,7 +15,7 @@ color: rgb(19, 196, 165)
 --------------------
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1TSTHS35TwmQP2TiZWtvsUMfbYHtsp3Wg" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1SPfKSZfrvHJUJ5GdBF5GE_KRqSeeeWFC" column=1 %}
 
 จะว่าไปแล้ว นี่ก็จบจากมหาวิทยาลับมาแล้ว 3 ปี ทุกอย่างเปลี่ยนแปลงไปมากกว่าที่คิด ไม่ว่าจะเป็นความรับผิดชอบ ความเป็นอยู่ คนรอบข้าง และรวมไปถึงตัวเอง
 
@@ -42,7 +42,7 @@ If you want to conquer fear, don't sit home and think about it. Go out and get b
 
 คำๆหนึ่งที่ทำให้ตัดสินใจ คือ คำพูดตัวเองที่เคยคุยกับมิกกี้ เป็นครั้งที่พยายามชวนไปเที่ยวเดินเส้นทาง EBC ที่เนปาลด้วยกัน เป็นครั้งที่บอกคนอื่นให้ออกจาก comfort zone ถ้าเรายังทำไม่ได้ แล้วเราจะมีหน้าไปบอกให้คนอื่นเปลี่ยนแปลงได้ยังไง? **Broaden your horizons!** สุดท้ายเลยตอบ "ตกลง"
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1cdK3-F4PrukBcL6ERGdTrV1rgU8KaOuO" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1gb3wrU-KPpZB8MY3qa1FjukTdGCG1irx" column=1 %}
 
 หลังจากตอบตกลงไปไปได้ไม่นาน ก็มีพี่แม็กติดต่อมา จริงๆแล้วส่วนตัวรู้จักพี่แม็กมาได้สักระยะหนึ่งแล้ว จากชื่อเพลงที่ฝึกร้องตอนสมัยเรียนมหาวิทยาลัย ทุกคนเรียกกันว่า [เพลงพี่แม็ก](https://soundcloud.com/joonepiece/cpes-song-jo-onepiece) ประกอบกับมิกกี้เล่ากิจกรรมที่เคยร่วมกับพี่แม็กให้ฟังอยู่หลายครั้ง เป็นรุ่นพี่คนหนึ่งที่น่าเคารพ และ ชื่นชม มาโดยตลอด
 
@@ -62,11 +62,11 @@ If you want to conquer fear, don't sit home and think about it. Go out and get b
 
 ช่วงเช้าวันนี้ เป็นการละลายพฤติกรรม ทำความรู้จักกับน้องๆ และภาพความประทับใจแรก คือ ภาพที่ทีมงานทุกคนรู้ว่าตัวเองต้องทำอะไร รับผิดชอบหน้าที่ของตัวเองกันอย่างเต็มที่ ส่วนตัวต้องทำหน้าที่ไปรับน้องๆมานั่งรวมเป็นวง เล่นเกมเล็กๆน้อยๆ ยิ่งทำให้ตระหนักว่า เราจะพยายามน้อยกว่าคนอื่นไม่ได้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=166AWECoIKb96-FOgY9BAF_bQTrDY6pEd" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1y_mZtKCTyZzw--iX3BfFioLUoqcKytNR" column=1 %}
 
 เป็นบรรยากาศที่คุ้นเคย บรรยากาศที่สดใสและน่ารัก น้องๆเริ่มหลั่งไหลเข้ามาเรื่อยๆ รู้สึกทึ่งมาก เพราะแต่ละคนมีความเป็นตัวของตัวเอง ความสดใสจากน้องๆ ละลายความกลัวไปจนหมด คิดไม่ผิดเลยที่ได้มาเป็นพี่เลี้ยงในวันนี้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1N6LYkXdvpAztpC209vuQM4jGX5f6NAn3" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1OjJRixDYQA3SA0e9qwPDnBK-cME1QJe7" column=1 %}
 
 หลังจากนั้น เริ่มมีกิจกรรมกลุ่ม ล้อมวง นันทนาการ
 
@@ -75,84 +75,84 @@ If you want to conquer fear, don't sit home and think about it. Go out and get b
 
 <div class="blockquote">  ลมเพลมพัด โบกสะบัดพัดมาไวๆ ลมเพลมพัดอะไร ลมเพลมพัดอะไร ฉันจะบอกให้… </div>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1tSLpONZbQ4sb2FRoIFN5H1uanmh5RMbr" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1MatLBxuOlshwRhfBRKEGQxa6_viHV4p1" column=1 %}
 
 ภาพความสนุกที่น้องๆทุกคนวิ่งไปมา ทั้งๆที่ตัวเองก็เคยร่วมกิจกรรมแบบนี้มาก่อนเหมือนกัน เราเคยสนุกแบบนี้ เราลืมไปตั้งแต่เมื่อไร?
 
 หลังจากนั้นไม่นาน ก็เริ่มเข้าสู่การแบ่งทีม 4 ทีม กับน้องๆกว่า 40 คน หลังจากแบ่งที่ ก็จะเข้าสู่ฐานะพี่เลี้ยงอย่างเต็มตัว แต่ละทีมจะมีพี่เลี้ยง 2 คน ได้ร่วมทีมเดียวกันกับ พี่เก่ง //ที่มารู้ในภายหลังว่า เป็นน้องมาจากภูเก็ตเหมือนกัน แถมจบโรงเรียนเดียวกันด้วย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1yOkokhq0zyV5or_ISzNO5lYm5aUXDkSs" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1uuvp16vRrnMVF5dQ5ROyLU4VPlHckR-O" column=1 %}
 
 ภารกิจแบ่งทีม เป็นภารกิจให้ทุกคนแก้ปริศนา และตามหากล่องความลับของตัวเอง ยิ่งเห็นกิจกรรม ยิ่งรับรู้เรื่องราวและไอเดียภายใต้กิจกรรม และยิ่งทำให้รู้สึกว่า ทุกอย่างผ่านการคิดมาแล้วเป็นอย่างดี
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1o9MJw_3S8TdvrDDq8LrZ0cHOhfPJaKHc" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1PlRwW5htfBiMp90hu-SSriPIb09Pozt3" column=1 %}
 
 หลังจากนั้นไม่นาน สมาชิกทีมพี่เต็ก/พี่เก่ง ก็ทยอยเดินมารวมกลุ่มกัน มีน้องๆทั้งหมด 10 คน ประกอบไปด้วย น้องใบหม่อน, น้องเรนโบว์, น้องแพร, น้องมายด์, น้องไอรัก, น้องน้ำมนต์, น้องนะโม, น้องไม้เกล้า, น้องพลอย และ น้องแอมแปร์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Jwy5ToQmGPJbuVyLpPC819znY65iPjm_" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mivFeyk-3BeJHmNY3CiEvSROwXZK_iE-" column=1 %}
 
 แน่นอนว่า กิจกรรมต่อมาที่ขาดไปไม่ได้ คือ การตั้งชื่อทีม ท่าประกอบ และ รูปประจำทีม
 
 ปกติแล้ว กิจกรรมนี้มักเป็นสิ่งที่น่าเบื่อ เพราะ ทุกอย่างเงียบงัน ไม่มีใครเสนอไอเดียใดๆ แต่ทุกอย่างไม่เป็นไปอย่างที่คาด น้องๆทุกคนมีไอเดีย ทุกคนอยากมีส่วนร่วมกับกิจกรรม ได้ไอเดียเยอะมากๆ ต้องมาถกเถียงกัน แบ่งทีม แบ่งหน้าที่ของตัวเอง ในที่สุดก็ลงตัวกับชื่อทีม **Hades** เทพเจ้าแห่งความตาย กับท่าประจำทีม Wakanda forever & Dab
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mdWSV_opVGHTH7aJPa6M16cFnoOg2GAG" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=15-uxRd_Vavh6jS_Lq116YYwvrDK2sM4A" column=1 %}
 
 ถ้าถามว่า กิจกรรมที่รู้สึกประทับใจมากที่สุด คือ กิจกรรมอะไร? ส่วนตัวคิดว่า ก็คงจะเป็น "ภารกิจเรียงตัวเลข" ซึ่งเป็นภารกิจแรกที่แต่ละทีมต้องร่วมมือกันพิชิต
 
 ภารกิจเรียงตัวเลข ดูเหมือนจะเป็นภารกิจง่ายๆ เพียงแค่เรียงการ์ด 1-400 ให้ได้อย่างถูกต้อง
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1bLVHVPFAB_-xNoweymTr7ni6219LzScH" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1DVdMBA5mF-sOkslbniBtixrZe6yAwgJD" column=1 %}
 
 คิดไม่ถึงเลยว่าจะสามารถนำการเรียงตัวเลขมาเป็นกิจกรรม ส่วนตัวก็เรียนจบสายคอมฯ คุ้นเคยกับการเรียงตัวเลข แต่ไม่นึกเลยว่าจะเป็นกิจกรรมที่สนุก ใช้ความสามัคคี และใช้ความคิดเยอะมากๆ เพราะมันไม่ใช่สิ่งที่จะทำสำเร็จได้ด้วยตัวคนเดียวในระยะเวลาสั้นๆแน่นอน
 
 การเรียงการ์ดจำนวน 400 ใบ น้องๆต้องแบ่งหน้าที่ สื่อสารระหว่างกัน ไปจนถึงออกแบบวิธีที่เร็วที่สุดในการเรียง ดูเหมือนทุกคนจะสนุกกับการตามหาตัวเลขที่ตัวเองต้องการ :)
 
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Vzec4qD4joOCrBdM48xugvTbgA_p6wi9" column=1 %}
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Vn8tGAoQX97SnuyWyES-NCyYcDkAkUGe" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1UWWpGYq_7W9RIE4JE3CiFOFzuUnMTCuM" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=12qik5W5z_0MUyP2w4pDbxyGRtX-vuf_5" column=1 %}
 
 ความรู้สึกหลังจากผ่านมาแล้วครึ่งวัน คือ แฮปปี้ ทุกอย่างไม่ได้น่ากลัวอย่างที่คิดเลย ทีมงานทุกคนยิ้มแย้ม เข้าถึงง่าย น้องๆน่ารัก สดใส จนกลัวว่า ไม่อยากให้ความสดใส พวกนี้หายไปเลย
 
 ต่อมา จึงเข้าสู่ธีมของค่าย มีการแสดงละคร และเริ่มออกสืบเพื่อตามหาคนร้าย รอบนี้แปลงร่างจากพี่เลี้ยงเป็น จางเหว่ย? ผู้ต้องสงสัยชาวจีน ผู้ที่กำลังกินข้าวเที่ยงอยู่ที่เซี่ยงไฮ้ตอน 11.00 น. //บทส่วนที่ได้รับมา
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1vcU7wtjS98TXEwcFO3ebgWh5sdY4ZvVZ" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1-SwL70hSd3tFpuPcqf_vD8T3TDP765X_" column=1 %}
 
 แต่ แต่ แต่ นี่ก็ลืมไง ฮือออออ พูดอะไรออกไปบ้างก็ไม่รู้ มั่วไปหมดเลย ต้องไปตามแก้กับน้องๆทุกทีม //หล่องไห้หลักมาก //อ่านสำเนียงจีน
 
 น้องๆแต่ละทีมจะต้องกระจายตัวไปคุยกับพี่เลี้ยงในบทบาทชาวต่างชาติท่านอื่นๆ เพื่อสะสมคำใบ้ และค่อยๆใช้คำใบ้เหล่านี้ตัดตัวเลือกที่ไม่ใช่ออกไป โดยใช้หลักการทางคณิตศาสตร์ และน้องๆทำได้เก่งมากๆ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1p5P_z4MGpdpPM_xUniOLX6-SC5FAtzND" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1oXRQXMAX2MPdog7rSxduZvskEGRmFVj6" column=1 %}
 
 จริงๆแล้ว ในภารกิจนี้ ใช้หลักการเรื่อง Timezone GMT และ แผนที่โลก ซึ่งดูเหมือนจะเป็นเรื่องค่อนข้างยาก แต่ทุกคนตั้งใจ และทำมันออกมาได้ดีกว่าที่คิด
 
 ชื่นชอบความเสมือนจริง และรายละเอียดเล็กๆน้อยๆของกิจกรรมที่ทีมงานคิดกันมาแล้ว และมันไม่ใช่เรื่องไร้สาระไกลตัวเลย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1YRi9Kfc1J5U1nhjFSTo6YLwjHmOhgLHY" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1djuzrlhiwleq7ja2ZBfXg2ykvM2QZnak" column=1 %}
 
 นอกจากกิจกรรมสาระอย่างหนักหน่วงแล้ว มีคั้นด้วยกกิจกรรมฐาน สลับกันกับกิจกรรมสืบสวนผู้ต้องหา ทุกอย่างค่อยๆทำให้น้องๆอินไปกับเรื่องราว มีน้องๆถามพลังพิเศษของศิลามณี มีน้องๆมาเล่าสมมติฐานต่างๆที่น้องคิดกันในทีม ฟังแล้วตื่นเต้นไปกับจินตนาการเหล่านั้น
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1fP4Vf3kM-Onn2YlDAM4CS8OYoRFp2Wow" column=1 %}
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Ss7QVWAhAVbhNG9p0riKLFpE7Z3BIaOx" column=1 %}
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1dlRIq_3e64UWQV7WKWhPCPGzYcax86Hz" column=1 %}
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=11Q8gO-05jumJOTFKPzr_XMcuws_pCqpM" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1FgnuW-mZjNHHUeFbEN5dAOYMJRCTovDg" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1_bgFBmlP5LRxejFYo9A0ZVxBotVZoRoG" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1A6YBwtvvFA8-av4IYtsapmEg2wpLK3kq" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1QIh9u5ovdcUp0uxpL3f7ILoyJANQUnXD" column=1 %}
 
 ไม่ใช่แค่กิจกรรมวิชาการ ในช่วงบ่ายก่อนอาบน้ำ มีเวลาฟรีสไตล์ สำหรับน้องๆทุกคนสามารถเลือกเล่นสิ่งที่ตัวเองสนใจ ไม่ว่าจะเป็นกีฬาอย่าง ฟุตบอล, บาส, ดอดจ์บอล หรือ กิจกรรมชิวๆอย่าง บอร์ดเกม เกมต่อคอนโดไม้ ไปจน หมากเก็บ
 
 แต่ละคนถนัดไม่เหมือนกัน ชอบไม่เหมือนกัน ดูเหมือนว่า ทุกคนจะเฮฮากับสิ่งที่ตัวเองเลือก
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1zNM5-eCzvpjvKTw8epSVkkoorhLC6YAn" column=1 %}
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1-wALH-qFE91BMBAJX09NCyrhP2bj1qG3" column=1 %}
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1rFCmxnwmY_MpmxIrCcK3owPrKacbMXIM" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1OSLRSFqEnuaDkuw3afHYyT7i0O0dg8T2" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1BeSrRDAG4WSukuTCRZQOJgg6C2vY_GaJ" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ppyoftzrWNzW_C52CBgbZTu7dDdQxQkL" column=1 %}
 
 ปิดท้ายก่อนนอนก็มีกิจกรรมฐานเล็กๆ //น้องๆในชุดนอน น่ารักมาก~
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=17Qy2Su3t5pVau6Y7MWwOlN93rx65sscd" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1QYRBGI1FOMlX04G1pXHFQQxMqRzJz7aM" column=1 %}
 
 นอกจากนี้ ฝั่งห้องนอนชาย ยังมีกิจกรรมปาหมอนกันอย่างเฮฮาก่อนนอนอีกด้วย หืมมมม เหมือนน้องๆทุกคนจะมีพลังงานไม่สิ้นสุดกันจริงๆ ทุกคนมีร่าเริงกันตั้งแต่ตะวันขึ้น ไปจนถึงฟ้ามืด สุดยอดดดดดดมาก
 
 หลังน้องๆจะนอนไปแล้ว ทีมงานทุกคนต้องประชุมรวมกัน เพื่อสรุปสิ่งที่เกิดขึ้น เป็นบรรยากาศที่เปิดใจ และรับฟัง ต้องยอมรับว่า ทุกอย่างมันมี human error แต่เราจะจัดการกับมันยังไง และจะป้องกันอย่างไรไม่ให้เกิดขึ้นอีกครั้ง นั้นคือสิ่งที่สำคัญมากกว่า
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1i9BJg_PEO_JSDsEnC9fbxO_N4FhLvlOu" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1dFPgnvH3SwF-7JHVgWGy4W5-tzwZefc9" column=1 %}
 
 ความประทับใจนอกจากนั้น คือ การได้เห็นมุมมองจากพี่เลี้ยงหลายๆคน จริงๆแล้วจะว่าไป การเป็นพี่เลี้ยงสำหรับเด็กๆประถม ไม่ใช่เรื่องง่ายเลย เป็นทั้งศาสตร์และศิลป์ ความสดใส ความร่าเริงและวิ่งเล่นตลอดเวลา การดุและขึ้นเสียงดัง ไม่ใช่วิธีการที่ดีในการแก้ไขปัญหาใดๆ
 
@@ -166,23 +166,23 @@ If you want to conquer fear, don't sit home and think about it. Go out and get b
 
 เช้าวันต่อมา เริ่มต้นกับกิจกรรมออกกำลังกายยามเช้า วิ่งๆ และ แอร์โรบิก
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=10mFprOEbwp3PkE04BsapexqshZd5xrxQ" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ykOAJl8Q4wQ1qUc_RaDY90UP--6W1LBl" column=1 %}
 
 ต่อมาจึงเริ่มกิจกรรมฐาน สลับกันกับ การสืบสวนคดี ความเท่ห์อย่างหนึ่งของค่ายนี้ คือ การบูรณาการเอาคณิตศาสตร์มารวมเข้ากับกิจกรรม สาระความรู้อย่าง การชั่งตวงวัด ความน่าจะเป็น การประมาณค่า สถิติ กราฟ มิติสัมพันธ์ ไปจนถึงเรื่อง DNA สามารถนำเสนอออกมาให้น้องๆรู้สึกสนุกได้อย่างแนบเนียน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=14Nh9_Xud939Jt45cRebk_BNcREFSBS-M" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1tUB80_UAqBe-0fhM6pAnSeXCDo_38W4o" column=1 %}
 
 ส่วนตัวมีหน้าที่ดูแลฐานตรวจสอบ DNA ได้มีโอกาศเล่าเรื่องราวทางวิทยาศาสตร์ น้องๆเหมือนจะตื่นเต้นที่ได้รู้ว่า มันมีอะไรมากกว่าที่พวกเขาคิด และเขาสามารถนำมันมาใช้ประโยชน์ได้จริงๆ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1wplOcyYmRa9nKy-iGCnKxVLC_-ZqZjP1" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1h_gWYLiZMRyugbG7ZPFAzmCRfsIORZjK" column=1 %}
 
 นี่ไม่ใช่การสอนอย่างเต็มรูปแบบ แต่หวังว่ามันจะเป็นการกระตุ้นให้น้องๆสนใจ และต่อยอดต่อไป บางทีเรื่องราวในวันนี้ อาจจะเป็นหน้าสำคัญในหนังสือของน้องบางคน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1MYQZNHID1DZh9zWDYor7neocfDRsk7Id" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=19H4-vLvOVrrivoq3E9OapTZKm6KbnyF_" column=1 %}
 
 นอกจากนี้ ภายในค่ายยังมีโอกาสได้เห็น ภาพๆหนึ่งที่ไม่คิดว่าจะเจอในค่ายนี้ ภาพที่น้องบางคนร้องไห้ เป็นภาพความผิดหวังหลังจากน้องไม่สามารถเอาชนะ แต่ก็ได้เห็นภาพที่น้องเอาชนะความผิดหวังพวกนั้นได้ด้วยตัวเอง บางทีภาพพวกนี้ ในบางแง่มุมอาจจะสำคัญกับตัวเขาเองมากกว่าสาระความรู้ที่ได้รับไปก็ได้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1G4QeVsZ4fjX-UFmzVQMedFI-vzR_fE5G" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=10ZoTMjf6SaERqOQS3RbuJDyXT1XifcO5" column=1 %}
 
 และจบปิดท้ายด้วย Festival ซึ่งน้องๆทุกทีมจะต้องจัดกิจกรรมในงานวัดขึ้นมาจากไอเดียของตัวเอง ปลดปล่อยความคิดกันได้อย่างอิสระ สร้างสรรค์ และให้คุณพ่อคุณแม่ ผู้ปกครอง เข้ามาเป็นผู้ร่วมงาน
 
@@ -192,13 +192,13 @@ If you want to conquer fear, don't sit home and think about it. Go out and get b
 
 และ ได้เห็นน้องๆรับผิดชอบฐานของตัวเอง ตั้งใจอธิบายวิธีเล่นซ้ำๆ อย่างภูมิใจ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Xyr5HubCR5ublCIEuypwib6CdlwbFxky" column=1 %}
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=14g_eEPDVjohMPcVj1zdBYvWbHhG572Pa" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Z0QRqV2rMhf-cID2C20eM1i7RMu4GhxY" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1046a4tIf3tigEDYe5fBePTW6kQkSX5nn" column=1 %}
 
 จะว่าไปแล้ว งาน Festival นอกจากความสนุกแล้ว น้องๆยังจะได้เห็นภาพของการบริหารและเศรฐกิจ ต้องทำยังไงเพื่อจูงใจ ออกโปรโมชั่น ตั้งราคา ทุกอย่างแทรกเป็นส่วนหนึ่งที่ต้องคิดอย่างพิถีพิถัน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1dV1vJlw4dwNInUgYMbuV7e9GWeJlW22u" column=1 %}
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1IRJFMyJcpn4W6PS0QbMezYPLRmjaFTe7" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1OmN6hyPazxN5kN4lTApeOFxjOogju67A" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1OoSPoPgZ89uDNNevd-5EbMXh1VHJZecb" column=1 %}
 
 
 <div class="blockquote"> 
@@ -207,7 +207,7 @@ If you want to conquer fear, don't sit home and think about it. Go out and get b
 
 และสุดท้ายที่ ไม่เอ่ยถึงไม่ได้ คือ ของว่างตลอดงาน เป็นมะม่วง และขนมขาไก่สุดอร่อย :)
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=15daEEJMkUDgCOaEp-ztMmPSv0joQ2Azm" column=1 %}
+{% include aligner.html images="https://drive.google.com/uc?export=view&id=1EN7SQb9BBjO7jG-Xl2lnXAfo5GBjrqDw" column=1 %}
 
 ขอบคุณมิกกี้ที่ชวนมาเป็นพี่เลี้ยงในค่ายนี้
 

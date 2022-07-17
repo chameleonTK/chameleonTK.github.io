@@ -1,6 +1,7 @@
 ---
 layout: post
 title: บันทึกเดินทาง ลากกระเป๋าโซโล Munich ถึง Marseille
+thumbnail: "assets/feats/lrec2022.jpg"
 tags: [Archive, Notes On A Journey]
 author: Pakawat Nakwijit
 excerpt_separator: <!--more-->

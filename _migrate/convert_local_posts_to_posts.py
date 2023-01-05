@@ -19,6 +19,9 @@ for path, subdirs, files in os.walk(root):
         os.makedirs(newpath)
 
     for name in files:
+        if name.endswith(".DS_Store"):
+            continue
+
         p = os.path.join(newpath, name)
         fout = open(p, "w", encoding="utf-8")
 
@@ -32,8 +35,15 @@ for path, subdirs, files in os.walk(root):
                     match = re.search("images=['\"](.*)['\"]", line)
                     images = match.group().replace("\"", "").replace("images=", "").split(",")
 
+                    # if "IMG_3763" in line:
+                    #     print(images)
+                    #     assert(False)
+
                     links_to_gdrive = []
                     for img in images:
+                        if " " in img:
+                            img = img.split(" ")[0]
+
                         if img in gimages:
                             links_to_gdrive.append(f"https://drive.google.com/uc?export=view&id={gimages[img]}")
                         else:
@@ -48,7 +58,14 @@ for path, subdirs, files in os.walk(root):
                         c = int(column.replace("column=", ""))
                     
                     images = ",".join(links_to_gdrive)
-                    line = '{% include aligner.html images="'+images+'" column='+str(c)+' %}\n'    
+
+
+                    custom = ""
+                    match = re.search("customclass=['\"](.*)['\"]", line)
+                    if match is not None:
+                        custom = match.group().replace("\"", "").replace("customclass=", "")
+
+                    line = '{% include aligner.html images="'+images+'" column='+str(c)+' customclass="'+custom+'" %}\n'    
                     # print(line)
                 
                 # save feature images to local

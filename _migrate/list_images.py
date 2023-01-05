@@ -37,9 +37,29 @@ def main():
     
     q = [
         {
-            "id": "1AcJZV2wZLBSre7J28e_gJdZwM0Tz-SmU",
-            "path": "lrec2022/"
-        }
+            "id": "1w7IGikQtO7dgJW6xRGS93aMg2hCqsG6l",
+            "path": "year-in-review-2022/"
+        },
+        {
+            "id": "1TjgKKEle5cO4ueMw6HllSzZTqv0IygA8",
+            "path": "year-in-review-2022/friends/"
+        },
+        {
+            "id": "1vA891z0xyKbrL_N_jy2-vxpZCKVhCWMw",
+            "path": "year-in-review-2022/food/"
+        },
+        {
+            "id": "1ONqDNXhJaSYXBR8SajYqW7NLVF2zxQ3Q",
+            "path": "year-in-review-2022/travel/"
+        },
+        {
+            "id": "1avo60lI9OUcatEaaMDthJQCn0IuQSnA2",
+            "path": "year-in-review-2022/art/"
+        },
+        {
+            "id": "1W4KRzif01HOYQt92E84DyHiNtjg9sZWd",
+            "path": "year-in-review-2022/londoner/"
+        },
     ]
     # with open("img_folders.csv") as fin:
     #     for line in fin:

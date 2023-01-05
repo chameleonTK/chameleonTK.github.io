@@ -6,8 +6,10 @@
 {% assign column = 100.0 | divided_by: include.column %}
 {% endif %}
 
+{% assign customclass = include.customclass %}
 
-<div class="row">
+
+<div class="row {{customclass}}">
     {% for image in images %}
     <div {% if column %} style="flex: {{ column }}%" {% else %} class="column" {% endif %}  >
         <img {% if images.size == 1 %}class="single"{% endif %}

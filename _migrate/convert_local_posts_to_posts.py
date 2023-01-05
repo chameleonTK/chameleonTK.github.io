@@ -64,8 +64,9 @@ for path, subdirs, files in os.walk(root):
                     match = re.search("customclass=['\"](.*)['\"]", line)
                     if match is not None:
                         custom = match.group().replace("\"", "").replace("customclass=", "")
-
-                    line = '{% include aligner.html images="'+images+'" column='+str(c)+' customclass="'+custom+'" %}\n'    
+                        line = '{% include aligner.html images="'+images+'" column='+str(c)+' customclass="'+custom+'" %}\n'    
+                    else:
+                        line = '{% include aligner.html images="'+images+'" column='+str(c)+' %}\n'    
                     # print(line)
                 
                 # save feature images to local

@@ -11,7 +11,7 @@ with open("../_migrate/imgs.csv") as fin:
     for line in fin:
         line = line.strip().split(",")
         # print(line)
-        gimages[line[0]] = line[1]
+        gimages[line[0].lower()] = line[1]
 
 for path, subdirs, files in os.walk(root):
     newpath = path.replace(root, target)
@@ -44,6 +44,7 @@ for path, subdirs, files in os.walk(root):
                         if " " in img:
                             img = img.split(" ")[0]
 
+                        img = img.lower()
                         if img in gimages:
                             links_to_gdrive.append(f"https://drive.google.com/uc?export=view&id={gimages[img]}")
                         else:

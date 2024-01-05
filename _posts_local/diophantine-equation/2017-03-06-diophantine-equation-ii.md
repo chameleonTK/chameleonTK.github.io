@@ -22,7 +22,7 @@ $$ Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F = 0 $$
 
 # ความเดิมตอนที่แล้ว
 
-[ตอนที่ 1](http://wp.curve.in.th/diophantine-equation-i) /me ได้พูดถึงวิธีการหาคำตอบที่เป็นจำนวนเต็มของ BQDEs สำหรับกรณี Linear case และ Simple hyperbolic case ไปแล้ว เรามาเริ่มกันต่อที่กรณีต่อไปกันเลยดีกว่า
+[ตอนที่ 1](https://chameleontk.github.io/diophantine-equation-i) /me ได้พูดถึงวิธีการหาคำตอบที่เป็นจำนวนเต็มของ BQDEs สำหรับกรณี Linear case และ Simple hyperbolic case ไปแล้ว เรามาเริ่มกันต่อที่กรณีต่อไปกันเลยดีกว่า
 
 # Elliptical case
 
@@ -127,7 +127,7 @@ $$
 $$
 
 
-สมการทั้ง 2 ต่างอยู่ในรูป linear case ซึ่งเราสามารถแก้มันได้ โดยใช้วิธีการที่พูดถีงไปแล้วใน [ตอนที่ 1](http://wp.curve.in.th/diophantine-equation-i) <span class="tag-en">#ไม่เสียแรงที่ร่ำเรียน</span>
+สมการทั้ง 2 ต่างอยู่ในรูป linear case ซึ่งเราสามารถแก้มันได้ โดยใช้วิธีการที่พูดถีงไปแล้วใน [ตอนที่ 1](https://chameleontk.github.io/diophantine-equation-i) <span class="tag-en">#ไม่เสียแรงที่ร่ำเรียน</span>
 
 2. กรณี $$ (\sqrt{c}D-\sqrt{a}E) \neq 0 $$
 

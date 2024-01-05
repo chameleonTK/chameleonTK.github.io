@@ -138,7 +138,7 @@ color: rgb(19, 196, 165)
 
 นี้ก็ร่ายมาซะยาวเลย สำหรับส่วนแรกก็ขอเบรคไว้เพียงแค่นี้
 
-สำหรับคนที่สนใจ สามารติดตาม [EP.2](http://wp.curve.in.th/set-env-for-web-developer-2) ได้ ซึ่งจะเป็นเรื่องเกี่ยวกับ Gulp และ การจัดการ dependency
+สำหรับคนที่สนใจ สามารติดตาม [EP.2](https://chameleontk.github.io/set-env-for-web-developer-2) ได้ ซึ่งจะเป็นเรื่องเกี่ยวกับ Gulp และ การจัดการ dependency
 
 ## กราบขอขอบคุณ
 * [Why should I use Vagrant instead of just VirtualBox?](http://superuser.com/questions/584100/why-should-i-use-vagrant-instead-of-just-virtualbox)

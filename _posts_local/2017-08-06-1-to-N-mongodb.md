@@ -15,7 +15,7 @@ color: rgb(83 171 222)
 
 {% include aligner.html images="1-to-N-mongodb/20150225relationaldatabase.jpg" column=1%}
 
-อาทิตย์ที่แล้ว /me เขียนแนะนำ MongoDB ไปเป็นที่เรียบร้อยแล้ว ใน [MongoDB is comming](http://wp.curve.in.th/mongo) พูดไปจนถึงข้อดี/ข้อเสีย และตัวอย่างงานที่เหมาะ/ไม่เหมาะกับเจ้า MongoDB
+อาทิตย์ที่แล้ว /me เขียนแนะนำ MongoDB ไปเป็นที่เรียบร้อยแล้ว ใน [MongoDB is comming](https://chameleontk.github.io/mongo) พูดไปจนถึงข้อดี/ข้อเสีย และตัวอย่างงานที่เหมาะ/ไม่เหมาะกับเจ้า MongoDB
 
 สำหรับตอนนี้เป็นบทต่อเนื่องหลังจากที่รู้จัก MongoDB กันไปแล้ว ก็เข้ามาสู่คำถามสำคัญยิ่งขึ้น
 
@@ -201,7 +201,7 @@ db.logs.find()
 
 นี้เป็นแค่ Basic Design ยังมีเทคนิคที่น่าสนใจอีก 2 ตัว คือ Two-way referencing และ Denormalization ที่จะมาช่วยเค่นประสิทธิภาพให้กับ MongoDB และ Rules of Thumb ข้อที่ 5 และ 6
 
-ติดตามอ่านต่อได้ที่ [Two-way referencing & Denormalization Concept](http://wp.curve.in.th/1-to-N-mongodb#)
+ติดตามอ่านต่อได้ที่ [Two-way referencing & Denormalization Concept](https://chameleontk.github.io/1-to-N-mongodb#)
 
 # Credit/Reference
 

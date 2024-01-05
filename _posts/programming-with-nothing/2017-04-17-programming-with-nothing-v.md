@@ -116,15 +116,15 @@ const GREATER_THAN_OR_EQUAL = (m)=>(n)=>NOT(IS_ZERO(SUBTRACT(n)(m)))
 สำหรับตอนหน้า /me จะพาไปเขียนฟังก์ชั่นที่เรายังค้างกันอยู่ DIVIDE และ MODULO ซึ่งต้องใช้สิ่งที่เราสร้างมาทั้งหมดไม่ว่าจะเป็น SUBTRACT, LESS_THAN_OR_EQUAL และ เครื่องมือชิ้นใหม่ที่เรียกว่า Y combinator และการทำ recursion
 
 ## อ่านตอนอื่นๆได้ที่
-* [EP1: Introduction](http://wp.curve.in.th/programming-with-nothing-i)
-* [EP2: Numbers](http://wp.curve.in.th/programming-with-nothing-ii)
-* [EP3: Arithmetic operators](http://wp.curve.in.th/programming-with-nothing-ii)
-* [EP4: Booleans](http://wp.curve.in.th/programming-with-nothing-iv)
-* [EP5: Predicates & Comparison Operators](http://wp.curve.in.th/programming-with-nothing-v)
-* [EP6: Recursion](http://wp.curve.in.th/programming-with-nothing-vi)
-* [EP7: List](http://wp.curve.in.th/programming-with-nothing-vii)
-* [EP8: String](http://wp.curve.in.th/programming-with-nothing-viii)
-* [EP9: Epilogue](http://wp.curve.in.th/programming-with-nothing-ix) * ยังไม่เขียน
+* [EP1: Introduction](https://chameleontk.github.io/programming-with-nothing-i)
+* [EP2: Numbers](https://chameleontk.github.io/programming-with-nothing-ii)
+* [EP3: Arithmetic operators](https://chameleontk.github.io/programming-with-nothing-ii)
+* [EP4: Booleans](https://chameleontk.github.io/programming-with-nothing-iv)
+* [EP5: Predicates & Comparison Operators](https://chameleontk.github.io/programming-with-nothing-v)
+* [EP6: Recursion](https://chameleontk.github.io/programming-with-nothing-vi)
+* [EP7: List](https://chameleontk.github.io/programming-with-nothing-vii)
+* [EP8: String](https://chameleontk.github.io/programming-with-nothing-viii)
+* [EP9: Epilogue](https://chameleontk.github.io/programming-with-nothing-ix) * ยังไม่เขียน
 
 ต้นฉบับ [Programming with Nothing](https://codon.com/programming-with-nothing)
 

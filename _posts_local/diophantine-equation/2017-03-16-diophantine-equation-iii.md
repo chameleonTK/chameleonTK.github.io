@@ -20,9 +20,9 @@ $$ Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F = 0 $$
 
 หรือ เรียกสั้นๆว่า BQDEs ซึ่งอธิบายไปแล้วในหลายๆตอน
 
-[ตอนที่ 1](http://wp.curve.in.th/diophantine-equation-i) พูดถึงลักษณะของสมการ Diophantine Equations และพูดถึงวิธีการแก้สมการ BQDEs ในกรณี Linear case และ Simple hyperbolic case
+[ตอนที่ 1](https://chameleontk.github.io/diophantine-equation-i) พูดถึงลักษณะของสมการ Diophantine Equations และพูดถึงวิธีการแก้สมการ BQDEs ในกรณี Linear case และ Simple hyperbolic case
 
-[ตอนที่ 2](http://wp.curve.in.th/diophantine-equation-ii) ต่อกับการแก้ BQDEs ในกรณี Elliptical case และ Parabolic case
+[ตอนที่ 2](https://chameleontk.github.io/diophantine-equation-ii) ต่อกับการแก้ BQDEs ในกรณี Elliptical case และ Parabolic case
 
 และ ตอนนี้ก็ถึงกรณีสุดท้าย และเป็นกรณีที่ซับซ้อนที่สุดของ BQDEs ซึ่งเรียกว่า Hyperbolic case
 

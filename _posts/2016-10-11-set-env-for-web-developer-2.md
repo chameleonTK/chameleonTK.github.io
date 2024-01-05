@@ -10,12 +10,12 @@ color: rgb(19, 196, 165)
 
 ## TL;DR
 
-ต่อจาก <a href="http://wp.curve.in.th/set-env-for-web-developer"> EP.1 </a> ในบทความนี้จะพูดถึง Frontend Task โดยใช้ Gulp 
+ต่อจาก <a href="https://chameleontk.github.io/set-env-for-web-developer"> EP.1 </a> ในบทความนี้จะพูดถึง Frontend Task โดยใช้ Gulp 
 <!--more-->
 
 {% include aligner.html images="https://drive.google.com/uc?export=view&id=1tU4FpEiTc4LRwsmGbIC7AyDz8W81iEyv" column=1 %}
 
-แทนที่เราจะต้องลงโปรแกรมต่างๆ เพื่อให้เครื่องคอมสุดที่รักของเราสามารถรัน Web ได้ /me ก็ได้แนะนำให้ทุกคนเปลี่ยนมาทำงานบน VMs ใน [EP.1](http://wp.curve.in.th/set-env-for-web-developer) ไปแล้ว ซึ่งมีเครื่องมืออย่าง Vagrant มาช่วยเราจัดการความวุ่นวายบน VMs
+แทนที่เราจะต้องลงโปรแกรมต่างๆ เพื่อให้เครื่องคอมสุดที่รักของเราสามารถรัน Web ได้ /me ก็ได้แนะนำให้ทุกคนเปลี่ยนมาทำงานบน VMs ใน [EP.1](https://chameleontk.github.io/set-env-for-web-developer) ไปแล้ว ซึ่งมีเครื่องมืออย่าง Vagrant มาช่วยเราจัดการความวุ่นวายบน VMs
 
 แต่ แต่ แต่ ปัญหามันไม่ได้จบแค่นี้
 

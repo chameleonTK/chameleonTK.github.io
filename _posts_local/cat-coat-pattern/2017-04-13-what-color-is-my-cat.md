@@ -239,12 +239,12 @@ color: rgb(19, 196, 165)
 
 สำหรับต่อก่อนๆทั้งหมด ปิดฉากๆๆ
 
-* [EP.1 Tabby cat](http://wp.curve.in.th/tabby)
-* [EP.2 Solid cat](http://wp.curve.in.th/solid)
-* [EP.3 Bicolor cat](http://wp.curve.in.th/bicolor)
-* [EP.4 Tortoiseshell & Calico cat](http://wp.curve.in.th/tortoiseshell)
-* [Ep.5 White cat](http://wp.curve.in.th/white-cat)
-* [Ep.6 Colorpoint cat](http://wp.curve.in.th/colorpoint-cat)
-* [Ep.7 Smoke Shaded Chinchilla](http://wp.curve.in.th/smoke-shaded-chinchilla)
+* [EP.1 Tabby cat](https://chameleontk.github.io/tabby)
+* [EP.2 Solid cat](https://chameleontk.github.io/solid)
+* [EP.3 Bicolor cat](https://chameleontk.github.io/bicolor)
+* [EP.4 Tortoiseshell & Calico cat](https://chameleontk.github.io/tortoiseshell)
+* [Ep.5 White cat](https://chameleontk.github.io/white-cat)
+* [Ep.6 Colorpoint cat](https://chameleontk.github.io/colorpoint-cat)
+* [Ep.7 Smoke Shaded Chinchilla](https://chameleontk.github.io/smoke-shaded-chinchilla)
 
 <span class="tag-en">#ทาสแมว</span> <span class="tag-en">#ทาสแมว</span> <span class="tag-en">#ทาสแมว</span> <span class="tag-en">#ทาสแมว</span> <span class="tag-en">#ทาสแมว</span> <span class="tag-en">#ทาสแมว</span> <span class="tag-en">#ทาสแมว</span> <span class="tag-en">#ทาสแมว</span> <span class="tag-en">#ทาสแมว</span>

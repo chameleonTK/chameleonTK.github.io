@@ -46,7 +46,7 @@ function MODULO(m, n) {
 }
 ```
 
-ผลพวงจาก [EP5](http://wp.curve.in.th/programming-with-nothing-v) ทำให้ /me มีเครื่องมือที่เรียกว่า LESS_THAN_OR_EQUAL(n, m) สำหรับเงื่อนไขใน function MODULO
+ผลพวงจาก [EP5](https://chameleontk.github.io/programming-with-nothing-v) ทำให้ /me มีเครื่องมือที่เรียกว่า LESS_THAN_OR_EQUAL(n, m) สำหรับเงื่อนไขใน function MODULO
 
 นั้นแปลว่า เราสามารถสร้าง MODULO(m)(n) ได้ดังนี้
 
@@ -230,15 +230,15 @@ const DIVIDE = Z(f=>m=>n=>IF(LESS_THAN_OR_EQUAL(n)(m))(x=>INCREMENT(f(SUBTRACT(m
 สำหรับตอนต่อไป คือจุดเปลี่ยนสำคัญในการสร้าง isPrime(n) เมื่อ /me ต้องผจญกับการสร้าง list และฟังก์ชั่นต่างๆที่จำเป็นสำหรับการใช้ list
 
 ## อ่านตอนอื่นๆได้ที่
-* [EP1: Introduction](http://wp.curve.in.th/programming-with-nothing-i)
-* [EP2: Numbers](http://wp.curve.in.th/programming-with-nothing-ii)
-* [EP3: Arithmetic operators](http://wp.curve.in.th/programming-with-nothing-ii)
-* [EP4: Booleans](http://wp.curve.in.th/programming-with-nothing-iv)
-* [EP5: Predicates & Comparison Operators](http://wp.curve.in.th/programming-with-nothing-v)
-* [EP6: Recursion](http://wp.curve.in.th/programming-with-nothing-vi)
-* [EP7: List](http://wp.curve.in.th/programming-with-nothing-vii)
-* [EP8: String](http://wp.curve.in.th/programming-with-nothing-viii)
-* [EP9: Epilogue](http://wp.curve.in.th/programming-with-nothing-ix) * ยังไม่เขียน
+* [EP1: Introduction](https://chameleontk.github.io/programming-with-nothing-i)
+* [EP2: Numbers](https://chameleontk.github.io/programming-with-nothing-ii)
+* [EP3: Arithmetic operators](https://chameleontk.github.io/programming-with-nothing-ii)
+* [EP4: Booleans](https://chameleontk.github.io/programming-with-nothing-iv)
+* [EP5: Predicates & Comparison Operators](https://chameleontk.github.io/programming-with-nothing-v)
+* [EP6: Recursion](https://chameleontk.github.io/programming-with-nothing-vi)
+* [EP7: List](https://chameleontk.github.io/programming-with-nothing-vii)
+* [EP8: String](https://chameleontk.github.io/programming-with-nothing-viii)
+* [EP9: Epilogue](https://chameleontk.github.io/programming-with-nothing-ix) * ยังไม่เขียน
 
 ต้นฉบับ [Programming with Nothing](https://codon.com/programming-with-nothing)
 

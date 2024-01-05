@@ -23,12 +23,12 @@ color: rgb(19, 196, 165)
 แต่ก่อนจะถึงตอนบทสรุป /me อยากแนะนำให้รู้จักลายสุดท้ายที่ไม่ค่อยพบกันมากนัก ความจริงแล้วเรียกว่า ลาย ก็ดูแปลกไปซักหน่อย เพราะมันเป็นเหมือน effect เพิ่มจากลายปกติมากกว่า
 
 ยังไงก็ฝากตอนก่อนๆ ลิงค์ด้านล่างนะฮ๊าฟ
-* [EP.1 Tabby cat](http://wp.curve.in.th/tabby)
-* [EP.2 Solid cat](http://wp.curve.in.th/solid)
-* [EP.3 Bicolor cat](http://wp.curve.in.th/bicolor)
-* [EP.4 Tortoiseshell & Calico cat](http://wp.curve.in.th/tortoiseshell)
-* [Ep.5 White cat](http://wp.curve.in.th/white-cat)
-* [Ep.6 Colorpoint cat](http://wp.curve.in.th/colorpoint-cat)
+* [EP.1 Tabby cat](https://chameleontk.github.io/tabby)
+* [EP.2 Solid cat](https://chameleontk.github.io/solid)
+* [EP.3 Bicolor cat](https://chameleontk.github.io/bicolor)
+* [EP.4 Tortoiseshell & Calico cat](https://chameleontk.github.io/tortoiseshell)
+* [Ep.5 White cat](https://chameleontk.github.io/white-cat)
+* [Ep.6 Colorpoint cat](https://chameleontk.github.io/colorpoint-cat)
 
 สำหรับลายสุดท้ายนี้ เป็นแพ๊ครวมกัน 3 รูปแบบ โดยทั้ง 3 ต่างเป็น effects ที่ทำให้แมวมีความฟรุ้งฟริ้งมากกว่าแมวทั่วไป
 

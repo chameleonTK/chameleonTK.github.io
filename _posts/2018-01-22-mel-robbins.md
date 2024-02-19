@@ -14,7 +14,7 @@ color: rgb(224 44 67)
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=196fffbjmj5nxoq7wgmctf8i5c7ll2kdd" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/196fffbjmj5nxoq7wgmctf8i5c7ll2kdd" column=1 %}
 
 
 พักหลัง พบว่าตัวเองวุ่นวายกับการเล่นบอร์ดเกม แท๊บหนึ่งที่เปิดค้างไว้นานมาก จนจำไม่ได้ว่า เปิดไว้ตั้งแต่เมื่อไร พึ่งกลับมาเห็นว่า เป็น TED talk ที่ตั้งใจจะฟังมาตั้งนานแล้ว

@@ -17,7 +17,7 @@ color: rgb(19, 196, 165)
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ApoG8LhD8RCMG_omVTu9yxpuUNzZn1JM" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1ApoG8LhD8RCMG_omVTu9yxpuUNzZn1JM" column=1 %}
 
 มาถึงบทสุดท้าย ซึ่งเป็นบทสรุปของการเดินทางเพื่อตอบคำถามง่ายๆ
 
@@ -35,7 +35,7 @@ color: rgb(19, 196, 165)
 
 ความจริงแล้ว หลายๆลายมียังไม่พัฒนาเต็มที่ในวัยเด็กๆ ทำให้ยากที่จะแยกว่าตัวนี้จะมีสีขนในภายภาคหน้าเป็นอย่างไร? ในบางสายพันธุ์อย่าง ลูกๆของแมวพันธุ์ Laperm จะไม่มีขน แต่เมื่อเวลาผ่านไป จะเริ่มเห็นจนที่เป็นเอกลักษณ์ของมัน หรือแม้กระทั้งในลูกแมวธรรมดา อาจจะเกิด fever coat ทำให้สีขนเปลี่ยนแปลงไปก็เป็นไปได้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mbLgeNdp-MnGpqtZuKxDBMFx2WBynvC3" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1mbLgeNdp-MnGpqtZuKxDBMFx2WBynvC3" column=1 %}
 
 * **ถ้ามากกว่า 1 ปี**
 
@@ -46,7 +46,7 @@ color: rgb(19, 196, 165)
 * **ถ้าใช่**
 
 ยินดีด้วย เจ้าแมวสอบผ่านขั้นแรกและขั้นสุดท้ายของการเป็น White cat
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=16PTV5d_yeAkmfX6HsFmlIsCtHRah3EXp" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/16PTV5d_yeAkmfX6HsFmlIsCtHRah3EXp" column=1 %}
 
 * **ถ้าไม่ใช่**
 
@@ -71,7 +71,7 @@ color: rgb(19, 196, 165)
 
 ถ้าไม่รู้ ก็สามารถเปิดตารางเทียบได้เลยฮะ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1JVGeS4CZqWFyu_wLwRakkPOUnhIgCSsa" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1JVGeS4CZqWFyu_wLwRakkPOUnhIgCSsa" column=1 %}
 
 ## 4. เจ้าแมวมีสีขนดำๆแดงๆปนๆกันรึปล่าว?
 * **มันมีดำๆแดงๆ บนพื้นขาว แต่สีมันปนกันมั่วๆ**
@@ -80,7 +80,7 @@ color: rgb(19, 196, 165)
 
 ข้ามไปข้อต่อไป
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1o5-SmOhj1PYNRho09_8rZV6d9sUs2jns" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1o5-SmOhj1PYNRho09_8rZV6d9sUs2jns" column=1 %}
 
 * **มันมีดำๆแดงๆ บนพื้นขาว แถมสีแยกเป็นกลุ่มชัดเจน**
 
@@ -88,7 +88,7 @@ color: rgb(19, 196, 165)
 
 ข้ามไปข้อต่อไป
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1xxjkZj6Izu6-21yugFb63-8proXGApoH" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1xxjkZj6Izu6-21yugFb63-8proXGApoH" column=1 %}
 
 ## 5. เจ้าแมวมีลายเสือด้วยแฮะ?
 * **แต่มันเป็น Tortoiseshell ด้วยอะ**
@@ -97,7 +97,7 @@ color: rgb(19, 196, 165)
 
 ยินดีด้วย เจ้า Tortoiseshell with white ของคุณได้อัพเดตเป็น Torbie with white cat เรียบร้อยแล้ว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1jzlfo21LVhw3AZeGtL3dTKHDHD4XbRWm" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1jzlfo21LVhw3AZeGtL3dTKHDHD4XbRWm" column=1 %}
 
 * **แต่มันเป็น Calico ด้วยอะ**
 
@@ -107,30 +107,30 @@ color: rgb(19, 196, 165)
 * **ลายเสือเป็นลายก้างปลาที่กลางหลัง (แบบ Mackerel)**
 
 ยินดีด้วย เจ้าแมวของคุณได้รับสถาณะ + Mackerel pattern เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1byi3c6ZqRDR1CPeJPrvf0MwwozHPTmmM" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1byi3c6ZqRDR1CPeJPrvf0MwwozHPTmmM" column=1 %}
 * **ลายเสือเป็นเหมือนแมววิสกัสเลยฮะ (แบบ Classic)**
 
 ความจริงแล้ว เป็นลายหมุนๆ กลมๆ คล้ายกับหินอ่อน
 
 ยินดีด้วย เจ้าแมวของคุณได้รับสถาณะ + Classic pattern เรียบร้อยแล้ว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1za7Gtq6EOTTPSScluAnVUBKTZGwrUxLS" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1za7Gtq6EOTTPSScluAnVUBKTZGwrUxLS" column=1 %}
 
 * **ลายเสือเหมือนเสือดาว (แบบ Spotted)**
 
 ยินดีด้วย เจ้าแมวของคุณโดนได้รับสถาณะ + Spotted pattern เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1XWV9Njhk01dNJ86A2yK5wbkTuOToc3d5" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1XWV9Njhk01dNJ86A2yK5wbkTuOToc3d5" column=1 %}
 
 * **ลายสีน้ำตาลๆ แต่มันไม่มีแถบดำๆเหมือนตัวอื่น (แบบ Ticked)**
 
 ยินดีด้วย เจ้าแมวของคุณโดนได้รับสถาณะ + Ticked pattern เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1eFJUXd4527Q20UrthiIRrG6stviBH7vj" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1eFJUXd4527Q20UrthiIRrG6stviBH7vj" column=1 %}
 
 ## 6. เจ้าแมวมีลายที่หน้า, หู, ปลายมือ และที่จู๋ เข้มกว่าจุดอื่นๆ
 * **ส่วนอื่นๆ ที่ลำตัวมันสีอ่อนมาก จนเหมือนจะเป็นสีขาวไปแล้ว**
 
 ยินดีด้วย เจ้าเมียวของคุณได้รับสถาณะ + Pointed pattern เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=16b3SYTPoToqGZk-LgVBY6VsO0dzinupE" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/16b3SYTPoToqGZk-LgVBY6VsO0dzinupE" column=1 %}
 
 * **ส่วนอื่นๆ ที่ลำตัวมันสีอ่อน แต่ก็ไม่เข้มนะ**
 
@@ -139,7 +139,7 @@ color: rgb(19, 196, 165)
 * **ส่วนอื่นๆ ที่ลำตัวมันสีเข้มมากจนแยกไม่ออกแล้วเนี๊ยะ**
 
 ยินดีด้วย เจ้าเมียวของคุณได้รับสถาณะ + Sepia pattern เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=16U2c9HDE26omnmx4sUKbz0xBmHH278P9" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/16U2c9HDE26omnmx4sUKbz0xBmHH278P9" column=1 %}
 
 * **สีเท่ากันหมดทั้งตัวนะ**
 ข้ามไปข้อ 8 เลยฮะ
@@ -151,12 +151,12 @@ color: rgb(19, 196, 165)
 * **มันเป็น Tabby ฮะ**
 
 ยินดีด้วย เจ้า Tabby ของคุณได้อัพเดตเป็น Lynx cat เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1pvdHYxn3lAlbU7PTwaIIdbkwJDHmDRV7" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1pvdHYxn3lAlbU7PTwaIIdbkwJDHmDRV7" column=1 %}
 
 * **มันเป็น Tortoiseshell/Tortie ฮะ**
 
 ยินดีด้วย เจ้า Tortie ของคุณได้อัพเดตเป็น Tortie Point cat เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1yKaBqY89z2pmuGSKoy5ZVgI7442RIhEG" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1yKaBqY89z2pmuGSKoy5ZVgI7442RIhEG" column=1 %}
 
 * **มันเป็น Torbie ฮะ**
 
@@ -166,7 +166,7 @@ color: rgb(19, 196, 165)
 * **มีแฮะ แต่ไม่มีลาย Tabby, Totie นะ**
 
 ยินดีด้วย เจ้า Solid ของคุณได้อัพเดตเป็น Bicolor cat เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1GDU68zgM9TR8xIjCWta4EPByO7M2Z0NO" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1GDU68zgM9TR8xIjCWta4EPByO7M2Z0NO" column=1 %}
 
 * **มีฮะ**
 
@@ -180,17 +180,17 @@ color: rgb(19, 196, 165)
 * **เกือบทั้งตัวเลยยย ยกเว้นหู และหาง**
 
 ยินดีด้วย เจ้าเมียวของคุณได้รับสถาณะ + Van pattern เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1edQqh5VPoG94NmimnFCMZoZl4LgGiv8x" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1edQqh5VPoG94NmimnFCMZoZl4LgGiv8x" column=1 %}
 
 * **มีแถบที่หน้าอก มีถุงมือ ถุงเท้า แล้วก็ที่จมูก**
 
 ยินดีด้วย เจ้าเมียวของคุณได้รับสถาณะ + Tuxedo pattern เรียบร้อยแล้ว เท่ห์ไปอีก
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1TBknP3NJWwh71x61CUu7BH-eqBg_RMHy" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1TBknP3NJWwh71x61CUu7BH-eqBg_RMHy" column=1 %}
 
 * **มีแค่เป็นแค่ถุงมือ ถุงเท้าฮะ**
 
 ยินดีด้วย เจ้าเมียวของคุณได้รับสถาณะ + Mitted pattern เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=15KQ4gwwxHPHBOTg4RcWladNuK1hEoYoi" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/15KQ4gwwxHPHBOTg4RcWladNuK1hEoYoi" column=1 %}
 
 * **อื่นๆ**
 ยินดีด้วย เจ้าเมียวของคุณได้รับสถาณะ + XXX pattern เรียบร้อยแล้ว ไม่ระบุ เพราะมันเยอะ LOL
@@ -200,7 +200,7 @@ color: rgb(19, 196, 165)
 * **โคนขนเป็นสีขาวประมาณ 50%**
 
 ยินดีด้วย เจ้าเมียวของคุณได้รับสถาณะ + Smoke pattern เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1NPdJrnIOAVsfGDoVn_Xv-TsGuYdwZBbq" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1NPdJrnIOAVsfGDoVn_Xv-TsGuYdwZBbq" column=1 %}
 
 * **โคนขนเป็นสีขาวประมาณ 25%**
 
@@ -209,7 +209,7 @@ color: rgb(19, 196, 165)
 * **โคนขนเป็นสีขาวประมาณ 12.5%**
 
 ยินดีด้วย เจ้าเมียวของคุณได้รับสถาณะ + Chinchilla/Shell pattern เรียบร้อยแล้ว
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1PEpQWvUvNDSIxQ4Dc0IHbEMJl2vb_vWG" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1PEpQWvUvNDSIxQ4Dc0IHbEMJl2vb_vWG" column=1 %}
 
 * **ไม่มีอะไรฟรุ้งฟริ้งทั้งนั้นแหละ**
 
@@ -223,13 +223,13 @@ color: rgb(19, 196, 165)
 
 ยินดีด้วย เจ้า Smoke/Shaded/Chinchilla ของคุณได้รับสถาณะ + Silver series pattern เรียบร้อยแล้ว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1H-7vmcaU8BrhbfQAeID6urL3PbKYJxmC" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1H-7vmcaU8BrhbfQAeID6urL3PbKYJxmC" column=1 %}
 
 * **เป็นสีส้ม**
 
 ยินดีด้วย เจ้า Smoke/Shaded/Chinchilla ของคุณได้รับสถาณะ + Gold series pattern เรียบร้อยแล้ว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Q41NXq8azpYmRG-oLlKw2kVCwjx1gZ2P" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1Q41NXq8azpYmRG-oLlKw2kVCwjx1gZ2P" column=1 %}
 
 # The End
 

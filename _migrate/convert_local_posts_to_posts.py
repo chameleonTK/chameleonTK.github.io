@@ -46,7 +46,7 @@ for path, subdirs, files in os.walk(root):
 
                         img = img.lower()
                         if img in gimages:
-                            links_to_gdrive.append(f"https://drive.google.com/uc?export=view&id={gimages[img]}")
+                            links_to_gdrive.append(f"https://lh3.googleusercontent.com/d/{gimages[img]}")
                         else:
                             print("NO", line, os.path.join(path, name))
                             links_to_gdrive.append(img)

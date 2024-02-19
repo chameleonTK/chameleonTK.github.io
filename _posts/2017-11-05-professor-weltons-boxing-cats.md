@@ -14,7 +14,7 @@ color: rgb(56 141 247)
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1EPW5Z-0RAw9AEJvH94KO1BuCyMHpXPgk" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1EPW5Z-0RAw9AEJvH94KO1BuCyMHpXPgk" column=1 %}
 
 และหลักฐานการเป็น Catuber คือ วิดีโอ 22 วินาทีชิ้นนี้ 
 

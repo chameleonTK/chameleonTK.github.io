@@ -14,18 +14,18 @@ color: rgb(224 44 67)
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1VnB2PWw59Mjrkn9I4yUkH6qKFT1ZoRLl" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1VnB2PWw59Mjrkn9I4yUkH6qKFT1ZoRLl" column=1 %}
 
 เริ่มต้นจากทริปเล็กๆที่เพื่อนชวนเล่น Carcassonne ทำให้ /me หลงเข้าไปติดกระแสวังวนของบอร์เเกมจนออกไม่ได้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1WAvAnmyFd47EbaN4SkwWpPesH4-0phQA" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1WAvAnmyFd47EbaN4SkwWpPesH4-0phQA" column=1 %}
 
 ซึ่งจริงๆแล้ว หลายปีที่ผ่านมา บอร์ดเกมเกิดเป็นกระแสในไทย มีเกมใหม่ๆจากต่างประเทศเข้ามาขายมากขึ้น มีเพจบนเฟสบุ๊ค มีกลุ่มมาคุยกันเรื่องบอร์ดเกม รวมไปถึง เริ่มมีบริษัทเข้ามาแปลเกมต่างๆ เพื่อจำหน่ายในไทย
 
 โชคดีที่ว่า /me มีกลุ่มเพื่อนคอเดียวกันเยอะพอตัว ทำให้มีโอกาสไปเล่นด้วยกันบ่อยๆ บางทีมากจน กลายเป็นกิจกรรมประจำวันหยุดไปซะแล้ว =3=)/
 แต่อยู่มาวันหนึ่ง ก็มีแชทเด้งขึ้นมาว่า
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1VEItQlT136OZzHLlmm2MznIc6XqXk4Sy" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1VEItQlT136OZzHLlmm2MznIc6XqXk4Sy" column=1 %}
 
 คิดอยู่ในใจหนักมาก เพราะไม่รู้ว่าจะไปรอดรึปล่าว สำหรับตัวเองซึ่งเป็น บ๊วยของแก๊ง เล่นทีไร มักจะแพ้คนอื่นตลอด ไม่รู้ว่าจะเรามีประโยชน์มากแค่ไหน แต่ท้ายที่สุดแล้วก็ตอบรับไป และความหรรษาก็เริ่มต้นขึ้น
 
@@ -33,7 +33,7 @@ color: rgb(224 44 67)
 
 หลังจากตกลงปลงใจกันแล้ว ในที่สุดก็ได้ทีม 3 คน ประกอบไปด้วย /me, มิกกี้ และ พี กำหนดการส่งใบสมัครก็ใกล้เข้ามาทุกที ทุกคนจึงต้องไปทำการบ้านกันมา การบ้านที่ว่า คือ ตีโจทย์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1RWcx8zayhcPT6y7XlaDpYEGB3ly_m0yT" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1RWcx8zayhcPT6y7XlaDpYEGB3ly_m0yT" column=1 %}
 
 สิ่งแรกที่จำเป็นที่สุดในการแข่งขัน คือ เข้าใจโจทย์ และตีความออกมาให้ถูกใจกรรมการมากที่สุด 
 
@@ -55,7 +55,7 @@ color: rgb(224 44 67)
 
 ทุกคนเริ่มมีภาพ Colt Express ขึ้นมาในหัว ซึ่งเห้ย มันน่าสนุกแฮะ หลังจากมีประกายเริ่มต้น เปลวไฟของไอเดียก็เริ่มลุก ทุกอย่างมันก็เริ่มต่อไปได้ง่ายๆ อยากเพิ่มแอคชั่นนู้น แอคชั่นนี้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1tuNXOQTKH4p0b_d5XtF3UsYgYYebGEZA" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1tuNXOQTKH4p0b_d5XtF3UsYgYYebGEZA" column=1 %}
 
 * จะให้เครื่องบินเป็นของส่วนกลาง หรือ เป็นของส่วนตัว?
 * จะต้องจัดการกับการ์ดยังไง?
@@ -66,17 +66,17 @@ color: rgb(224 44 67)
 
 และงานยากต่อมา คือ การสรุปทุกอย่างลงไปเป็นแค่ presentation 5 หน้า สุดท้ายต้องกราบขอบคุณพลังอันมากล้นของมิกกี้ เสกสันต์มันขึ้นมาจนได้ ภายในไม่กี่วัน :)
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1-WY16lddvmx5iuECIDfISN0cvIdCPCj9" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1-WY16lddvmx5iuECIDfISN0cvIdCPCj9" column=1 %}
 
 รอลุ้น กับ ภารกิจแรก
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Ey0m6RMtKqOXGOMBfzuvFxI8EjZrmgeh" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1Ey0m6RMtKqOXGOMBfzuvFxI8EjZrmgeh" column=1 %}
 
 เป็นที่น่าตื่นเต้นมาก ไม่น่าเชื่อว่าไอเดียที่เราส่งไป จะเข้ารอบแรกไปจนได้ จาก 200 ทีมที่สมัครเข้าไป คัดจนเหลือแค่ 10 ทีม {ข้อมูลจากพี่สต๊าฟ}
 
 ภารกิจแรกของการเดินทางออกแบบบอร์เกมครั้งนี้ คือ **ไปเยี่ยมชมศูนย์บริการวิชาการเกษตร** ของมูลนิธิชัยพัฒนา อ.ลำลูกกา จ.ปทุมธานี ซึ่งเป็นศูนย์ให้ความรู้เกี่ยวกับเกษตรทฤษฎีใหม่ แนวคิดต่างๆที่เกี่ยวข้องกับการเกษตร
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=11jmV3o3nen7WETe9PLu_6DrrTwPrFYbL" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/11jmV3o3nen7WETe9PLu_6DrrTwPrFYbL" column=1 %}
 
 เป็นประสบการณ์ที่สนุก แต่ที่น่าเสียดายว่า ทีมของเราทำในหัวข้อฝนหลวง เลยไม่ค่อยได้นำแนวคิดที่ไปเที่ยวชมมาใช้สักเท่าไร แต่อย่างไรก็ตาม ทริปนี้เป็นจุดเปลี่ยนสำคัญของทีมเลยทีเดียว
 
@@ -128,7 +128,7 @@ color: rgb(224 44 67)
 
 /me เริ่มไอเดียนึงแว๊ปขึ้นมาว่า ทำไมเราไม่ทำลองทำก้อนตรงกลางเป็น**ต้นไม้** ทุกๆรอบ ต้นไม้จะค่อยๆเหี่ยว ทุกคนต้องพยายามพยุงไม้ให้ต้นไม้ตาย ไปพร้อมๆกับเก็บคะแนนของตัวเอง
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1D2o3dI_SsQ6fOL_RdEdndZCJtnCIF0Mv" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1D2o3dI_SsQ6fOL_RdEdndZCJtnCIF0Mv" column=1 %}
 
 แต่ต้นไม้ดูเหมือนว่าจะหลุดจากธีมเดิมไปมาก ตบไอเดียกันอยู่หลายรอบ ทำไมไม่ลองเปลี่ยนต้นไม้เป็น **ก้อนเมฆ** แทนไปเลยหละ ใช่!! **Euraka Moment!!**
 
@@ -136,7 +136,7 @@ color: rgb(224 44 67)
 
 แน่นอนว่า ในวันนั้นเราไม่มี Art work เลยสักนิดเดียว ทุกอย่างเผามาก มองของที่อยู่รอบตัว หากรรไกร กาว แปะมันแบบมั่วๆนั้นแหละ แล้วเอามาลองเล่นกันเลย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Qn9aZd4lWyp3akB6iwXdy5lWuj-mfYE-" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1Qn9aZd4lWyp3akB6iwXdy5lWuj-mfYE-" column=1 %}
 
 แอคชั่นการ์ดเขียนตอนนั้น, เอาขวดยาเป็น first player token, เอากล่องโง่ๆ เป็นลูกเต๋าก้อนเมฆจริงๆ
 
@@ -154,20 +154,20 @@ color: rgb(224 44 67)
 
 นัดกันมาตัดๆ ประกอบๆ ในที่สุด **เกมสายฝนv1** ก็ถือกำเนิดขึ้นมาแล้ว :)
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1067OgGyW7LbefWmwwT82S0oo7sUQaODE" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1067OgGyW7LbefWmwwT82S0oo7sUQaODE" column=1 %}
 
 บรรยากาศการทำ prototype v1
 
 ทุกคนในทีมดูจะภูมิใจกับมันมากเลยทีเดียว เกมแรกที่ออกแบบ 
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Hwt-6iKbqunxB56m_L4AWT0uDxyUh6VL" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1Hwt-6iKbqunxB56m_L4AWT0uDxyUh6VL" column=1 %}
 
 หลังจากได้ เกมเป็นชิ้นเป็นอันแล้ว ก็ต้องต่อด้วยการ **เทส เทส เทส แล้วก็เทสกันไปรัวๆ** จะว่าไปแล้วพวกเราใช้เวลาเกือบ 80% ไปกับการเทส 
 
 ความรู้สึกสนุกตอนแรก มันเริ่มเปลี่ยนไป เริ่มพบความจริงว่า **มันสนุกแค่รอบแรกรอบเดียว** นานๆไป มันเบื่อมาก ใช้แพทเทิร์นเดิมๆไป ก็ชนะได้ ทุกอย่างมันติดอยู่ในกรอบไปทั้งหมด
 
 เป็นปัญหาตัวโตมาก ลองเปลี่ยนเงื่อนไขการได้คะแนน เพิ่มการ์ดแอคชั่น เพิ่มการ์ดลบคะแนน แต่เหมือนมันขาดอะไรไปสักอย่างที่คิดยังไงก็คิดไม่ออก
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Cvfhbcxk3quszCqrRHMM-wQs3TAJmaDE" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1Cvfhbcxk3quszCqrRHMM-wQs3TAJmaDE" column=1 %}
 
 ลองไปให้เพื่อนๆคนอื่นเล่นบ้าง และก็ได้ความเห็นตรงกันว่า
 
@@ -203,7 +203,7 @@ color: rgb(224 44 67)
 ทำไมต้องมาหาคำตอบด้วยตัวเอง เพราะว่า เราสามารถยืนบนไหล่ของรุ่นพี่ที่มาก่อนๆเรา แล้วหยิบยืมแนวคิดนั้นมา
 หนึ่งในรุ่นพี่ที่กำลังพูดถึง คือ [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage)
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1uo4CILiGzfEJm7doev3V7mIvDFwbwQwY" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1uo4CILiGzfEJm7doev3V7mIvDFwbwQwY" column=1 %}
 
 ตลอด 3 เดือน การไปเล่นเกมหลังเสร็จประชุมค่อยๆกลายเป็นเควสประจำวันสำหรับทุกคนในทีม เป็นโอกาสที่ทำให้ได้เจอเกมใหม่ๆ วิธีการเล่นใหม่ๆ ความสนุกใหม่ๆ 
 
@@ -216,13 +216,13 @@ color: rgb(224 44 67)
 กลับมาที่โจทย์ของเรา “ทำยังไงให้เกมมีระบบสุ่ม แต่ผู้เล่นก็สามารถวางแผนของตัวเองได้” ซึ่งระบบ [Drafting](http://nothingsacredgames.com/mechanic-analysis-drafting/) ที่อยู่ใน Bloog Rage หรือ 7 Wonders มันสามารถตอบโจทย์นี้ได้เป็นอย่างดี เพราะผู้เล่นมีโอกาสเลือกการ์ดของตัวเองไปพร้อมๆกับ เดาการ์ดของคนอื่นไปพร้อมๆกัน
 
 เราจึงกลับมาลองกันอีกครั้ง
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1sz1TMFMHOfHqvcfywgcxhS5OTt50VKZn" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1sz1TMFMHOfHqvcfywgcxhS5OTt50VKZn" column=1 %}
 
 ทุกอย่างเริ่มเป็นรูปเป็นร่างมากขึ้น แต่ความสนุกมันยังไม่พอดี เหมือนอาหารที่เริ่มมีรสชาติ แต่ยังไม่พอที่จะสามารถดึงดูดให้ลูกค้ามาเล่นบ่อยๆได้
 
 ท้ายที่สุด ก็เทสกันไปเรื่อย แต่กลายเป็นว่า ความบังเอิญมีอยู่จริงๆ ไม่รู้ว่าอะไรมาดลบันดาลให้ลองเล่นรอบละ 2 ลูกเต๋าดู เหมือนทุกอย่างมาลงล๊อค พอดิบพอดี สนุกจนไม่น่าเชื่อ แค่เปลี่ยนจำนวนลูกเต๋าเท่านั้นเอง
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1OSwLX6tO6yeye6B-9VNO0kzcZbFWprA_" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1OSwLX6tO6yeye6B-9VNO0kzcZbFWprA_" column=1 %}
 
 **ส่วนตัวคิดว่า** ปกติแล้ว ถ้ามีของที่ทุกคนใช้ร่วมกันแค่ชิ้นเดียว จะไม่มีใครสามารถควบคุมของชิ้นนี้ได้เลย เหมือนเป็นระบบสุ่ม เพราะไม่มีทางรู้ว่าคนอื่นจะลงแอคชั่นอะไร และจนว่าจะถึงรอบของตัวเอง มันจะเปลี่ยนแปลงไปยังไง ไม่สามารถเดาได้เลย
 
@@ -240,11 +240,11 @@ color: rgb(224 44 67)
 
 ไม่น่าเชื่อมาก แต่ก็ถือเป็นเรื่องที่ดี เพราะเป็นโอกาสทำให้ได้ลองเทียบกันดู และก็พบว่า เห้ยยย เรายังสามารถเพิ่มแอคชั่นนู้นนี้ได้อีกเยอะเลย กราบขอบคุณพี่เนม พี่ปอม แห่ง The Castle Board Games Cafe มากๆครับ :)
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1baiDgHv_EPS6ATkU_oyFsvi5IIjNFBi9" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1baiDgHv_EPS6ATkU_oyFsvi5IIjNFBi9" column=1 %}
 
 เราได้วิธีเล่นแล้ว เราออกแบบการ์ดแล้ว เหมือนทุกอย่างทยอยๆเสร็จสมบูรณ์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1-sbs4QwMieUHi6t5TCy2VVrWzFggx-Oe" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1-sbs4QwMieUHi6t5TCy2VVrWzFggx-Oe" column=1 %}
 
 # Play test day by Garena
 
@@ -252,13 +252,13 @@ color: rgb(224 44 67)
 
 วันนั้นแต่ละทีมมีโอกาสได้เล่น 3 รอบ รอบละ 30–35 นาที จะได้มีเวลานำเสนอแล้วเล่นกับทีมงาน สนุกมากๆ ไม่น่าเชื่อว่าทุกคนจะสามารถเข้าใจเกมสายฝนกันได้อย่างรวดเร็ว <span class="tag-en"><span class="tag-en">#ภูมิใจสุดๆ</span></span>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1OFdrpYMrDy-YRpmOvN05NzqckYlElfXx" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1OFdrpYMrDy-YRpmOvN05NzqckYlElfXx" column=1 %}
 
 และวันนั้นเป็นวันแรก ที่ทุกทีมได้เห็นเกมของกันและกัน ซึ่ง /me ได้โอกาสก็ไปเดินทั่วๆ ดูเกมของคนอื่น ทุกทีมทำออกมาได้น่าสนใจ น่าเสียดายที่ในวันนั้นได้ไปเล่นแค่เกมเดียว 
 
 สิ่งหนึ่งที่ชอบมากๆ คือ หลายทีมตีความ ขอบเขตของ print & play ได้น่าสนใจ ไม่ว่าจะเป็นการเอาเหรียญมาเป็นองค์ประกอบในการเล่น หรือ การใช้คลิปหนีบกระดาษมาเป็นแท่นสำหรับวาง miniture
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ZVUpS5G7Jt27Hr9ZaO7ytDFlPFCpA0tv" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1ZVUpS5G7Jt27Hr9ZaO7ytDFlPFCpA0tv" column=1 %}
 
 ตัวอย่างเกม A Field Day ในวัน Play test
 
@@ -266,7 +266,7 @@ color: rgb(224 44 67)
 
 พวกเราโชคดีมากที่ได้คุยกับกรรมการในหลายๆประเด็น, ได้ฟังความเห็นจากพี่ๆที่มาเทส ประกอบกับสัมนาเล็กๆจากกรรมการ ซึ่งได้แนวคิดหลายอย่างเพื่อมาเติมความสมบูรณ์ 
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1H-qi8G4wm03NOUAfIlsEpoGcCu8Er9gi" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1H-qi8G4wm03NOUAfIlsEpoGcCu8Er9gi" column=1 %}
 
 หลังจาก playtest ครั้งสุดท้าย กลับมาทบทวนกันอีกครั้งว่า อะไรคือสิ่งที่ต้องแก้ไขอีกบ้าง?
 
@@ -293,7 +293,7 @@ color: rgb(224 44 67)
 
 และสุดท้ายในวันที่ 19/01/2018 ที่ผ่านมา สิ่งที่พวกเราพยายามกันมาตลอด 3 เดือนก็สำเร็จอย่างสวยงาม กับรางวัลชนะเลิศอันดับที่ 1
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1EnwmxK5GuPBQDfuwoegOAW5SLeOueE1t" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1EnwmxK5GuPBQDfuwoegOAW5SLeOueE1t" column=1 %}
 
 ขอขอบคุณการีน่าและมูลนิธิชัยพัฒนา ผู้ใหญ่ใจดีที่ทำให้มีการประกวดนี้
 ขอบคุณพี่ๆจาก The Castle Board Games Cafe ที่ช่วยเล่น ช่วยคอมเม้น
@@ -301,7 +301,7 @@ color: rgb(224 44 67)
 ขอบคุณเทพ, หยอย และเพื่อนๆ ทุกคน
 และขอขอบคุณพี และ มก. เพื่อนร่วมทีมที่น่ารัก
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=15NHYMRPkYzWkJPvKYnQNWjAJbAV0mS1a" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/15NHYMRPkYzWkJPvKYnQNWjAJbAV0mS1a" column=1 %}
 
 ไม่รู้ว่า ต่อไปจะมีโอกาสแบบนี้อีกรึปล่าว แต่นี้เป็นโอกาสครั้งแรกที่สนุกมากๆ จุดเริ่มต้นปีที่ดี ไว้เกมอัพเดตเสร็จสมบูรณ์แล้วจะมาอวดกันอีกที :)
 

@@ -14,7 +14,7 @@ color: rgb(56 141 247)
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1V21Je6KCoIb4wUA15koSR3xaf9OFNVW8" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1V21Je6KCoIb4wUA15koSR3xaf9OFNVW8" column=1 %}
 
 หลายๆคน มักโดนถามอยู่บ่อยๆว่า แมวตัวนั้นเป็นพันธุ์อะไร? แมวตัวนี้ใช่เปอร์เซียรึปล่าวนะ? เวลาผ่านไป กลับกลายเป็นว่า ทาสแมวมือใหม่หลายๆคนเข้าใจคำว่า "สายพันธุ์" แบบผิดๆ
 
@@ -24,13 +24,13 @@ color: rgb(56 141 247)
 
 สายพันธุ์แมว คือ ตระกูลของแมวที่ได้รับการลงทะเบียนกับสมาคมแมวเหมียวต่างๆ (Cat registry) เช่น CFA, IPCBA หรือ ที่ประชาสัมพันธ์ในไทยบ่อยๆ อย่าง TICA
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1YO6f4V45M6EFl55BvjwuyhuVTPcws9Vs" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1YO6f4V45M6EFl55BvjwuyhuVTPcws9Vs" column=1 %}
 
 องค์กรเหล่านี้ เป็นองค์กรที่รวบรวมข้อมูลต่างๆของแมวจากทั่วโลก โดยเฉพาะข้อมูลเชื้อสายวงศ์ตระกูล (Pedigree) แมวตัวนี้เป็นลูกเต้าเหล่าไหน ได้ลักษณะนี้มาจากใคร
 
 แมวทุกตัวในแต่ละสมาคม จะมีการลงทะเบียนและกำหนดสายพันธุ์ โดยกำหนดจากเชื้อสายของพ่อแม่ของตัวนั้นๆ ซึ่งแต่ละสายพันธุ์จะต้องมีลักษณะบางอย่างที่ถ่ายทอดไปสู่ลูกหลาน เช่น สีขนอันเป็นเอกลักษณ์ของแมว Siamese, นิสัยการชอบเล่นน้ำของ Turkish Van
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1dxNWh1Qe6WahBONi2uWn7MxahPQ1BrTj" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1dxNWh1Qe6WahBONi2uWn7MxahPQ1BrTj" column=1 %}
 
 อย่างไรก็ตาม แต่ละสมาคมมีจำนวนสายพันธุ์แมวที่จดทะเบียนไม่เท่ากัน อย่าง TICA มีถึง 71 สายพันธุ์ แต่ CFA มีเพียง 41 สายพันธุ์ ดังนั้นแมวแต่ละตัว จึงอาจจะเรียกเป็นคนละสายพันธุ์ขึ้นกับสมาคมที่แมวตัวนั้นจดทะเบียน และบางลักษณะอาจจะไม่โดยยอมรับจากบางสมาคม
 
@@ -38,7 +38,7 @@ color: rgb(56 141 247)
 
 อย่าง TICA ระบุว่า American Curls มีลักษณะได้ทั้งขนสั้น/ยาว ขนมีลายอะไรก็ได้ แต่ต้องมีหูพับขึ้น ตารีรูปวอล์นัท ตัวเป็นทรงสี่เหลี่ยมขนาดกลาง และ หัวกลม ซึ่ง American Curls ทุกตัวต้องได้รับลักษณะนี้จากพ่อแม่ ไม่ว่าจะได้รับขนสีอะไรก็ตาม
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1S0uviVy3-GKb_UlQFufPkht1itomzQRY" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1S0uviVy3-GKb_UlQFufPkht1itomzQRY" column=1 %}
 
 แต่กลับกัน ถ้าแมวข้างบ้านของใครที่มีลักษณะแบบนี้ ไม่ได้รับประกันว่า มันเป็น American Curls สามารถบอกได้เพียงว่า "likely to be American Curls" เพราะว่า แมวที่เราเห็นอาจจะเป็นแค่องค์ประกอบยีนส์ที่ประจวบเหมาะพอดี แต่ไม่ได้สืบสายพันธุ์มาจากต้นกำเนิดของ American Curls
 
@@ -70,6 +70,6 @@ color: rgb(56 141 247)
 
 ตามหาสายพันธุ์ที่มีลักษณะใกล้เคียงเจ้าเหมียวของคุณมากที่สุด แล้ว ยกตำแหน่ง ...... Mix (เติมชื่อพันธุ์ที่หามาได้ในช่องว่าง) ให้มัน แต่ถ้าไม่มีเวลา คุณสามารถยกตำแหน่ง Mr.Moggie (คุณชายพันธุ์ทาง) ไปพลางๆ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1O9NwLAvgaVVv7vv1pp6--lagUr09BivN" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1O9NwLAvgaVVv7vv1pp6--lagUr09BivN" column=1 %}
 
 แต่สิ่งที่สำคัญกว่า คำถามว่า "มันคือพันธุ์อะไร?" คือ "คุณให้อาหารมันรึยัง?" ไปให้อาหารมันซะ ก่อนที่มันจะยึดครองบ้านคุณ และร่วมมือกันแมวข้างๆบ้านเพื่อ ยึดครองโลก

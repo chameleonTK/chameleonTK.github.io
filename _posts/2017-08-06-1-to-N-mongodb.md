@@ -13,7 +13,7 @@ color: rgb(83 171 222)
 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1nFcTLCqJIh4VdDPXnzHTNTbKz34svmR_" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1nFcTLCqJIh4VdDPXnzHTNTbKz34svmR_" column=1 %}
 
 อาทิตย์ที่แล้ว /me เขียนแนะนำ MongoDB ไปเป็นที่เรียบร้อยแล้ว ใน [MongoDB is comming](https://chameleontk.github.io/mongo) พูดไปจนถึงข้อดี/ข้อเสีย และตัวอย่างงานที่เหมาะ/ไม่เหมาะกับเจ้า MongoDB
 
@@ -28,7 +28,7 @@ color: rgb(83 171 222)
 
 สำหรับข้อมูลใน Relational DB อย่างใน MySQL เราสามารถออกแบบให้มีความสัมพันธ์ระหว่างตารางได้อย่างซับซ้อน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1vm4oJetnPnC1hIArVoDvhhpZo7S5u4q-" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1vm4oJetnPnC1hIArVoDvhhpZo7S5u4q-" column=1 %}
 
 ในทางกลับกัน สำหรับ MongoDB มักออกแบบให้แต่ละข้อมูลมีความสัมพันธ์กันแบบแบนๆ ไม่ซับซ้อน หรือเรียกว่า "flattened" ดังนั้นการออกแบบโครงสร้างข้อมูลใน MongoDB จึงต้องมีมุมมองที่แตกต่างจากการคิดแบบ Relational DB
 

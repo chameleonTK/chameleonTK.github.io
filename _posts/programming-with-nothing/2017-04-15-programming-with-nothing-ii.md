@@ -25,7 +25,7 @@ Numbers is the most fundemantal thing for human being.
 
 # What is number?
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=18p3E5OzInFyzWnAvxbIn5LY03FL-zZl2" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/18p3E5OzInFyzWnAvxbIn5LY03FL-zZl2" column=1 %}
 
 มันเป็นเรื่องยากในการนิยามคำว่า "ตัวเลข" บางคนบอกว่า "ตัวเลขคือสิ่งที่ใช้อธิบายจำนวนของสิ่งของ" แต่ดูเหมือนว่า คำนิยามนี้สร้างคำถามที่ย้อนให้เกิดคำถามต่อไปอีกว่า "จำนวนคืออะไร?" ดูเหมือนว่ามันแค่เป็นการเล่นคำเพื่ออธิบายคำว่า "ตัวเลข" เท่านั้นเอง คล้ายกับการนิยามคำในพจนานุกรม "ขาว คือ สีที่ตรงข้ามกับดำ, ดำ คือ สีที่ตรงข้ามกับขาว"?
 

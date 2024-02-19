@@ -13,7 +13,7 @@ color: rgb(19, 196, 165)
 แมวสีเทาจากรัสเซีย ที่ /me ใผ่ฝันจะเลี้ยงซักครั้งในชีวิต อยากลูบไล้ คลอเคลีย อยู่ด้วยกันทั้งวัน <span class="tag-en"><span class="tag-en">#ตอนนี้ก็แค่จินตนาการ</span></span>
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1PZMgvUfZ09uk4PFJWIEWqIzS4EUuWelm" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1PZMgvUfZ09uk4PFJWIEWqIzS4EUuWelm" column=1 %}
 
 #99Days99Articles วันที่ 3 แล้วนะ จากที่วางแผนไว้เหมือนจะหมดสิ้นไอเดียที่จะเขียนหลายๆรูปแบบ ยิ่งต้องเขียนต่อกัน(เกือบ)ทุกวัน ยิ่งยากแฮะ ยอมแพ้!!
 
@@ -27,7 +27,7 @@ color: rgb(19, 196, 165)
 
 แต่วันนี้ /me จะแนะนำแมวอีกพันธุ์หนึ่งที่ไม่ค่อยฮิตเท่าไรในเมืองไทย แต่น่ารักไม่แพ้กัน ซึ่งก็คือ พันธุ์รัชเซียนบลู(Russian Blue) นั้นเองงง ตึ๋งตึ่งแช่~ <span class="tag-en">#เสียงประกอบฉาก</span>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1QR5QFVy0QHxbptYK0e0V8jeyz8QxVCFS" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1QR5QFVy0QHxbptYK0e0V8jeyz8QxVCFS" column=1 %}
 
 อย่างที่เห็น จุดเด่นของพันธุ์นี้ คือ ขนสั้นสีบลู สุดเก๋ หลายคนอาจจะงงว่า [บลู=ฟ้า] แล้วขนมันสีฟ้าตรงไหนกัน ตาบอดสีปะเนี๊ยะ ความจริงแล้วเราจะเรียกสีขนของเจ้าแมวสีเทานี้ว่า bluish-gray ซึ่งเกิดจากการเจือจางของยีนส์ขนสีดำ [ /me เข้าใจไปเองว่า คำว่า blue น่าจะมาจากคำนี้แหละ ซึ่งมันก็คือสีเทานั้นแหละ]
 
@@ -35,18 +35,18 @@ color: rgb(19, 196, 165)
 
 Russian Blue ถือเป็นสายพันธุ์ที่ค่อนข้างมีเอกลักษณ์ เพราะมีแมวเพียงไม่กี่พันธุ์เท่านั้นที่จะมีขนสีเทา แต่สายพันธุ์หนึ่งซึ่งมักจะทำให้คนอื่นๆแยกผิดอยู่บ่อยๆ คือ **British Shorthair with a blue coat**
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1eXxcenQFRf64ZfqQqp6Dd3Jnrx9n3-Gn" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1eXxcenQFRf64ZfqQqp6Dd3Jnrx9n3-Gn" column=1 %}
 
 ตัวอย่าง **British Shorthair with a blue coat**
 
 ลองดูจากไซท์ตัวแล้วคงแยกกันไม่ยากเท่าไร 555 [ความจริง สามารถแยกได้จากลักษณะความหนาของขน กะ ลักษณะนิสัย อะนะ] เอาเป็นว่าถ้าเคยเจอตัวจริงของทั้ง 2 พันธุ์ก็จะรู้ได้ไม่ยากว่ามันค่อนข้างต่างกัน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1SrLndRNKy7ypNcPnnxs32O7Ty2IC5_-I" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1SrLndRNKy7ypNcPnnxs32O7Ty2IC5_-I" column=1 %}
 
 Russian blue ถือเป็นแมวเก่าแก่ ที่มีประวัติยาวนานพันธุ์หนึ่งเลยทีเดียว หลายคนเชื่อว่าพวกมันมีต้นกำเนิดจาก Archangel Isles ใน northern Russia ที่ซึ่งมีอากาศหนาวตลอดทั้งปี มันจึงมีขนที่หนาและนุ่มเป็นพิเศษ นอกจากนี้ยังมีข่าวลือว่า บรรพบุรุษของ Russian Blue มาจากแมวของเหล่าผู้คนชั้นสูงในรัสเซีย
 
 ในส่วนของนิสัยใจคอ "ว่ากันว่า" *[ไม่เคยเลี้ยงไง แต่ก็ยังคงฝันว่าซักวันเราจะเป็นของกันและกัน =3=)/ ]* Russian Blue เป็นแมวที่ฉลาด ขี้เล่นแต่ไม่ซนแบบพันธุ์ Bengal นอกจากนี้ยังถือเป็นแมวที่เงียบ ไม่ร้องโหวกแหวกโวยวาย เซนซิทีฟกับอารมณ์ของเจ้าของ มันจะรู้ว่าตอนนี้คุณกำลังอารมณ์ไม่ดีรึปล่าว เหมาะกับการเอามาเป็นแฟน โอ๊ยยยย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ZdRKFzR-6NaZ-qMNNZYT49TDo4xvi_Su" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1ZdRKFzR-6NaZ-qMNNZYT49TDo4xvi_Su" column=1 %}
 
 แต่ความเศร้า คือ หายากมากๆในไทย และน่าจะไม่ค่อยเหมาะที่จะอยู่แดนดวงอาทิตย์แบบประเทศไทย /me ยังไม่เคยเห็นในไทยเลย [เคยไปเจอตัวนึงที่ร้านคาเฟ่แมวตอนอยู่ที่ญี่ปุ่น] ถ้าจะเลี้ยงคงต้องสั่งตรงจากต่างประเทศ ค่าใช้จ่ายคงไม่ต่ำกว่า 50,000+ บาท หลังจากนี้ก็ต้องฝันกลางวันต่อไปว่า จะมีนังเทาตัวนี้มาอยู่ในมือ

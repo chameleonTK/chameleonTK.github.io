@@ -12,15 +12,15 @@ color: rgb(19, 196, 165)
 [30/9/2016 - 2/10/2016] โดนขุ่นแม่ลากให้กลับบ้าน จึงมีโอกาสเข้าร่วม 2 ประเพณีสำคัญ คือ <span class="tag-en"><span class="tag-en">#สารทเดือนสิบ</span></span> และ <span class="tag-en"><span class="tag-en">#ประเพณีกินเจ</span></span> เลยถือโอกาสบันทึกความทรงจำนี้ไว้ :))
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=199kNO4skiE3yFGWNvQ0kxccoUC6ia4K-" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/199kNO4skiE3yFGWNvQ0kxccoUC6ia4K-" column=1 %}
 
 ช่วงเสาร์-อาทิตย์ที่ผ่านมา (30/9/2016 - 2/10/2016) /me โดนขุ่นแม่ลากให้กลับบ้าน โดนการขู่จะไปฟ้องขุ่นย่า ถ้าไม่ยอมกลับบ้านคงจะโดนงอนแน่ๆ เลยต้องจำใจยอมโดยละม่อม เหตุผลที่โดยลากกลับบ้านมาครั้งนี้ แม่บอกว่า "อยากให้มางานบุญสารทเดือนสิบ งานบุญใหญ่ประจำปี" ซึ่งงานนี้ถือเป็นงานบุญใหญ่ประจำปีที่สำคัญเทียบได้กับงานตรุษจีนของชาวจีนเลยทีเดียว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1qauHYY09rQBGFmGGOjJA3s4lbgGys4vq" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1qauHYY09rQBGFmGGOjJA3s4lbgGys4vq" column=1 %}
 
 แถมช่วงเดียวกันนี้ (1-9 ตค. 59) ยังถือเป็นช่วงเทศกาลถือศีลกินเจพอดีเลย ซึ่งเป็นเทศกาลดั้งเดิมที่มีจุดกำเนิดมาจากจังหวัดภูเก็ต ดังนั้นจึงมีการจัดงานกันอย่างคึกครื้น กินเจกันทั่วทั้งจังหวัด แทบจะหาหมูกินไม่ได้กันเลยทีเดียว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1jMDksTrganWCiBvQF1kP0NoWfWhJ0kh0" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1jMDksTrganWCiBvQF1kP0NoWfWhJ0kh0" column=1 %}
 
 การกลับบ้านครั้งนี้ เลยได้โอกาศเก็บภาพบรรยากาศ Big events ทั้ง 2 ประเพณีมาเล่าให้ฟังกัน พร้อมแล้วก็มาเริ่มการเดินทางกันเลย
 
@@ -30,11 +30,11 @@ color: rgb(19, 196, 165)
 
 เดินทางอยู่ 3 ชม. ถึงสนามบิน แถมยังเป็นคนสุดท้ายที่ขึ้นเครื่อง ยังดีที่เขายังให้ขึ้นเครื่อง ต้องขอขอบคุณพี่ๆที่ออฟฟิศที่แนะนำให้เช็คอินออนไลน์ ไม่งั้นคงบายส์ ไม่ได้กลับบ้าน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1BFfm2Che_mDXrr0l2kkfQanIZ-ccoHe3" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1BFfm2Che_mDXrr0l2kkfQanIZ-ccoHe3" column=1 %}
 
 แต่ในความโชคร้ายยังมีโชคดี เพราะว่าขึ้นเครื่องบินรอบนี้ นึกยังไงก็ไม่รู้ จองข้าวเหนียวมะม่วงมากินตอนขึ้นเครื่องบินด้วยนะฮ๊าฟฟฟ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1bhwFdfXFyMhwLoSo-pbC992Xy9Dbo0bm" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1bhwFdfXFyMhwLoSo-pbC992Xy9Dbo0bm" column=1 %}
 
 ส่วนเรื่องรสชาติ... เราจะไม่พูด จบไป กลับบ้าน นอน ZzZzz
 
@@ -42,53 +42,53 @@ color: rgb(19, 196, 165)
 
 มาเริ่มกันที่ Big event แรกกันก่อนนั้นก็คือ วันสารทเดือนสิบ จัดขึ้นในวันแรม 13-15 ค่ำ เดือน 10 ของทุกๆปี เป็นงานบุญที่เริ่มต้นขึ้นที่เมืองนครศรีธรรมราช ได้รับอิทธิพลมาจากศาสนาพราหมณ์ แต่ต่อมามีการผสมผสานกับความเชื่อทางพระพุทธศาสนา ดังนั้นสำหรับชาวนครศรีฯ งานนี้จึงเป็นงานที่ค่อนข้างสำคัญ ญาติทุกๆคนจากต่างจังหวัดจะมารวมตัวกันที่บ้านเกิดเพื่ออุทิศส่วนกุศล ให้แก่ดวงวิญญาณของบรรพชนและญาติที่ล่วงลับ ซึ่งเชื่อกันว่าได้รับการปล่อยตัวมาจากนรก ในช่วงวันนี้ในรูปแบบของเปรตมาขอส่วนบุญ ซึ่งความเชื่อนี้ได้แผ่ขยายไปยังคนไทยพุทธแถบภาคใต้ จึงทำให้เป็นงานบุญสำคัญทั่วทั้งภาคใต้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Z_Cgvioy10y_plvq_dvwgxCL-sZA1L1N" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1Z_Cgvioy10y_plvq_dvwgxCL-sZA1L1N" column=1 %}
 
 วันนี้(1 ตค. 59) จึงเริ่มต้นด้วยการโดนปลุกด้วยเสียงทะเลาะตั้งแต่ตอนเช้า พักหลังๆ /me พบว่าทั้งขุ่นแม่และขุ่นย่าชอบทะเลาะกันบ่อยซะเหลือเกิน แต่สุดท้ายก็ยังคงพากันตะลอนๆไปที่นู้นที่นี้อยู่ดี //แอบงงแฮะ เรื่องที่ทะเลาะกันคราวนี้ คือเรื่องจะแกงอะไรไปทำบุญอีก ซึ่งมวยฝั่งน้ำเงินบอกว่า "จะแกงน้ำยาอย่างเดียวพอ" ส่วนมวยฝ่ายแดงก็บอกว่า "จะแกงไตปลาด้วย" เถียงกันอยู่นาน สุดท้ายเลยลงเอยที่ /me ได้กินแกงทั้ง 2 กับขนมจีน(5 kg.) เย้
 
 นอกจากขนมจีนแล้ว ก็ยังมีแกงอื่นๆอีกนะ ไม่ว่าจะเป็นแกงเห็ดแครง ต้มส้มผักและขนมต่างๆ ซึ่งขนมในงานสารทนี้ ถือเป็นจุดเด่นของประเพณีนี้อย่างหนึ่ง เพราะว่า ในงานสารทนี้เราจะได้กินขนมอร่อยๆมากมาย(แต่ละอย่างอ้วนมาก น้ำมัน+กะทิ+น้ำตาล นัวกันไปมา) แต่ละพื้นที่ก็จะมีขนมแตกต่างกันไป แต่อย่างไรก็ตามส่วนใหญ่จะมีขนมข้าวพอง และ ขนมลา ให้เห็นในทุกๆที่ เพราะถือเป็นขนมประจำวันสารทเลยทีเดียว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1bL9ddu6ciiiBa_bBPWUV25qxZTEviIes" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1bL9ddu6ciiiBa_bBPWUV25qxZTEviIes" column=1 %}
 
 สำหรับชาวภูเก็ต นอกจากขนมข้าวพอง และ ขนมลา แล้ว มักจะมีขนมประจำเทศกาลวันสารทอีก 3 ชนิด คือ ขนมเทียน, ขนมต้ม และขนมท่อนไต้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1f-J6sm6_83Zi3D6bsMyC-RTHIpbw7m77" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1f-J6sm6_83Zi3D6bsMyC-RTHIpbw7m77" column=1 %}
 //แต่ปีนี้ ที่บ้าน ไม่ได้ทำขนมเองนะ ซื้อเอา 555
 
 หลักจากเตรียมของครบถ้วนแล้ว ก็ออกเดินทาง ซึ่งเป้าหมายของวันนี้ คือ **วัดในยาง** ซึ่งถือเป็นวัดเก่าแก่วัดนึงของจังหวัดภูเก็ต ในวันนี้ของทุกๆปี จะมีการจัดงานใหญ่ และชาวบ้านแถบนั้นจะเดินทางมารวมตัวกันที่วัดอย่างครึกครื้น
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=10Q-vJHtLh6N0ujB0PhzDuUfPNmOFlD6i" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/10Q-vJHtLh6N0ujB0PhzDuUfPNmOFlD6i" column=1 %}
 
 งานวันสารท ถือเป็นงานที่ทำให้เครือญาติกลับมาพบปะสังสรรค์ และ ทำความรู้จักวงศาคณาญาติเพิ่มขึ้น ซึ่งขุ่นย่าก็เลยถือโอกาศทักทายคนนู้นที คนนี้ที เฮฮากันไป <span class="tag-en">#ยังกะเซเลปเลยแกร</span> ความเก่งของคนแก่หลายคน คือ การนับญาติหนิแหละ ดูเหมือนว่าทุกคนในงานจะสามารถนับญาติกันได้หมดเลยทีเดียว OMG ความจริงก็น่าเสียดายที่สังคมก็พัฒนาไปเรื่อยๆ ความสัมพันธ์ระหว่างเครือญาติแบบนี้ก็ค่อยๆห่างหายกันไป <span class="tag-en">#บางทีฉันอาจจะเป็นญาติลุงตู่ก็ได้นะ</span>
 
 นอกจากพบปะญาติพี่น้องแล้ว พิธีกรรมที่สำคัญอีกอันที่ขาดไม่ได้ คือ "**ตั้งเปรต**" ซึ่งหมายถึง การแบ่งอาหารคาวหวานที่บรรพบุรุษชอบ ไปวางรวมกันไว้บน "**หลาเปรต**" ซึ่งเป็นบริเวณที่วัดเตรียมไว้เพื่อวางอาหาร บางที่ก็อาจจะเป็นโคนต้นไม้ใหญ่ หรือกำแพงวัดก็ได้ หลังจากนั้น ก็จะรอพระสงฆ์ทำพิธีกรรมและเริ่มฉันเพล ชาวบ้านก็จะออกมาตักบาตรข้าวสวย แล้วเริ่ม "**ชิงเปรต**" กัน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1df0Irhc6nv-0DKXk8k6k_XvEzM0zqhX8" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1df0Irhc6nv-0DKXk8k6k_XvEzM0zqhX8" column=1 %}
 
 ซึ่งการชิงเปรต นี้ถือเป็นกิจกรรมที่สร้างสีสันต์ได้มากที่สุดในงานเลยทีเดียว เป็นการเปิดโอกาศให้ทั้งผู้ใหญ่และเด็กจะวิ่งกันเข้าไปแย่งขนมกัน ซึ่งเชื่อกันว่ามันเป็นของที่เหลือจากการเซ่นไหว้บรรพบุรุษ ถ้าใครได้ไปกินก็จะได้กุศลแรง
 
 บางวัดจะมีการตั้งเสาน้ำมัน เมื่อถึงเวลาชิงเปรต ก็จะให้เด็กๆแย่งกันปีนไปให้ถึงหลาเปรตซึ่งอยู่บนยอดเสา ถือเป็นความสนุกสนานอย่างหนึ่ง <span class="tag-en">#มองยอดไม้ลิบๆแล้วยอมแพ้อย่างรวดเร็ว</span>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1zlcGw1nm-3T9hTnG_isW4w07T3s6Jsic" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1zlcGw1nm-3T9hTnG_isW4w07T3s6Jsic" column=1 %}
 //แต่ที่ภูเก็ตไม่มีเสาน้ำมันนะเออ
 
 สำหรับประเพณีในจังหวัดภูเก็ต จะมีกิจกรรมที่แตกต่างจากที่อื่นเพิ่มขึ้นมา คือ การให้ทานกับชาวมอแกน หรือ ชาวไทยใหม่ ซึ่งเราจะเรียกพวกเขาว่า "พี่น้อง" //เขาก็เป็นคนไทยทัดเทียบกับเรานั้นแหละ แตกต่างแค่ความเชื่อ ความเป็นอยู่ และภาษา แต่ก็เริ่มโดยสังคมเมืองค่อยๆกลืนไปทีละนิดๆ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1jqYyt5dr4YFL4KEHWvk0qwTLJjddxJuW" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1jqYyt5dr4YFL4KEHWvk0qwTLJjddxJuW" column=1 %}
 
 ซึ่งการมาขอทานของพี่น้อง ก็เป็นประเพณีของเขาเหมือนกัน ตามความเชื่อของชาวมอแกน แล้ววันนี้คือ จะมีการเปิดโลกวิญญาณของบรรพบุรุษลงมายังโลกมนุษย์เพื่อมารับสิ่งของและผลบุญที่ลูกหลานทำให้ แต่สมัยก่อนชาวเลมีฐานะยากจนมาก จึงต้องไปขอทานจากชาวบ้านเพื่อมาใช้ในการประกอบพิธีกรรม และปฏิบัติกันอย่างนั้นมาตลอดทุกครอบครัว ถ้าไม่ทำจะโดนผีบรรพบุรุษลงโทษ
 
 หลังจากทำบุญใหญ่กันแล้ว เหมือนเป็นธรรมเนียมของ /me และญาติๆที่จะต้องไปปาร์ตี้ข้าวเที่ยงร่วมกัน ที่หาดในยาง <span class="tag-en">#อิจฉาละซิ</span> อยู่ใกล้ทะเลก็งี้แหละนะ อิอิ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=14SYSz-t5ig9b8uaPCyQ9nqT8Pj8RnRe8" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/14SYSz-t5ig9b8uaPCyQ9nqT8Pj8RnRe8" column=1 %}
 
 ทะเลในยาง สวยยังไงก็ยังเหมือนเดิม บรรกาศดีมากมาย มีลมทะเลพัดมา แดดอุ่นๆ และเงาต้นสนสลัวๆ ชิวไปหนายยย อยากจะอยู่แบบนี้ยาวๆ เสียดายช่วงที่ไปดันเป็นช่วงน้ำขึ้นพอดี เลยไม่ได้เดินชายหาด
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1H1_NOixtYF5CIbzZRELqkDiishmKRvss" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1H1_NOixtYF5CIbzZRELqkDiishmKRvss" column=1 %}
 
 แถมให้อีกรูป แต่เป็นภาพพระอาทิตย์ตกของท่านอื่น สวยมากๆเลยฮะ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1v82GYtqRuPFHStBvfF4KMkoJ9nN5PlEJ" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1v82GYtqRuPFHStBvfF4KMkoJ9nN5PlEJ" column=1 %}
 
 จากนั้นก็เดินทางต่อไป หาญาติๆที่ ไม้ขาว และ บ้านดอน จังหวัดพังงา
 
@@ -102,58 +102,58 @@ color: rgb(19, 196, 165)
 
 ความจริง สำหรับใครที่สนใจเที่ยวภูเก็ตในช่วงกินเจ ต้องไม่พลาดไปเดินผ่านลูกประทัด ดูขบวนแห่พระ ซึ่งจะมีแห่ในตอนเช้าตามเส้นทางต่างๆทั่วเมือง แต่ละศาลเจ้าจะผลักเปลี่ยนกันแห่งไป ซึ่งจะได้ยินเสียงประทัดตลอดขบวน พร้อมกับภาพคนเข้าทรงที่เอามีดเสียบส่วนต่างๆของร่างกาย ให้ชวนทรมาณใจ <span class="tag-en">#ไปหาดูกันเอาเอง</span> แต่ในส่วนของ /me นั้น ไม่ไปเดินดูแล้ว ปวดหัวเสียประทัด 555 จุดเริ่มต้นในวันนี้ จึงกลายเป็นการไหว้พระ และ หาอาหารเจตอนเที่ยงแทน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1MHpyM0iH9_MbmLM4QSoH2pKDRapOzftq" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1MHpyM0iH9_MbmLM4QSoH2pKDRapOzftq" column=1 %}
 
 ประเพณีกินเจ หรือ ที่คนภูเก็ตเรียกอีกชื่อว่า "เจี๊ยะช่าย" ซึ่งเริ่มต้นขึ้นจากคณะละครงิ้วที่เข้ามาลงหลักปักฐานที่ภูเก็ต ในสมัยนั้นบังเอิญคณะงิ้วเกิดเจ็บไข้ได้ป่วยกันมาก จึงตกลงกันประกอบพิธีกินเจขึ้นในวันขึ้น 1-9 ค่ำเดือน 9 ของทุกปี จนต่อมาก็มีผู้คนเลื่อมใสมากขึ้นเรื่อยๆ จนมีการส่งตัวแทนไปนำควันธูปและสืบต่อประเพณีดั้งเดิมจากมณฑลกังไส ประเทศจีน กันเลยทีเดียว ดังนั้นจึงถือได้ว่า ประเพณีกินเจในไทยนี้มีรากฐานมาจากจีน แต่มีจุดกำเนิดที่จังหวัดภูเก็ต คนภูเก็ตจึงถือว่าเทศกาลนี้เป็นเทศกาลสำคัญมากๆเทศกาลหนึ่ง ไม่น้อยไปกว่าวันสงการณ์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1e24t8YwFoGwHRmlea7qJcpo44R2i-VtE" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1e24t8YwFoGwHRmlea7qJcpo44R2i-VtE" column=1 %}
 
 แต่ แต่ แต่ กลับกลายเป็นว่าวันนี้ซวยสุดๆ เพราะฝนตกหนัก ทั้งเปียก เฉอะแฉะไปหมด ไม่สามารถถ่ายบรรยากาศถนนคนเดินหน้าศาลเจ้าได้ แถมคนก็บางตามากๆ เพราะว่าหลบฝนกัน ตามปกติแถบนี้จะคึกคักมาก เพราะมีร้านอาหารเจมากมายให้เลือกกิน ซึ่ง /me เลือกร้านๆหนึ่ง ซึ่งเป็นร้าน "ร่วมใจอาหารเจ " ซึ่งเป็นร้านข้าวแกงเจ ที่มีตั้งแต่ผัดผักไปจนถึงข้าวหมูแดง <span class="tag-en">#ใครบอกว่าอาหารเจไม่อร่อยต้องมาลองกินที่นี้</span>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1UdgAtw_H-awGgvHNN2syHZ0DUWtT_ebj" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1UdgAtw_H-awGgvHNN2syHZ0DUWtT_ebj" column=1 %}
 
 ซึ่ง highlight ของร้านนี้ก็คือ ปลาเค็มเจ ที่หาที่อื่นไม่ได้ อร่อยมากมาย /me ซื้อตุนไว้เยอะมาก สำหรับกินตลอดสัปดาห์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1CeDA0oulw4q-BcokFDJbv5Nn6tnULFQM" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1CeDA0oulw4q-BcokFDJbv5Nn6tnULFQM" column=1 %}
 
 นอกจากนี้ สำหรับใครที่ไปศาลเจ้าจุ๊ยตุ๋ย ยังมีอีกหลายเมนูที่ต้องไปลอง เช่น หมี่ฮกเกี๊ยนสูตรเจ (แต่ /me ไม่มีรูป เอารูปสูตรไม่เจไปก่อนละกัน)
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=12v8X2yMeKjD14R2i6tThDwhD_WX9B0ju" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/12v8X2yMeKjD14R2i6tThDwhD_WX9B0ju" column=1 %}
 
 และ ขนมเปี๊ยะเจร้อนๆ //รูปของ @cawahanaii ยังไม่ได้ขออนุญาตเบยย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1cUg1XsoUgixu9_J-zI6H39HTv_1_d4IX" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1cUg1XsoUgixu9_J-zI6H39HTv_1_d4IX" column=1 %}
 
 เอาเป็นว่าแถวนั้นมีของกินมากมายให้ลอง เปิดใจแล้วลองซะ อร่อยแทบไม่ต่างจากอาหารไม่เจเลยทีเดียว
 
 แต่เป้าหมายของการมาจุ๊ยตุ๋ยครั้งนี้ไม่ได้มากินนะเฟ้ย หลังจากลุยฝน และบรรดาอาหารมากมายมาตลอดทาง สุดท้ายก็มาถึงศาลเจ้า ซึ่งที่นอกจากศาลเจ้าจุ๊ยตุ๋ยแล้วยังมีศาลเจ้าเล็กๆซึ่งอยู่ติดกัน ชื่อว่า ศาลเจ้าปุดจ้อ ซึ่งเป็นที่ที่มีประวัติกับ /me ในสมัยเด็กๆ แม่เล่าว่า เมื่อก่อนเป็นคนอ่อนแอมาก ป่วยบ่อยจนสุดท้ายเลยต้องมาขอชื่อใหม่จากศาลเจ้าปุดจ้อ ให้ช่วยคุ้มครอง และได้ชื่อ "เต็กหุ้ย" มาใช้จนถึงปัจจุบัน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=16uHSr9UsfVsxV7_LpFdHlDCrPP6oFLWp" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/16uHSr9UsfVsxV7_LpFdHlDCrPP6oFLWp" column=1 %}
 
 ซึ่งภายในศาลเจ้า จะมีผู้คนมากมายเป็นอาสาสมัครช่วยทำนู้นทำนี้ แบบว่า ถ้างงว่าต้องทำอะไรบ้าง ก็เข้าไปถามได้เลย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=17T2II4lFBHQwTpFN7EHQTufdyWRVMWhj" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/17T2II4lFBHQwTpFN7EHQTufdyWRVMWhj" column=1 %}
 
 ความจริงแล้วประเพณีกินเจนี้ ในแต่ละวันจะมีพิธีกรรมต่างๆให้ผู้ที่ศรัทธาเข้าไปร่วมพิธี ใครมาเที่ยว /me ขอบอกเวลาว่าต้องจัดเวลาไปดู ไม่ว่าจะเป็น
 
 พิธีกรรมสะเดาะเคราะห์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1PLPWxtmEjqhNioqTQvhjfx_Pe4B_SbpZ" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1PLPWxtmEjqhNioqTQvhjfx_Pe4B_SbpZ" column=1 %}
 
 พิธีกรรมลุยไฟ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1m-sYJnx0gMfae-QCGR1YPJOmYXh_G4x-" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1m-sYJnx0gMfae-QCGR1YPJOmYXh_G4x-" column=1 %}
 
 พิธีกรรมส่งพระ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1aMUWo11YlS9gh8aBbePGM2fI7xN6eKYs" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1aMUWo11YlS9gh8aBbePGM2fI7xN6eKYs" column=1 %}
 // พิธีส่งพระนี้ถือเป็นพิธีที่ /me ชอบที่สุดแล้ว จะมีขบวนแห่งเกี้ยวพระ จากศาลเจ้าต่างๆ มารวมกันที่สะพานหิน ตลอดทางจะมีการจุดประทัดกันอย่างสนั่นหวั่นไหว เรียกได้ว่า พื้นถนนกลายเป็นสีแดงเพราะเศษประทัด และควันหนาจนมองไม่เห็นฝั่งตรงข้าม
 
 แต่น่าเสียดายที่ปีนี้ /me ไม่ได้เข้าร่วมซักพิธี หลังจากไหว้พระแล้วบ่ายๆ ก็ต้องกลับบ้าน เตรียมกระเป๋า ขึ้นเครื่องกลับ กทม.
 
 สวัสดีเช้าวันจันทร์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mFQpYVAhRqqleIoe-3MWyeEeeaq6wYsm" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1mFQpYVAhRqqleIoe-3MWyeEeeaq6wYsm" column=1 %}
 
 ปล1. สนามบินเสร็จแล้วนะเอออ อุโมงค์ต่างๆที่ขุดๆกันก็เสร็จแล้ว ฮูเร่ๆๆ ดีจัง
 

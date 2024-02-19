@@ -14,7 +14,7 @@ color: rgb(19, 196, 165)
 <!--more-->
 
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ujDMdXCsbaUn6M7b5bmRkBnq3A5cs-AI" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1ujDMdXCsbaUn6M7b5bmRkBnq3A5cs-AI" column=1 %}
 
 <div class="blockquote">
 ใต้ภาคจะไม่ใช่ที่ปลอดภัยอีกต่อไป -- CPE ใครซักคน
@@ -24,7 +24,7 @@ color: rgb(19, 196, 165)
 
 โดยพื้นฐานแล้ว ก็น่าจะมาจากพวกจีต่างๆในวิศวะนี้แหละ โดยเฉพาะตัวดีอย่าง จีหนึ่ง/จีโควต้า ซึ่งพอจีเหล่านี้เริ่มแล้ว CPE ก็จะเริ่มตาม ซึ่งก็จะมีพวกปี4 ไปจับน้องปี1 ไม่ก็จะมีปี1 จับปี4 แต่ละที่ก็จะเล่นในระดับที่ต่างกัน แกล้งต่างกันออกไปตามแต่สะดวก เช่นๆ ถอดเสื้อ ปะแป้ง น้ำแข็งลูบ แต่งหน้า พาไปมัดเสาที่คณะบริหาร <span class="tag-en">#ฉันโดนแบบนี้เลย</span> มัดไปกับตะไล บลาๆ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1VeZuZkhtqp7r23vsQcarDl1kzH7bqmZB" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1VeZuZkhtqp7r23vsQcarDl1kzH7bqmZB" column=1 %}
 
 ผ่านมาหลายปี CPE25 ก็มาถึงปีที่ได้เป็น senior ซักที <span class="tag-en">#เรียนมาสี่ปีแล้ววะ</span> หลักจากเปิดเทอม2 จีต่างๆก็เริ่มเปิดฉากกันซะแล้ว ทำไงละทีนี้!! จุดเริ่มต้นจากความฝังใจที่โดนมา <span class="tag-en">#ฮาๆๆ</span> เพื่อนๆก็ โหวต หาทีม หาเฮด ตอนแรกนึกว่าจะแป๋วซะแล้ว ถูกๆไถๆ เริ่มจาก 16 คน ตอนนี้ก็น่าจะ 20+ เลยนะ <span class="tag-en">#มันส์ซินะ</span>
 
@@ -40,11 +40,11 @@ color: rgb(19, 196, 165)
 
 เพื่อไม่ให้น้อยหน้า พวกเพื่อนก็อยากจะจัดเต็มกันซักหน่อย @Jetdoe เลยเสนอธีม Capital@HungerGame หลังๆแอบ BigBrother แห่ง 1984 มาปนด้วยแฮะ เปิดตัวด้วยการก๊อปฉากเอฟฟี่จับฉลากเลือกบรรณาการ นอกจากแค่เปิดตัวแล้ว ปีนี้ ผญ. เราแข็งแกร่งมาก จะเข้ามาร่วมด้วย <span class="tag-en">#ผญ</span>.ภาคคอมกล้ามโตกว่า ผช. เลยต้องประกาศกติกามาตรการกันอย่างเข้มงวด!!
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1DN0uaBoKd_y0OpN8UPGvJYsHwdwBkvEZ" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1DN0uaBoKd_y0OpN8UPGvJYsHwdwBkvEZ" column=1 %}
 
 # ถึงเวลาฉากจริง
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1TRJnfVziw2lLXlddIWjB3LXsWmb_TG1O" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1TRJnfVziw2lLXlddIWjB3LXsWmb_TG1O" column=1 %}
 
 มี @NuJeab แต่งตัวในนามเอฟฟี่ แถมบอดี้การ์ดหน้าขาวอีก 2+3 ตัวประกอบฉาก
 
@@ -56,7 +56,7 @@ color: rgb(19, 196, 165)
 
 กว่าจะ First blood ได้เลือดแทบกระเด็น <span class="tag-en">#โม้แปป</span> ซึ่งท่านผู้นำของเรา ได้ศึกษาศัตรูอย่างเต็มที่ และเต็มความสามารถ แถมเรายังมีไส้ศึก สอดแนมอีกด้วย ไม่ธรรมดาบอกเลย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1oKcJ9ki9HJSg4bY1jZFM9MhUeMd-wFut" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1oKcJ9ki9HJSg4bY1jZFM9MhUeMd-wFut" column=1 %}
 
 เพราะการวางแผนมาอย่างดี แถมยังมีสายตาอันแหลมคมจาก @PPPPP สุดท้ายก็จับได้ถึง 3ช. 1ญ. แต้มนำไปอย่างรวดเร็วและถือเป็นพิธีเปิดอย่างเป็นทางการ หลังจากนั้น "ใต้ภาคก็ไม่ใช่ที่ปลอดภัยอีกต่อไป" บอกเลย รุ่นพี่โดนซิวไปทีละคนสองคน บายยยย~ จากใต้ภาคที่เหงียบเหงา เป็นใต้ภาคที่เต็มไปด้วยน้องๆ และ newfeed น้องปี1 check-in ด้วยความเหงาประปราย <span class="tag-en">#น้องมันจะแข็งแกร่งเกินไปแล้ว</span>
 
@@ -68,7 +68,7 @@ color: rgb(19, 196, 165)
 
 เรียกเสียงฮา จากทั้งรุ่นน้อง แล้ว รุ่นพี่ได้ไม่น้อง แต่ที่สยองมากคือ แชทกรุ๊ป เกิดภาวะ "ตอนนี้กูกำลังคุยกะใครวะสัส" อยู่ตลอดเวลา แถมน้องยังมีโต้กลับ ด้วยโปรไฟล์สุดเจ๋งไม่แพ้กัน <span class="tag-en">#พวกมันกำลังขายเพื่อน</span>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1LwXIhcT2ZHsHLDVQC8VmdVC_8IWs6kRG,https://drive.google.com/uc?export=view&id=1HNjsV0drV3zaE5Q-AVtIczTj8M_Vmwgo" column=3 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1LwXIhcT2ZHsHLDVQC8VmdVC_8IWs6kRG,https://lh3.googleusercontent.com/d/1HNjsV0drV3zaE5Q-AVtIczTj8M_Vmwgo" column=3 %}
 
 # สุดท้ายนี้ ก็ต้อง ขอบคุณน้องๆ 
 ที่ร่วมเล่นเกมส์เกรียนๆนี้ ถึงมันจะดูงี่เง่า แต่ก็ได้อะไรเยอะนะ อย่างน้อยก็ทำให้น้องๆได้ อยู่ร่วมกันมากขึ้น วางแผน คุยกัน ชอบที่จะได้เห็นภาพที่น้องรวมกลุ่มกันรอพี่ๆ หรือ ลงทุนกลับมา ม. มาช่วยเพื่อน ปีนี้จะไม่สนุกเลย ถ้าไม่มีการร่วมมือจากน้องๆ CPE28

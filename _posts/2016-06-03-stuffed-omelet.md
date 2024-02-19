@@ -17,7 +17,7 @@ color: rgb(19, 196, 165)
 We write to taste life twice, in the moment and in retrospect.
 -- Anaïs Nin</div>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1JSaHX_VX923cxz7FL7WyqLup8GHfCnRH" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1JSaHX_VX923cxz7FL7WyqLup8GHfCnRH" column=1 %}
 
 การเขียนบล๊อกหนึ่งอันต้องใช้เวลานานในระดับหนึ่งเลยทีเดียว เพราะว่าต้องหาข้อมูลอ้างอิงบ้าง แก้รูปประกอบ เรียบเรียงเนื้อหา แต่ความคุ้มค่าของการเขียน คือ การได้มองกลับไปคิดถึงเรื่องราวต่างๆอย่างละเอียดอีกครั้งแล้วฝากความทรงจำไว้กับตัวอักษร ความทรงจำเป็นสิ่งไม่แน่นอน บางเรื่องราวผ่านมาก็ผ่านไป
 
@@ -37,10 +37,10 @@ We write to taste life twice, in the moment and in retrospect.
 
 ## เริ่มจากวัตถุดิบกันก่อน
 * ไข่ 2 ฟอง ตอกใส่ชามแล้วคนให้เข้ากัน แต่พยายามไม่ให้มีฟอง เพราะว่า ห่อแล้วจะไม่สวย //ทำตัวเหมือนมีความรู้
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1sDV2LNvxGb_QQqkbDUGMNF2bz0rKIAQG" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1sDV2LNvxGb_QQqkbDUGMNF2bz0rKIAQG" column=1 %}
 
 * มะเขือเทศ+พริกหวานสีเหลือง หั่นเป็นลูกเต๋า ไม่ต้องเล็กมาก เดี๋ยวเละ จริงๆเพิ่มแครอท หรือผักที่ชอบอื่นๆ ไปด้วยก็ได้นะ แต่งบมีแค่นี้
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=16qoZFG62_Fi_qT20A4g97aVn9_eBz2I-" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/16qoZFG62_Fi_qT20A4g97aVn9_eBz2I-" column=1 %}
 
 * หอมหัวใหญ่ หั่นเต๋า เหมือนกับ มะเขือเทศ
 * เนื้อหมูสับ
@@ -48,17 +48,17 @@ We write to taste life twice, in the moment and in retrospect.
 ## เครื่องปรุง
 
 คล้ายๆ ทำซอสแดงใส่สปาเกตตี้ มีส่วนสำคัญ คือ ซอสมะเขือเทศ กะ น้ำปลา(ใส่เกลือแทนก็ได้นะ)
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1I0F7IXVFwI3pYSr7RknhmeLyiQiVt_hZ" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1I0F7IXVFwI3pYSr7RknhmeLyiQiVt_hZ" column=1 %}
 
 
 เริ่มลงมือทำ
 * ตั้งกระทะ ใส่น้ำมันให้ร้อน แล้วเอาหอมหัวใหญ่ที่หั่นแล้วใส่ลงไป
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Axx-mqP4L3cSFx1X7lGAANY-johlFWn2" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1Axx-mqP4L3cSFx1X7lGAANY-johlFWn2" column=1 %}
 
 * ทอดให้มีกลิ่มหอมมม~ แล้วใส่หมูลงไปพัดๆๆให้สุก
 * เริ่มปรุง โดยใส่ซอสมะเขือเทศลงไปก่อน ค่อยๆชิมก่อน เพราะว่า ซอสมันอร่อยอยู่แล้ว
 * ปรุงเสร็จ ก็เอามาพักไว้ จะได้ไส้หน้าตาแบบนี้
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=10l8agdzWzdoPdiZWX1sUwBJb2Vqw6ZhW" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/10l8agdzWzdoPdiZWX1sUwBJb2Vqw6ZhW" column=1 %}
 
 * ล้างกระทะ แล้วตั้งไฟใหม่อีกที คราวนี้ให้ใช้ไฟอ่อนๆนะ
 * เอาไข่ที่เจียวแล้ว มาเทใส่กระทะ แล้วก็หมุนกระทะไปรอบๆ ให้ไข่มันแผ่ใหญ่ๆ
@@ -67,7 +67,7 @@ We write to taste life twice, in the moment and in retrospect.
 * ไม่ต้องรอให้สุกมาก (เดี๋ยวจะไหม้ซะก่อน ที่จะห่อเสร็จ) ก็เอาใส่ที่เราเตรียมไว้ มาใส่ที่กลางๆ ยิ่งใส่มากจะยิ่งฟิน ระวังจะห่อไม่พอนะ
 * เอาไข่บริเวณริมๆ พับเข้ามา ทนร้อนซักนิด เดี๋ยวก็จะได้กินแล้ว
 * แล้วเอาจานมาครอบกระทะ พร้อมพลิกกระทะลง ก็จะได้ ไข้ยัดไส้ อย่างสมบูรณ์
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=17zUZUftKnALT5rUXN_PLvfn_e4ndIsTD" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/17zUZUftKnALT5rUXN_PLvfn_e4ndIsTD" column=1 %}
 
 //แอบมีไส้ทะลัก เพราะว่า ใส่ไปซะเยอะเลย
 

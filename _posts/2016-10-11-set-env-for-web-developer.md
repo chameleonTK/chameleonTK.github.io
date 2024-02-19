@@ -12,7 +12,7 @@ color: rgb(19, 196, 165)
 [11/10/2016] /me ไปพูดให้น้องๆ CPE ที่ภาควิชาวิศวกรรมศาสตร์ฟัง ถึงความสำคัญของการเซตอัพ Develop Environment ซึ่ง Ep.1 พูดถึง server env. โดยเน้นไปที่ Vagrant เพื่อจัดการ VMs
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1tU4FpEiTc4LRwsmGbIC7AyDz8W81iEyv" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1tU4FpEiTc4LRwsmGbIC7AyDz8W81iEyv" column=1 %}
 
 วันนี้(11/10/2016) ได้โอกาสจาก อาจารย์มะนาว และ อาจารย์สุภาพร ให้เกียรติกลับมหาลัยไปพบรรยายเทคโนโลยีใหม่ๆ ตามโครงการปันความรู้จากพี่สู่น้อง ซึ่งเป็นเรื่องที่น่าตื่นเต้นมาก ซึ่งหัวข้อที่ไปพูดในวันนี้ คือ
 
@@ -43,7 +43,7 @@ color: rgb(19, 196, 165)
 </div>
 
 แต่หลายคนก็บอกว่า ทำไมไม่ลง XAMPP, WAMPP, LAMPP หละ ไม่เห็นจะต้องวุ่นวายเลย?
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ie79EJXXQJi2aQJT1-p6bGqqUuEU6Iml" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1ie79EJXXQJi2aQJT1-p6bGqqUuEU6Iml" column=1 %}
 
 ใช่ครับ มันเป็น package เหล่านั้นทำให้ชีวิต /me ดีขึ้นมากในระยะหนึ่งเลยทีเดียว แต่ความเริงร่ามันอยู่ได้ไม่นานหรอกครับ เพราะเมื่ออยู่ๆ /me พบว่า โปรเจคที่จะทำต้อง downgrade PHP ใน XAMPP ที่อยู่ในเครื่อง รอยยิ้มที่เคยมีมันค่อยๆหายไปกับความวุ่นวายที่เกิดขึ้น และ โลกของความเป็นจริงมันไม่ใช่แค่นี้นะซิครับ
 
@@ -53,10 +53,10 @@ color: rgb(19, 196, 165)
 
 หลายครั้ง /me เลยต้องกลับมาที่การ set up แบบเดิมๆ ค่อยๆลงโปรแกรมทีละอย่าง ทีละอย่าง บางอันก็ต้อง upgrade, บางอันต้อง downgrade แค่คิดว่าต้องทำแบบนี้ 2-3 ครั้ง ก็อ้วกได้แล้ว เพราะมันมีปัญหามากมายเหลือเกิน ประมาณได้ว่า ลง 10 ครั้ง ก็คงจะมีปัญหาใหม่ๆให้แก้ได้ทุกครั้ง ยิ่งคนที่ไม่มีประสบการณ์ ยิ่งเป็นเรื่องยากในการแก้ปัญหาเหล่านี้ เพราะมันไม่มีคู่มือตายตัวว่า เราจะได้เจอปัญหาอะไรบ้าง?
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ZMdZ41BwCK063-bIiWXENXBRwW9bMrAb" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1ZMdZ41BwCK063-bIiWXENXBRwW9bMrAb" column=1 %}
 
 และนอกจากเราควบคุมอะไรไม่ได้แล้ว เรายังโดนควบคุมอีกด้วย เพราะแต่ละงานล้วนมีกำหนดเวลาที่เขาต้องการ นั้นหมายความว่า เราจะเริงร่าค่อยๆแก้ไปทีละปัญหาๆไปเรื่อยเวลาที่ใช้พัฒนาเวปที่ต้องการก็จะยิ่งน้อยลง
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=19184VJ_gS2S2yR7kpDvThZSLTt-Yg4wW" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/19184VJ_gS2S2yR7kpDvThZSLTt-Yg4wW" column=1 %}
 
 นี้ยังไม่นับรวม เวลาที่ต้องไปศึกษา framework ที่ต้องใช้, bussiness logic ของลูกค้า, ออกแบบ software architechture, migration data
 
@@ -70,7 +70,7 @@ color: rgb(19, 196, 165)
 
 # How it works?
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1P-eU_T67pOamvV3aWbvRNZ8JL-G9ZXLs" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1P-eU_T67pOamvV3aWbvRNZ8JL-G9ZXLs" column=1 %}
 1. /me สร้าง Vagrantfile เพื่อกำหนดข้อมูลสำคัญของ VM ไม่ว่าจะเป็น OS, networking, memory, processing core
 2. Vagrant จะเอา Vagrantfile นั้นไปสั่งให้ provider ทำหน้าที่สร้าง VMs ขึ้นมาจริงๆ ซึ่ง provider อาจจะเป็น VMWare หรือ Virtualbox ก็ได้
 3. หลังจากมี VMs แล้ว Vagrant ก็จะสั่งให้ provisioning tool ทำการลง service/module/library ที่เราต้องการ (เดี๋ยวจะมีพูดถึงอีกรอบ)
@@ -84,7 +84,7 @@ color: rgb(19, 196, 165)
 
 นั้นหมายความว่า เราสามารถเซตทุกๆอย่างเกี่ยวกับ vm ได้ โดยใช้แค่ text editor แล้วยังสามารถอัพโหลด config ให้คนในทีมใช้กันได้ง่ายๆ โดยไม่ต้องอัพโหลด ISO ขนาด x GB
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1iyodcxJjo3O2sbOspn4BOj6t6PUdPNtm" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1iyodcxJjo3O2sbOspn4BOj6t6PUdPNtm" column=1 %}
 
 ## 2. Enable to run provisioning software like Puppet or Chef or just pain shell script
 
@@ -93,7 +93,7 @@ color: rgb(19, 196, 165)
 ซึ่งสามารถเขียนเองด้วย BASH เหมือนที่เราใช้ใน Terminal หรือ อาจจะใช้เครื่องมือที่ทำหน้าที่นี้โดยเฉพาะอย่าง Puppet หรือ Chef ก็ทำได้เหมือนกัน
 //ส่วนตัวไม่เคยใช้ Puppet และ Chef เลย ใช้เฉพาะ BASH ล้วนๆ แต่ /me พบว่ามีคนใจดีรวบรวม BASH สำหรับลงโปรแกรมต่างๆไว้ ใครสนใจลองดูได้ที่ Vaprobash
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1dCp2ULjyCZ_hkdqfcpgzflk3W9crbUfY" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1dCp2ULjyCZ_hkdqfcpgzflk3W9crbUfY" column=1 %}
 
 ## 3. Importing pre-made images (called "boxes")
 
@@ -132,7 +132,7 @@ color: rgb(19, 196, 165)
 นอกจาก Vagrant แล้วยังมีอีกหลาย Technology ที่แก้ปัญหานี้ได้เหมือนๆกัน ซึ่ง Tools นึงที่ดังพอๆกัน คือ Docker ซึ่งใช้ Container Technology
 
 แต่ Docker ไม่ได้สร้าง VMs แต่มันแค่สร้างกำแพง(คำเปรียบเทียบ)ขึ้นมาใน OS ของเรา ทำให้เราสามารถลง set up อะไรก็ตามภายในกำแพงนี้ได้ โดยไม่กระทบกับสิ่งที่อยู่ภายนอก และสามารถห่อสิ่งที่เรา set up ไว้ย้ายไปที่อื่นได้ และเพราะมันไม่ได้สร้าง VMs ทำให้ enviroment ที่สร้างโดย Docker (เรียกว่า Container) ทำงานได้เร็วมาก ไม่เปลือง RAM
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=19FdONh73j_DhTmrxhuqydyskRFeRtS-J" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/19FdONh73j_DhTmrxhuqydyskRFeRtS-J" column=1 %}
 
 แต่ ข้อเสียสำคัญของ Docker คือ มันรันได้เฉพาะ Ubuntu ได้อย่างเดียว ถ้าจะลงบน OS อื่นๆ ก็ต้องสร้าง VM Ubuntu ขึ้นมาอีกที ซึ่งกลายเป็นปัญหาที่ยุ่งยากพอสมควรในการใช้งาน แต่เร็วๆ /me ได้ข่าวว่า Docker เวอร์ชั่นล่าสุด 1.12 สามารถรัน native บน OS X, window 10 ได้แล้ว ไม่รู้จะ work แค่ไหน ถ้าใครไม่ชอบ vagrant ก็ไปลองกันได้
 

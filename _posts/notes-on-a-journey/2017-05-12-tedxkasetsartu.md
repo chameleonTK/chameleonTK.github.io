@@ -13,7 +13,7 @@ color: rgb(19, 196, 165)
 วันอาทิตย์ที่ผ่านมา(7/5/2017) /me ใช้เวลาทั้งวัน เดินป้วนเปี้ยนอยู่ภายในโรงหนัง Quartier CineArt โรง 7 เพื่อเตรียมตัวอยู่ในอีเว้น TEDxKasetsartU ในฐานะ Curator
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1-FbckRuyvDlhwd17Cq1a9nAIhPYaYRS3" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1-FbckRuyvDlhwd17Cq1a9nAIhPYaYRS3" column=1 %}
 
 วันอาทิตย์ที่ผ่านมา(7/5/2017) /me ใช้เวลาทั้งวัน เดินป้วนเปี้ยนอยู่ภายในโรงหนัง Quartier CineArt โรง 7 เพื่อเตรียมตัวอยู่ในอีเว้น TEDxKasetsartU ในฐานะ Curator
 
@@ -27,7 +27,7 @@ color: rgb(19, 196, 165)
 
 ในตอนแรกดูเหมือนว่า ไม่น่าจะมี TEDxKasetsartU แต่ไปๆมาๆ ตอนนั้นอยู่ๆก็มีประกาศเพื่อรับสมัครทีมงานจัดกิจกรรม TEDxKasetsartU เลยชวนเพื่อนๆไปสมัคร
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1sSfojAEQu28Tyggj4S_hgseefVkVnS97" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1sSfojAEQu28Tyggj4S_hgseefVkVnS97" column=1 %}
 
 
 ปัญหาแรกที่ /me กลัวมากกว่าเขาจะไม่รับเข้าทีม คือ "อายุ" เนื่องจาก /me น่าจะเป็นคนเดียวที่จบไปแล้วตั้ง 2 ปี แต่ยังป่วน อยากทำกิจกรรมร่วมกับน้องๆที่กำลังเรียนอยู่ กลัวจะเข้ากับน้องๆทีมงานคนอื่นๆไม่ได้ แต่ใจที่อยากจัดมันเถียงชนะ ประกอบกับเพื่อนบอกว่า "ไม่เป็นไรหรอก ชิวๆดิ" เลยทำให้ /me ตัดสินใจสมัครและได้รับสัมภาษณ์ และปรากฎว่าเรื่องอายุดูจะไม่สำคัญไปเลย
@@ -36,7 +36,7 @@ color: rgb(19, 196, 165)
 
 แต่หลังจากนั้นก็เริ่มมีประชุมและพบปะสมาชิกภายในทีม จึงได้เจอกับสมาชิกคนที่เหลืออีก 5 คน คือ แอ๋ม, มุก, มา, ปริ้น และน้องจู
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1PHBsSpDH8TJVkQXr3D6LsWdL7R59bGzl" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1PHBsSpDH8TJVkQXr3D6LsWdL7R59bGzl" column=1 %}
 
 <span class="tag-en">#teamCurator</span>
 
@@ -47,10 +47,10 @@ color: rgb(19, 196, 165)
 แต่กิจกรรมแรกก่อนที่เริ่มงาน กลับกลายไปเป็นกิจกรรมเปลี่ยนที่นอนนอกสถาณที่ เป็นค่ายเล็กๆ 2 วัน ที่ไม่ค่อยได้อะไรเท่าไร ทุกอย่างดูฉุกละหุกไปหมด ทำให้แอบหวั่นๆเหมือนกันว่างานนี้จะไปรอดรึปล่าว? แต่อย่างน้อย การมาค่ายก็ทำให้ /me ได้รู้จักทีมอื่นๆมากขึ้น เพราะแน่นอนว่างานนี้ไม่ได้มีแค่ทีม curator แค่ทีมเดียว เราต้องอาศัยความร่วมมือจากหลายๆคนตั้งแต่ ตากล้องไปจนถึงโปรแกรมเมอร์
 
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1f8jToxz_tel9odl4W3SCW5SCQ0uzlRUI" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1f8jToxz_tel9odl4W3SCW5SCQ0uzlRUI" column=1 %}
 
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1r8ICzqEm95IQhAQzxRlxibpsXa2bo7tE" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1r8ICzqEm95IQhAQzxRlxibpsXa2bo7tE" column=1 %}
 
 
 
@@ -58,12 +58,12 @@ color: rgb(19, 196, 165)
 
 ภารกิจนั้น คือ กิจกรรม Call for speakers เป็นการจัดงานเพื่อคัดเลือกนิสิต(ประชุมรอบแรก) และบุคคลภายนอก(มารู้ทีหลัง) เข้ามาเป็น 1 ใน speaker
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Oa0e6eJwhVK4h2Uuhomk-FLIFslqRHp8" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1Oa0e6eJwhVK4h2Uuhomk-FLIFslqRHp8" column=1 %}
 
 
 ซึ่งสำหรับ TEDxKasetsartU ออกจะแปลกกว่าที่อื่น เนื่องจากปกติแล้ว Call for speakers จะเป็นกิจกรรมสำหรับให้ทุกๆคนเสนอชื่อคนที่อยากจะให้พูด แต่ครั้งนี้เปลี่ยนเป็นการเสนอตัวเองเพื่อเข้าไปพูด และไม่น่าเชื่อว่า หลังจากประกาศไป(โดยที่เพจหลักปล่อยปะละเลย ไม่ค่อยตั้งใจ pr) ก็มีผู้สมัครเข้ามามากกว่าที่คิด และสุดท้ายก็เหลือรอดคนสุดท้าย คือ น้องปอนด์ ในหัวข้อ **หยุดตีตรา เพื่อเดินต่อ**
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1wSwobi1bjib5UQX4rNcLGC1-Hhz532A3" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1wSwobi1bjib5UQX4rNcLGC1-Hhz532A3" column=1 %}
 
 
 น่าเสียดายที่ไม่ค่อยมีรูปบรรยากาศวันนั้นมาอวดซักเท่าไร~
@@ -86,14 +86,14 @@ color: rgb(19, 196, 165)
 
 เวลาค่อยๆผ่านไป จนมาถึงวันเสาร์ก่อนวันจริง มีกำหนดการ Run through เพื่อซ้อมกำหนดการต่างๆ โดยเฉพาะทีม MC และ speakers
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1pK5Z5r-8mwwB7h3ZfJDJMcOKCh28mW3H" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1pK5Z5r-8mwwB7h3ZfJDJMcOKCh28mW3H" column=1 %}
 
 
 และท้ายที่สุดก็ถึงวันงาน ซึ่งทีมงานบางคน โดยเฉพาะทีม stage ต้องไปเตรียมเวทีและสถาณที่กันตลอดทั้งคืน แต่ยังโชคดีที่มีทีม production house ดูแลเรื่องแสงสีต่างๆ และสนับสนุนเรื่องต่างๆ
 
 เมื่อทุกอย่างค่อยๆเป็นรูปเป็นร่าง เวลา 9.00 น. ก็เริ่มซ้อมครั้งสุดท้าย ก่อนขึ้นพูดจริงๆ เริ่มทดลองไมค์ ทดลองลูกเล่นต่างๆที่จะใช้เพื่อพูด ตั้งแต่หุ่นยนต์ของอาจารย์ต้นที่มาเกือบจะไม่ทันเวลางาน, ลูกเล่นการใช้ไฟของน้องปอร์น, การร้องเพลงของพี่แอร์ และการแสดงของครูเงาะ /me พบว่า speakers แต่ละท่านดูจะตื่นเต้นไปตามๆกัน แต่ทุกคนก็เป็นกำลังใจให้ หลังจากนั้น 15.50 น. ก็เป็นเวลาที่ทุกคนรอคอย และเริ่มต้นอีเว้น TEDxKasetsartU
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1-UeIDkwRfkzDMqQOjFKVvteSi-HZrEU3" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1-UeIDkwRfkzDMqQOjFKVvteSi-HZrEU3" column=1 %}
 
 
 ตลอดเวลา 3 ชม. ที่ต้องทำหน้าที่ส่ง speaker ขึ้นไปพูดทีละคนๆ เหมือนเข้าห้องเชือด speakers ทุกคนมีความอดทนสูงมาก เพราะมารอตั้งแต่ 9.00 จนกว่าจะถึงคิวของตัวเอง เรียกได้ว่ารอกันจนหมดไฟเลยทีเดียว /me แอบเห็นใจเหมือนกัน ครั้งหน้าอาจจะต้องหาแนวทางเพื่อแก้ไขจุดนี้อย่างจริงจัง(พี่คนนึงก็แจ้งเรื่องปัญหาทำนองนี้เหมือนกัน)
@@ -102,7 +102,7 @@ color: rgb(19, 196, 165)
 
 และท้ายที่สุด ก็จบงานด้วย After party และดนตรีเพราะๆจาก KU Band
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=11GoLADUkO8WFHcWhjNyW974SlFCpQ2hl" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/11GoLADUkO8WFHcWhjNyW974SlFCpQ2hl" column=1 %}
 
 
 จบลงไปอีกหนึ่งงาน TEDxKasetsartU
@@ -126,5 +126,5 @@ Pakawat Nakwijit
 
 ไว้เจอกันใหม่ คราวหน้าไม่รู้ว่าจะไปทำหน้าที่อะไร อาจจะเป็นแค่ผู้ฟัง แต่อย่างน้อยก็มีโอกาสมาอยู่ในจุดนี้ จุดเล็กๆ จุดเดียวกับที่ Cris Alderson ผู้ก่อตั้ง TED เคยยืน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1eCJsBDirrM_wOqewixkCjyJzzU7uW672" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1eCJsBDirrM_wOqewixkCjyJzzU7uW672" column=1 %}
 

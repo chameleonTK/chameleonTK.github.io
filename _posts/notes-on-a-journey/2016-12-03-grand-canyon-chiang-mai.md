@@ -13,7 +13,7 @@ color: rgb(19, 196, 165)
 กาลครั้งหนึ่งที่ /me และ @supakorn_jab ได้ไปเยือนแกรนด์แคนยอนมาแล้วนะ แถมยังได้ไปเปิดหูเปิดตา <b>เที่ยวกลางคืน</b> กับแจ๊บ มาแล้วด้วย...
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1j2xrTPNso8AsWc7s8_-YyuZKrOTEtO1H" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1j2xrTPNso8AsWc7s8_-YyuZKrOTEtO1H" column=1 %}
 
 <div class="blockquote">
 Nothing is ever really lost to us as long as we remember it.
@@ -27,23 +27,23 @@ Nothing is ever really lost to us as long as we remember it.
 
 แต่อย่างที่บอกแหละว่า ไม่ได้เตรียมตัวอะไรเลยย เพราะต้องแก้บั๊คอยู่ตลอดทั้งวันทั้งคืนยังไงละ <span class="tag-en">#ความเศร้าของการเป็นโปรแกรมเมอร์</span> ท้ายที่สุดแล้วเราก็ได้ที่พักราคาเป็นกันเองจาก Agoda ชื่อ "บ้านเวียงเกสท์เฮ้าส์" ในราคา 500 บาท/ห้อง/คืน แถมยังอยู่ใกล้ประตูท่าแพ มากๆ เดินทางไปไหนก็สะดวก เป็นกันเอง ในที่สุดก็มีที่ซุกหัวนอน //ถ้าใครสนใจก็ไปติดต่อได้ //ได้ค่าโฆษณาปะเนี๊ยะ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ZOsDIChOWy3ILQgQMc82Z0hcDkHP9zCu" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1ZOsDIChOWy3ILQgQMc82Z0hcDkHP9zCu" column=1 %}
 
 หลังจากที่ /me และทุกๆคนในบริษัท ได้ฟันฝ่าบั๊คต่างๆนาๆ ซึ่งก็ปาไปเกือบ 4โมงเย็น เป็นที่เรียบร้อย พี่ๆเลยให้คนขับรถมาส่ง /me และแจ๊บที่ประตูท่าแพ นี้เลยเป็นจุดเริ่มต้นของการเดินทาง และภารกิจแรกที่ทำในคืนนั้น คือ ไปกินสุกี้โคคา ประตูช้างเผือก เจ้าดังประจำเมืองเชียงใหม่ แฮกๆๆ
 
 ซึ่งที่ประตูช้างเผือกนี้ อยู่ไม่ไกลจากที่พักเท่าไร เลยตัดสินใจขอแผนที่จากป้าเจ้าของเกสท์เฮ้าส์ และเดินไป ซึ่งที่ที่เราจะต้องแวะกันซักหน่อย ก่อนที่จะไปกินมือเย็นวันนี้ คือ อนุสาวรีย์สามกษัตริย์ ซึ่งเป็นที่สำคัญของเมืองเชียงใหม่เลย และที่สำคัญ คือ แถบนั้นมีทั้งเสายิมและโปเกสต๊อปอยู่เยอะแยะเลยยยยย~ #PokemonGoTH ระหว่างทางเราก็จะเจอเหล่าโปเกม่อนเทรนเนอร์อยู่ทั่วลาน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1LgQyz5Q7LCXKfxx6Tsnut71k6VJNrgWv" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1LgQyz5Q7LCXKfxx6Tsnut71k6VJNrgWv" column=1 %}
 
 หลังจากไปจับโปเกม่อน เอ๊ยยย ไปไหวอนุสาวรีย์ แล้วก็เดินจ้ำๆ ก็ถึงตลาดช้างเผือกเป้าหมายของคืนนี้ แถบนี้มีร้านอร่อยอยู่เยอะแยะเลย ถึงกับทำให้แจ๊บร้องเสียงหลงเลยทีเดียว //ปกติมันกินยากไง แต่ของที่ขายแถบนี้มันกินได้หมดเลยไง
 
 สำหรับสุกี้โคคาที่ /me รอคอยก็มาเสริฟ //อร่อยสาสสสส //คุ้มค่านะเนี๊ยะ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Sy_ZtqAfocVaY4aiT8DrZR_SoDp2sz51" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1Sy_ZtqAfocVaY4aiT8DrZR_SoDp2sz51" column=1 %}
 
 ก่อนกลับก็แวะกินบัวลอยกันอีกคนละถ้วย //ถ่ายยังไงก็ออกมาไม่สวย //ขออนุญาตแปะรูปของคนอื่นละกัน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1_rgDw1JBvxLyNn-F1F-eCAg3JGmMx7UF" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1_rgDw1JBvxLyNn-F1F-eCAg3JGmMx7UF" column=1 %}
 
 หลักจากท้องตึงกันแล้ว ก็เดินจับมือกลับห้องตามประสาวัยรุ่นชาย 2 นาย เอ๊ยยยยยยย //ผิด //หนังเกย์ก็มา //ไม่จริงนะฮ๊าฟฟฟ และในขณะที่เดินกลับ /me ก็เจอกระดาษสีเทาๆน่าสงสัยหล่นอยู่บนพื้น เราจึงเข้าไปตรวจสอบ แล้วก็พบว่า..... มันคือ แบงค์พันเว้ยเห้ยย มองซ้ายขวาไม่มีใครอยู่ //ได้ค่าห้องแล้วโว้ยยยยยย หลังจากนั้นก็เดินไปที่ห้องอย่างเปรมปรีย์ ใจจริงก็อยากจะเดินเล่นต่ออีกซักหน่อย(เผื่อเจอแบงค์พันอีกใบ เอ๊ยยย) แต่คืนที่ไปเป็นวันพฤหัสก็เลยไม่ค่อยมีตลาดกลางคืน ครั้งจะไปผับก็ไม่ค่อยถนัดซักเท่าไร จะไปนั่งชิว2คนก็แลดูเหงาเกินไป คืนนี้ก็เลยจบลงด้วยความอิ่ม เล่นเน็ตในห้อง และค่าห้องฟรี :))
 
@@ -51,7 +51,7 @@ Nothing is ever really lost to us as long as we remember it.
 
 หลักจากนอนเต็มอิ่มกันเลย /me ตามแพลนที่คุยกัน วันนี้เราจะเดินทางไปแกรน์แคนยอนเชียงใหม่กัน ก็เลยเริ่มออกจากห้องตั้งแต่ 10 โมง ไปกินข้าวเช้าเป็นไข่กระทะ กับก๊วยจั๊บเวียดนาม ที่ร้านไข่กระทะเลิศรส
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mVnPdkl_GRBNOug6a8n5QbUvYMmpPsW6" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1mVnPdkl_GRBNOug6a8n5QbUvYMmpPsW6" column=1 %}
 
 กินแล้วก็เดินทางต่อ ซึ่งความจริงแล้ว ก็ไม่รู้หรอกนะว่าจะต้องไปยังไง เลยถามๆคนที่เดินไปเดินทาง ท้ายที่สุดก็มารออยู่ที่คิวสองแถวที่ตลาดประตูเชียงใหม่ เพื่อนั่งรถสองแถวสีเหลืองเดินทางออกนอกเมือง ตลอดทางก็มีป้าๆยายๆที่มาเดินตลาดชวนคุย สนุกดีเหมือนกัน เฮฮาๆๆ หลังจากคุยกันไป ก็เลยรู้ว่าคุณยายที่นั่งข้างๆ /me อายุ 90+ ไปแล้วว OMG //แต่คุณยายก็ยังแข็งแรงนะเนี๊ยะ ชาบูๆ
 
@@ -59,33 +59,33 @@ Nothing is ever really lost to us as long as we remember it.
 
 ในที่สุดเราก็มาถึง
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1SS_QoazlzRpSzu2MvkGgOCT2bBnrG129" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1SS_QoazlzRpSzu2MvkGgOCT2bBnrG129" column=1 %}
 
 ความจริงแล้ว ตามแพลนที่ /me คิดไว้ คือ แค่มาถ่ายรูป เดินชมวิว แล้วก็กลับ แต่บรรยากาศร้อนๆแบบนี้ มาถึงสวนน้ำทั้งที จะไม่ให้เล่นน้ำก็น่าเสียดาย กลายเป็นว่าทั้ง /me และ @supakorn_jab เลยเดินกันไปซื้อกางเกงขาสั้น กับผ้าเช็ดตัวลงน้ำ เย้ เย้
 
 และเมื่อมาถึงแกรนด์แคนยอนทั้งที ก็พลาดไม่ได้ที่จะต้องมา กระโดดน้ำ //กิจกรรมที่ที่มันมีคนตายเยอะๆอะ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1yC6g6LWml5hpX5Zhaiul01i6g7DXIFGJ" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1yC6g6LWml5hpX5Zhaiul01i6g7DXIFGJ" column=1 %}
 
 ด้วยความที่ /me ว่างน้ำไม่เก่งซักเท่าไร //พึ่งว่ายเป็นตอนปี2เองหนิ ก็เลยตัดสินใจไม่กระโดดดีกว่า ถึงแม้ว่าจะโดนรบเร้าจากคุณแจ๊บ และไอ้ฝรั่งที่มันพึ่งโดนไป "ยังไงฉันก็จะไม่กระโดดหรอกนะ!!" ปล่อยให้คุณแจ๊บโดดคนเดียว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1j3Eh-wIjYMxtcESL-wZv5ND0DUpq4uqr" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1j3Eh-wIjYMxtcESL-wZv5ND0DUpq4uqr" column=1 %}
 
 ปกติคิดมาตลอดว่า ตัวเองเป็นคนไม่กลัวน้ำลึก แต่เอาเข้าจริงๆแล้ว หลังจากที่เห็นน้ำลึก 10 m. ลงไปได้ซักพัก ใจสั่นเลยจ้าาา ตลอดการเล่นน้ำจึงไม่ได้ว่ายไปไหนเลย เกาะอยู่ตามแพ ตามเชือก ตรงไหนเชือกไปไม่ถึง ก็บายส์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1x5cY-z0QwIIRpcpKxq0rUyFY1a90seJC" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1x5cY-z0QwIIRpcpKxq0rUyFY1a90seJC" column=1 %}
 
 แต่ถึงอย่างนั้นก็ยังซ่าแก๊กท่า Dab ได้อยู่ ถึงจะทุลักทุเลไปบ้างก็เถอะ ที่เห็นว่ามันจมๆ /me เองก็ไม่แน่ใจว่าแพมันกระจอก หรือ เราทรงตัวไม่ดี หรือ น้ำหนักเกิน <span class="tag-en">#TeamInstrinct</span> <span class="tag-en">#TeamInstrinct</span> <span class="tag-en">#TeamInstrinct</span>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1DxQZr5mB85gJ3pH3hPPmmqGxN2bI-v_P" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1DxQZr5mB85gJ3pH3hPPmmqGxN2bI-v_P" column=1 %}
 
 ก่อนกลับก็อาบน้ำ นั่งกินข้าวชิวๆ บรรยากาศที่นี้ถือว่าดีเลยทีเดียว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1RmF_8zE2_3YsaeSx-hH2tpzUUA6k373j" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1RmF_8zE2_3YsaeSx-hH2tpzUUA6k373j" column=1 %}
 
 งานเลี้ยงย่อมมีวันเลิกลา เล่นน้ำก็เช่นกัน แต่กรูจะกลับยังไงละเนี๊ยะ ยังดีที่หน้าแกรนด์แคนยอนมีที่จอดรถอยู่ ซึ่งก็มีรถตุ๊กๆจอดอยู่หลายคันเลยโชคดี จ้างให้พี่เขาไปส่งยังเป้าหมายถัดไปที่อยู่ไม่ไกลกันนัก คือ "วัดต้นเกว๋น (วัดอินทราวาส)" ซึ่งเป็นวัดเล็กๆที่มีความเก่าแก่ และคงแบบศิลปกรรมล้านนาดั้งเดิม
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mgovJzSR3dY7OmQguTcuwZrXL0SZ9sdJ" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1mgovJzSR3dY7OmQguTcuwZrXL0SZ9sdJ" column=1 %}
 
 ถึงจะเป็นวัดเล็กๆ แต่เงียบสงบ และสวยมากๆเลยทีเดียว //มันย้อนแสง ถ่ายยังไงก็ออกมามืดงะ //หาคนสนับสนุนงบซื้อกล้องอยู่นะฮะ
 
@@ -93,7 +93,7 @@ Nothing is ever really lost to us as long as we remember it.
 
 หลักจากนั้นก็กลับมาพัก หลังจากผจญภัยกับรถรับจ้างเมืองเชียงใหม่ที่แสนจะแพง แจ๊บก็เสนอไอเดียสุดเจ๋งขึ้นมาว่า "ทำไมเราไม่เช่าจักรยานกันฟร่ะ?" เอออ นั้นซินะ ซึ่งใกล้ๆที่พักก็มีร้านให้เช่าจักรยานพอดิบพอดี จัดไปคนละ 1 คัน จากนั้นก็กลับไปเตรียมตัวพาแจ๊บไปเที่ยวกลางคืน
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1LH2RJ0j0_tIgaePxy_qidMiZMW8dyzCK" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1LH2RJ0j0_tIgaePxy_qidMiZMW8dyzCK" column=1 %}
 .
 .
 .
@@ -104,12 +104,12 @@ Nothing is ever really lost to us as long as we remember it.
 
 ท้ายที่สุดแล้วแจ๊บก็พา /me มากินที่ Burger King จนได้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1tInOCy3by8jHKB1w2uZ1Jjz56t2jQVT7" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1tInOCy3by8jHKB1w2uZ1Jjz56t2jQVT7" column=1 %}
 
 กินไปกินมาก็มีเสียงโทรศัพท์ดังขึ้นพร้อมบั๊ค 1-2 ตัวที่ต้องแก้ โอ่วววว ม่ายยยยย <span class="tag-en">#ความเศร้าของการเป็นโปรแกรมเมอร์</span> เฮ้อออ กลับไปแก้ซิครับ ยังดีที่เผื่อเวลาเอาไว้ แต่ก็นะ เลทไปครึ่งชม. ที่เที่ยวกลางคืน สำหรับคืนนี้ ก็คือ เชียงใหม่ไนท์ซาฟารี(Chiang Mai Night Safari) นั้นเอง~
 /me จะไปดูน้องเสือขาวฮะ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1l1lQpsnzf9umq9rKS6a7SQ964hqThOoD" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1l1lQpsnzf9umq9rKS6a7SQ964hqThOoD" column=1 %}
 
 ก็นะ จะไปเที่ยวผับเที่ยวบาร์ ก็คงไม่เหมาะกับ /me ซักเท่าไร 5555+
 
@@ -119,36 +119,36 @@ Nothing is ever really lost to us as long as we remember it.
 
 สำหรับใครที่อยากไปแนะนำว่าให้รีบไปตั้งแต่ 16.00 - 18.00 น. อย่าให้สายแบบ /me
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1661tpY-EAE5zOE592G-33J9a9FTMGkxx" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1661tpY-EAE5zOE592G-33J9a9FTMGkxx" column=1 %}
 
 ไม่เป็นไรๆๆ อย่างน้อยก็ยังทันไปดู คาบาเร่, Night Predator Show กะ นั่งรถชมสัตว์
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1v3lrAlmAx8ptIVXE74CuDBvoebPzftZk" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1v3lrAlmAx8ptIVXE74CuDBvoebPzftZk" column=1 %}
 
 ก่อนจะเข้าไปดูการแสดง รอบๆไนท์ซาฟารีก็มีสัตว์อยู่หลายตัวนะเออ อย่าง นกฮูกงี้ ลูกเสืองี้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1XczH9XpaO60WyeAjWlEwikV80SxXHt0W" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1XczH9XpaO60WyeAjWlEwikV80SxXHt0W" column=1 %}
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1k3v-go4yepAVin5B1GJwdHrISXt9lRct" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1k3v-go4yepAVin5B1GJwdHrISXt9lRct" column=1 %}
 //เดี๋ยวๆๆๆ เมิงทำอะไรกัน
 
 จริงๆแล้ว การมาไนท์ซาฟารีถือเป็นทางเลือกที่ดีเลยนะ เพราะว่า สัตว์ที่นี้มีเยอะ แบบดีย์อะ แอบเสียดายที่ /me ไม่มีปัญญาถ่ายภาพหนิ ถ่ายกลางคืน ภาพสัตว์วิ่งๆไปมาๆ จากสัตว์ป่าก็กลายเป็นสัตว์ประหลาดไป
 
 ไม่เชื่อ ลองมาดูรูปแล้วลองทายว่ามันคือตัวอะไร
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=19GExawCYObaQIAlBwKjg9t7Tn8yks0Hn" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/19GExawCYObaQIAlBwKjg9t7Tn8yks0Hn" column=1 %}
 //จิงโจ้
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Qeh4OQtujt7M3m0sf4TEgotpc63ozQtF" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1Qeh4OQtujt7M3m0sf4TEgotpc63ozQtF" column=1 %}
 //เสือโคร่ง
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1oXAzOvGWC-N9J4HHInv5pPAr92Urhq6X" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1oXAzOvGWC-N9J4HHInv5pPAr92Urhq6X" column=1 %}
 //เหยี่ยว หรือไม่ก็อินทรีหนิแหละ ไม่แน่ใจ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1JQREJCLBKX51nxG4ZQWcEUoQmBeXpMaK" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1JQREJCLBKX51nxG4ZQWcEUoQmBeXpMaK" column=1 %}
 //ยีราฟคอยาว
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1QJyp35pQXB2SImJgWWjvxqJ_yiinvFqC" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1QJyp35pQXB2SImJgWWjvxqJ_yiinvFqC" column=1 %}
 //สมเสร็จ
 
 สาสสสส ดูภาพที่กูถ่ายได้ซิ หนิคัดเลือกเอาชัดที่สุดแล้วนะ ดูสัตว์แล้วก็หมดไปอีก 1 วัน!
@@ -161,11 +161,11 @@ Nothing is ever really lost to us as long as we remember it.
 
 แต่ก่อนจะไปกินของหวาน ก็ต้องกินของคาวกันก่อน ร้านที่แวะกิน คือ ร้านเนื้อตุ๋นรสเยี่ยม อยู่ที่นิมมานเหมินทร์ ซ.11 ถึงจะปริมาณน้อยไปหน่อย แต่อร่อยมาก
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1uwO2XheBK-pqcRM6QUc4SD7EuH7cxcme" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1uwO2XheBK-pqcRM6QUc4SD7EuH7cxcme" column=1 %}
 
 หลังจากนั้นไม่ไกลกัน ปั่นซักพัก โดนมีแจ๊บ The navigator นำทางเราก็มาถึง iBerry ซึ่งหน้าร้านก็จะมีหมาหน้าคนตัวใหญ่ตั้งเด่นอยู่
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1hzt_1UQjDf3q82Us-hxGgXVIBmPfVSqr" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1hzt_1UQjDf3q82Us-hxGgXVIBmPfVSqr" column=1 %}
 
 แต่น่าเสียดายที่นั่งได้ไม่นาน เพราะว่าต้องรีบไปที่เป้าหมายสำคัญที่ /me หมายตาไว้ตั้งแต่ที่รู้ว่าได้มาเชียงใหม่ ซึ่งมันก็คือ เหล่าคาเฟ่แมวแห่งเมืองเชียงใหม่ จริงๆแล้วก็อยากไปหลายร้านเลยนะ
 
@@ -176,11 +176,11 @@ Nothing is ever really lost to us as long as we remember it.
 
 แต่ด้วยเวลาที่เหลืออยู่ไม่มาก ก็เลยไปได้แค่ที่เดียว คือ Maewmoth Cafe ปั่นจักรยานกันไปยาวๆ จนถึงซอยหลัง มช. เกือบได้แวะดอยสุเทพแล้วเชียว ปั่นๆต่อไปอีกซักพักก็มาถึงหน้าร้านแล้วฮะ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1mV5WPQWHoiDyeZOAsfN41uVkoBKXJXkj" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1mV5WPQWHoiDyeZOAsfN41uVkoBKXJXkj" column=1 %}
 
 รออะไรอยู่ล่ะ เปิดประตูเข้าไป ก็พบน้องแมวเยอะแยะเลยย เย้ยยยยย น้ำยายไหย !@#$%^&*!@#$%^&!@#$% น่ายักจังเยยยย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1ywzMTMGa7nSWcd_J695YaUOLgtwMXeP5,https://drive.google.com/uc?export=view&id=1SrVF6b9xTGYq8XgRg2TbKKqwHKoiAN5S,https://drive.google.com/uc?export=view&id=1c6Kcoj8XD9sWXCF0Hq_O05IylmpCa3fz,https://drive.google.com/uc?export=view&id=1J3KC3Ap-KINLtYPywY4H4gvzZXfBvX68,https://drive.google.com/uc?export=view&id=1DnDLOlL1WjNao7N9G3G3ulfI371W4_fH,https://drive.google.com/uc?export=view&id=1iYoVWPOmTSfzfsSySfqmpqIbl9xVS3BH" column=3 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1ywzMTMGa7nSWcd_J695YaUOLgtwMXeP5,https://lh3.googleusercontent.com/d/1SrVF6b9xTGYq8XgRg2TbKKqwHKoiAN5S,https://lh3.googleusercontent.com/d/1c6Kcoj8XD9sWXCF0Hq_O05IylmpCa3fz,https://lh3.googleusercontent.com/d/1J3KC3Ap-KINLtYPywY4H4gvzZXfBvX68,https://lh3.googleusercontent.com/d/1DnDLOlL1WjNao7N9G3G3ulfI371W4_fH,https://lh3.googleusercontent.com/d/1iYoVWPOmTSfzfsSySfqmpqIbl9xVS3BH" column=3 %}
 
 
 ร้านนี้เป็นร้านเล็กๆ แอบมีกลิ่มฉี่แมวอยู่นิดๆ แต่น้องแมวเยอะ ให้อภัยได้ น้องแมวจะเดินอยู่ทั่วๆ ยอมให้ลูบๆได้ หึๆๆ ใครสนใจเข้าไปดูน้องแมวได้ที่ FB Page: [Maewmoth Cat Cafe](https://www.facebook.com/maewmothcatcafe/) เลยฮะ
@@ -189,7 +189,7 @@ Nothing is ever really lost to us as long as we remember it.
 
 เช็คอินแล้วก็นั่งรอเวลา ระหว่างนั้นก็ไปกินข้าวกันสักหน่อย แล้วก็รอ รอ รอ... เพลินไป ลืมเวลาจนมีประกาศตาม แถมยังหลงทางหาเกตไม่เจออีก กลายเป็นคนขึ้นเครื่องบินคนสุดท้ายของเที่ยว เกือบไม่ได้กลับ กทม.แล้วไงหละ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1OKQ86yUu_ff_1RRpmWiX-LtPDs2wfaer" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1OKQ86yUu_ff_1RRpmWiX-LtPDs2wfaer" column=1 %}
 
 คิดไปคิดมา เวลาผ่านไปเร็วเหมือนกันแฮะ ยังมีคาเฟ่แมวอีกตั้งหลายร้านที่ต้องไป มีดอย มีภูเขาอีกหลายลูกให้ไปปีน หวังว่าจะได้กลับมาอีกครั้งเร็วๆนี้นะ บะบายเมืองเชียงใหม่
 

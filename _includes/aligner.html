@@ -12,8 +12,8 @@
 <div class="row {{customclass}}">
     {% for image in images %}
     <div {% if column %} style="flex: {{ column }}%" {% else %} class="column" {% endif %}  >
-        <img {% if images.size == 1 %}class="single"{% endif %}
-            {% if image contains 'https://drive.google.com/'  %}
+        <img referrer-policy="no-referrer" {% if images.size == 1 %}class="single"{% endif %}
+            {% if image contains 'google'  %}
                 src="{{ image }}"
             {% else %}
                 src="{{ image | prepend: 'assets/img/' | relative_url }}"

@@ -33,7 +33,7 @@ Mr.ด3m แนะนำให้ดู TED เรื่องหนึ่งข
 Accelerate learning for students of all ages. With this in mind, we want to share our content with whoever may find it useful.
 </div>
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1rcitBjiMvkvcFf_rh9rrTMccjw-P52iH" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1rcitBjiMvkvcFf_rh9rrTMccjw-P52iH" column=1 %}
 
 เริ่มจากแค่ที่ออนไลน์ในออฟฟิส จนกลายเป็น youtube channel 355 million views และกลายเป็น one in 100 most influential people in the world. by Forbes magazine และ [https://www.khanacademy.org/](https://www.khanacademy.org/)
 

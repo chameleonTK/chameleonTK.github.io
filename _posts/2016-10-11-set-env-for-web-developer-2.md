@@ -13,7 +13,7 @@ color: rgb(19, 196, 165)
 ต่อจาก <a href="https://chameleontk.github.io/set-env-for-web-developer"> EP.1 </a> ในบทความนี้จะพูดถึง Frontend Task โดยใช้ Gulp 
 <!--more-->
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1tU4FpEiTc4LRwsmGbIC7AyDz8W81iEyv" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1tU4FpEiTc4LRwsmGbIC7AyDz8W81iEyv" column=1 %}
 
 แทนที่เราจะต้องลงโปรแกรมต่างๆ เพื่อให้เครื่องคอมสุดที่รักของเราสามารถรัน Web ได้ /me ก็ได้แนะนำให้ทุกคนเปลี่ยนมาทำงานบน VMs ใน [EP.1](https://chameleontk.github.io/set-env-for-web-developer) ไปแล้ว ซึ่งมีเครื่องมืออย่าง Vagrant มาช่วยเราจัดการความวุ่นวายบน VMs
 
@@ -21,7 +21,7 @@ color: rgb(19, 196, 165)
 
 เพราะปัจจุบันจะพบว่า web ไม่ใช้แค่ static content อีกต่อไป
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1TUseOA_LSIPbx38yT3bePFzpUkkdLnFz" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1TUseOA_LSIPbx38yT3bePFzpUkkdLnFz" column=1 %}
 
 เรามาอยู่ในจุดที่ทุกคนต้องการเวปที่มีความ dynamic
 * กดตรงนั้น จะมี popup ขึ้นมา
@@ -43,11 +43,11 @@ color: rgb(19, 196, 165)
 
 ซึ่งเวปเหล่านี้ก็จะกลายเป็นงานที่ Web developer อย่างเราๆต้องทำ และนั้นหมายถึงการต้องใช้ภาษาเดิมๆ อย่าง javascript, css และ html ที่ไม่ได้ออกแบบมาให้สามารถทำได้ขนาดนี้ ถึงจะสามารถทำได้จริงๆ แต่ก็ต้องใช้โค้ดที่ยาก ซับซ้อนและวุ่นวาย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1UAozGo-l6oh7ytzF47DJqfVCjSBfCYsd" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1UAozGo-l6oh7ytzF47DJqfVCjSBfCYsd" column=1 %}
 
 ดังนั้นการเขียนเวปจึงเริ่มเปลี่ยนไป เราเริ่มต้องภาษาใหม่ๆ เครื่องมือใหม่ๆเอามาทดแทนเอาไปทดแทนของเดิมที่มีอยู่แล้ว เช่น ES6, JSX, Typescript, Plug(ชื่อเดิมว่า Jade), Sass, Elm, Flow และอีกมากมาย
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=13pF9kaRmR0avZf0rulgV1Ia03EGOqmnf" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/13pF9kaRmR0avZf0rulgV1Ia03EGOqmnf" column=1 %}
 
 ซึ่งแต่ละเครื่องมือก็เข้ามาแก้ปัญหาที่แตกต่างกันออกไป เช่น
 
@@ -77,34 +77,34 @@ color: rgb(19, 196, 165)
 * compress image
 * reload browser
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1fFtjystLy4cJ28YLgPHqEzmrMI_vPF8g" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1fFtjystLy4cJ28YLgPHqEzmrMI_vPF8g" column=1 %}
 
 <div class="blockquote">It’s 2016. No one transpiles JS/CSS/HTML directly anymore.</div>
 
 เหตุนี้จึงเป็นที่มาของเครื่องมือที่ชื่อว่า Gulp //ความจริงมี Grant อีกตัว แต่ไม่เคยใช้ 555
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1XgfLGPQa_8pv5ZUqA4D-8BZSmGKvvirP" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1XgfLGPQa_8pv5ZUqA4D-8BZSmGKvvirP" column=1 %}
 Gulp เป็น task runner ซึ่งทำหน้าที่คอยสอดส่องไฟล์ต่างๆ และทำงานบางอย่างเมื่อเกิดการเปลี่ยนแปลงในไฟล์ที่เราต้องการ
 
 เดิมทีแล้ว Gulp เป็นแค่ node module เล็กๆ ถ้าเราต้องการจะทำอะไร ก็ลง gulp plugin ปลั๊กเข้าไป
 
 ทำให้ Gulp มีความยืดหยุ่น และ หลากหลาย และ โครงสร้างของ Gulp ก็ง่ายมากๆ เพราะมันใช้รูปแบบ pipline หรือ streaming โดยจะรับ input เข้ามา แล้วพ่น output ต่อๆไปเรื่อยๆ ต้องการทำอะไร ก็ส่งต่อๆกันไป เหมือน "\|" ใน ubuntu
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1u1Rt8NdY4EjXRQZWD_xAGjlctHU5KwUx" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1u1Rt8NdY4EjXRQZWD_xAGjlctHU5KwUx" column=1 %}
 
 และการเริ่มใช้ Gulp ก็แค่ เริ่มต้นจากการหา gulp plugin ที่เราต้องการ อาจจะเป็น gulp-sass, gulp-minify-css, gulp-uglify, gulp-typescript และอิีกมากมาย เอาเป็นว่า น่าจะมีทุกอย่างที่ต้องการ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1bY7ZoGAwchIV9HXdiB7hLUVxevqZ4Q5l" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1bY7ZoGAwchIV9HXdiB7hLUVxevqZ4Q5l" column=1 %}
 
 หลัังจากนั้น ก็นิยาม task, watch และ default
 
 โดย task คืองานที่ต้องการให้ gulp ทำ, watch คือ การกำหนดให้ gulp จับตาดูไฟล์ที่กำหนดไว้ เมื่อมีการเปลี่ยนแปลงก็จะให้ทำ task ที่เราต้องการ และ default คือ task ที่จะเร่ิมทำทุกครั้งที่รัน gulp
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1Joaykq8PdDH0JO9cNFwD7HCUmTUXbfYc" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1Joaykq8PdDH0JO9cNFwD7HCUmTUXbfYc" column=1 %}
 
 และสุดท้าย ก็ `gulp` ซะ
 
-{% include aligner.html images="https://drive.google.com/uc?export=view&id=1WSKg2aBP_CfdJtDG5UjkHU0hajHogUT5" column=1 %}
+{% include aligner.html images="https://lh3.googleusercontent.com/d/1WSKg2aBP_CfdJtDG5UjkHU0hajHogUT5" column=1 %}
 
 แค่นี้ ก็ไม่ต้องไปคิดเรื่อง compile หรือ reload browser อีกต่อไป <span class="tag-en">#ชีวิตดี๊ดี</span>
 

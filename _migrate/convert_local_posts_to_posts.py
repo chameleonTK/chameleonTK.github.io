@@ -17,15 +17,20 @@ for path, subdirs, files in os.walk(root):
     newpath = path.replace(root, target)
     if not os.path.exists(newpath):
         os.makedirs(newpath)
-
+        
+        
     for name in files:
         if name.endswith(".DS_Store"):
             continue
-
+    
         p = os.path.join(newpath, name)
+        if "2025-01-20-year-in-review-2024" not in p:
+            continue
+        
         fout = open(p, "w", encoding="utf-8")
 
         print(os.path.join(path, name))
+        
         with open(os.path.join(path, name), encoding="utf-8") as fin:
             for line in fin:
 
@@ -48,7 +53,7 @@ for path, subdirs, files in os.walk(root):
                         if img in gimages:
                             links_to_gdrive.append(f"https://lh3.googleusercontent.com/d/{gimages[img]}")
                         else:
-                            print("NO", line, os.path.join(path, name))
+                            print("NO", img, line)
                             links_to_gdrive.append(img)
                     
                     match = re.search("column=(\d+)", line)

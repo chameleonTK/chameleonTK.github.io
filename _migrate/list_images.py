@@ -37,8 +37,8 @@ def main():
     
     q = [
         {
-            "id": "12uoSAPoCsCRJRVMWf45q1PXCtalHerUJ",
-            "path": "year-in-review-2023/"
+            "id": "1epV5S829Ae3pTz2R8PB-zSBoWmfZOOmk",
+            "path": "year-in-review-2024/"
         }
     ]
     # with open("img_folders.csv") as fin:
@@ -49,7 +49,7 @@ def main():
     #             "path": line[0]
     #         })
 
-
+ 
     fin = open("_imgs.csv", "w")
     while len(q)>0:
         target_folder = q.pop()

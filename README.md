@@ -2,11 +2,13 @@
 
 ![IMTK](/assets/img/me.png?raw=true "IMTK")
 
-Hi, I'm Pakawat Nakwijit (please call me **TK**). I'm currently a PhD student under the supervision of [Prof. Matthew Purver](http://www.eecs.qmul.ac.uk/~mpurver/) at Queen Mary University of London (start in September 2020).
+Hi, I'm Pakawat Nakwijit (please call me **TK**). I'm a unofficial PhD under the supervision of [Prof. Matthew Purver](http://www.eecs.qmul.ac.uk/~mpurver/) at Queen Mary University of London.
 
-I'm interested in Natural Language Processing and its applications in Thai langauge. Currently, I'm working on how to leverage the pre-trained language models that mostly trained with English for solving downstream tasks in Thai. Moreover, I'm also interested in Mathematics, and Philosophy in general.
+My main research interests lie in Computational Linguistics, particularly its applications in the Thai language 🇹🇭. Specifically, my current research focuses on the semantics of spelling variation in Thai. For example, considering *มาก* and *มว๊าก* —while both mean `a lot`, the latter seems to be `a lot more` than the former one. Similarly, *มึง* and *เมิง* both literally serve as second-person pronouns, but the latter carries a relatively less aggressive tone. 
+                    
+Moreover, I'm also interested in Mathematics, and Philosophy in general.
 
-Before that, I worked as a web developer in a small company named Maxile co. ltd. I developed various kinds of website: an online magazine, an data-intensive site used to collecte TBs of data and generate hundreds of reports and also a mobile application based on web technology.
+Professionally, I work as a web developer and, more recently, as a project manager (?). I have contributed to the development of various web platforms, including an online magazine, a data-intensive platform designed to handle terabytes of data and generate extensive reports, and a mobile application leveraging web technologies.
 
 In my spare time, I play a lot of boardgames [[BGG account](https://boardgamegeek.com/user/chameleontk)] and enjoy sharing my passion through my own blog (mostly written in Thai 🇹🇭).
 

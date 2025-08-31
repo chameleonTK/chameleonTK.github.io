@@ -27,10 +27,15 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     {% endif %}
 
+    <!-- <link href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
+
     <!-- KaTeX 0.12.0 -->
     {% if site.katex or site.theme_settings.katex %}
-    <script defer src="{{ '/assets/js/vendor/katex.min.js' | relative_url }}"></script>
-    <script defer src="{{ '/assets/js/vendor/auto-render.min.js' | relative_url }}" onload="renderMathInElement(document.body);"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js" integrity="sha384-cMkvdD8LoxVzGF/RPUKAcvmm49FQ0oxwDF3BGKtDXcEc+T1b2N+teh/OJfpU0jr6" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js" integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+    <!-- <script defer src="{{ '/assets/js/vendor/katex.min.js' | relative_url }}"></script>
+    <script defer src="{{ '/assets/js/vendor/auto-render.min.js' | relative_url }}" onload="renderMathInElement(document.body);"></script> -->
     {% endif %}
 
     <!-- Mermaid 8.8.2 -->
@@ -86,6 +91,8 @@
     <meta name="referrer" content="no-referrer" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    
     <link href="https://fonts.googleapis.com/css2?family=Sarabun:ital,wght@0,200;0,700;1,200;1,700&display=swap" rel="stylesheet">
     <style>
         * {
@@ -152,5 +159,63 @@
         blockquote p{
           margin-bottom: 0px;
         }
+
+        a {
+          text-decoration: none !important;
+        }
+
+        .posts .excerpt{
+          line-height: 1.5rem;
+        }
+
+        button.littlefoot__button {
+            padding: 0px;
+            line-height: 8px;
+            margin-bottom: 14px;
+            outline: none;
+            border-radius: 4px;
+        }
+
+        .btn-link {
+            color: rgb(19, 196, 165) !important;
+            text-decoration: none !important;
+        }
+
+        .btn-link:hover {
+            text-decoration: none !important;
+            color: rgb(15 158 133) !important
+        }
+
+        .katex-left .katex .katex-html{
+            margin-left: 0px;
+        }
+
+        .katex-inline .katex-display,
+        .katex-inline .katex-display .katex,
+        .katex-inline .katex-display .katex .katex-html{
+            display: inline;
+        }
+            
     </style>
+
+    <link rel="stylesheet" href="https://unpkg.com/littlefoot/dist/littlefoot.css"/>
+    <script src="https://unpkg.com/littlefoot/dist/littlefoot.js" type="application/javascript"></script>
+
+    <script type="application/javascript">
+      $(function() {
+          let s = "";
+          s += '<button';
+          s += '    aria-label="Footnote <% number %>"';
+          s += '    class="littlefoot__button"';
+          s += '    id="<% reference %>"';
+          s += '    title="See Footnote <% number %>"';
+          s += '  />';
+          s += '    <% number %>';
+          s += '  </button>';
+
+          littlefoot.littlefoot({
+            buttonTemplate: s
+          })
+      })
+    </script>
 </head>

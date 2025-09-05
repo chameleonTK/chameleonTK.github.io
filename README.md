@@ -2,13 +2,13 @@
 
 ![IMTK](/assets/img/me.png?raw=true "IMTK")
 
-Hi, I'm Pakawat Nakwijit (please call me **TK**). I'm a unofficial PhD under the supervision of [Prof. Matthew Purver](http://www.eecs.qmul.ac.uk/~mpurver/) at Queen Mary University of London.
+Hi, I'm Pakawat Nakwijit (please call me **TK**). I'm a PhD researcher under the supervision of [Prof. Matthew Purver](http://www.eecs.qmul.ac.uk/~mpurver/) at Queen Mary University of London.
 
 My main research interests lie in Computational Linguistics, particularly its applications in the Thai language 🇹🇭. Specifically, my current research focuses on the semantics of spelling variation in Thai. For example, considering *มาก* and *มว๊าก* —while both mean `a lot`, the latter seems to be `a lot more` than the former one. Similarly, *มึง* and *เมิง* both literally serve as second-person pronouns, but the latter carries a relatively less aggressive tone. 
                     
 Moreover, I'm also interested in Mathematics, and Philosophy in general.
 
-Professionally, I work as a web developer and, more recently, as a project manager (?). I have contributed to the development of various web platforms, including an online magazine, a data-intensive platform designed to handle terabytes of data and generate extensive reports, and a mobile application leveraging web technologies.
+Professionally, I also work as a full-stack web developer and, more recently, as a project manager (?). I specialise in various frontend and backend libraries, including [Vue.js](https://vuejs.org/), [Inertia.js](https://inertiajs.com/), [Bootstrap](https://getbootstrap.com/), [Tailwind](https://tailwindcss.com/), [Laravel](https://laravel.com/), [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/), and [ElasticSearch](https://www.elastic.co/). Currently, I am leading a team in developing AI solutions for a security platform at [Security Pitch](https://www.securitypitch.com/). In parallel, I also work as a chatbot developer for [Proclinic](https://proclinicth.com/).
 
 In my spare time, I play a lot of boardgames [[BGG account](https://boardgamegeek.com/user/chameleontk)] and enjoy sharing my passion through my own blog (mostly written in Thai 🇹🇭).
 

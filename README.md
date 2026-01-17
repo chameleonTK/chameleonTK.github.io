@@ -25,7 +25,7 @@ Btw, thank to [Type on Strap](https://github.com/sylhare/Type-on-Strap) for this
 * copy new content from `_img_folders.csv`to `img_folders.csv`
 * run `_migrate/list_images.py` to generate `imgs.csv`
 * then copy the new post to `_posts_local`
-* then run `_migrate/convert_local_posts_to_posts.py` to generate posts in `_posts`
+* then run `_migrate/convert_local_posts_to_posts.py ../_posts_local/[....].md` to generate posts in `_posts`
 
 * finally, push everything
 

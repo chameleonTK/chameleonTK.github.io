@@ -2,3 +2,12 @@
 ---
 
 @import "type-on-strap";
+
+.secret.encrypted-secret {
+    display: none;
+} 
+
+.secret.decrypted-secret {
+    border: 1px solid rgb(238, 238, 238);
+    padding: 10px;
+} 

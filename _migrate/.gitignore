@@ -2,3 +2,4 @@ credentials.json
 token.pickle
 _*.csv
 __pycache__
+.venv

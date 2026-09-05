@@ -36,10 +36,19 @@ def main():
     
     
     q = [
-        {
-            "id": "1NIy3TZypBuEcVKwK2o9U2Nl3pgDSQ-Yg",
-            "path": "year-in-review-2025/"
-        }
+        {"id": "1Nw8HK-qv5EZWuTj0mvnf5wZtQ7vbWkR_", "path": "understanding-hopfield-network/"},
+        {"id": "1E7HQteH7rOmcViXvMFdwam9LG_s-ckmd", "path": "english-learning-journey/"},
+        {"id": "1aCnBgXZj0Ewisyt3V1QapUQilGyYJkfQ", "path": "cat-vocabulary/"},
+        {"id": "1S9WAIvTSghA8_RWmu8-mn68J3I_W1iVQ", "path": "understanding-transformer-part-2/"},
+        {"id": "1OtCsO040p7F_HbnwglEBQOxfX1FOvo9d", "path": "trigonometric-identities-with-geometry/"},
+        {"id": "1bO8i1B3nE-WfDq4pHTP5SwIy0wXJOKZP", "path": "understanding-bert/"},
+        {"id": "1DzlVy186Hi5724g8HJP9DF-4lij9f1Ji", "path": "biology-of-a-large-language-model/"},
+        {"id": "1eYze24XEQNHiPCgdvFAKNFG1e0YkSHsu", "path": "understanding-information-entropy/"},
+        {"id": "1eV20w1erX_2YxRHcGb3VPoA33qD2fhS0", "path": "understanding-optimizer/"},
+        {"id": "1cK_Xv4rYxZcl2UYinDRjba-YSYo4aQat", "path": "understanding-transformer-part-3/"},
+        {"id": "1zVq_vUtUI7YcYeHvHOXkx-q70PHmKHG0", "path": "hulks-cat/"},
+        {"id": "1eqVFiOF-RFhLKVdUJPrMvTh85tk-t6PU", "path": "understanding-shap/"},
+        {"id": "1JPvOWt0mlNjUwbC8JGxBRiVpKUeoUvCy", "path": "understanding-transformer-part-1/"},
     ]
     # with open("img_folders.csv") as fin:
     #     for line in fin:

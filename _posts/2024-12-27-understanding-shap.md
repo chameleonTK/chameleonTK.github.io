@@ -2,7 +2,7 @@
 layout: post
 title: "ทำความเข้าใจ SHAP"
 tags: [Archive, Code Code and Code]
-thumbnail: "assets/feats/understanding-shap/image-01.png"
+thumbnail: "assets/feats/understanding-shap.png"
 author: Pakawat Nakwijit
 excerpt_separator: <!--more-->
 color: rgb(19, 196, 165)
@@ -28,7 +28,7 @@ SHAP หรือ **SH**apley **A**dditive ex**P**lanations เป็นแน�
 
 และการพัฒนาที่ว่า มักอยู่ในรูปแบบของการพัฒนาความแม่นยำของโมเดล พูดได้เลยว่า ตอนนี้เราอยู่ในยุคที่โมเดล AI แม่นจนน่ากลัว แต่ความแม่นยำที่ได้ มันไม่ได้มาพร้อมกับคำอธิบายว่า **“ทำไมโมเดลถึงตัดสินใจอย่างนั้น”** — a tension between accuracy and interpretability.
 
-ปัญหานี้ จึงนำไปสู่การวิจัยเพื่ออธิบายการทำงานของโมเดล AI โดยเฉพาะโมเดล Deep Learning ต่างๆ ที่ยังไม่มีทฤษฎีใดๆที่สามารถอธิบายได้อย่างชัดเจน และ เกิดเป็นสาขาการวิจัยที่เรียกว่า e**X**plainable **AI**หรือ XAI
+ปัญหานี้ จึงนำไปสู่การวิจัยเพื่ออธิบายการทำงานของโมเดล AI โดยเฉพาะโมเดล Deep Learning ต่างๆ ที่ยังไม่มีทฤษฎีใดๆที่สามารถอธิบายได้อย่างชัดเจน และ เกิดเป็นสาขาการวิจัยที่เรียกว่า e**X**plainable **AI** หรือ XAI
 
 และ SHAP ก็เป็นเทคนิคหนึ่งใน XAI เพื่อศึกษาว่าฟีเจอร์แต่ละอันมีผลต่อพฤติกรรมของโมเดลอย่างไรบ้าง?
 
@@ -55,7 +55,7 @@ SHAP หรือ **SH**apley **A**dditive ex**P**lanations เป็นแน�
 
 ก่อนที่จะพูดถึงนิยามของความยุติธรรมที่ว่า ขอเริ่มต้นจากการนิยามเกม และ ตัวแปรต่างๆที่จำเป็นกันก่อน
 
-1.   นิยาม เซตของผู้เล่น (Players) ด้วย P = {1, 2, 3, … p} โดย |P| คือ จำนวนผู้เล่นทั้งหมดในเกม
+1.   นิยาม เซตของผู้เล่น (Players) ด้วย P = {1, 2, 3, … p} โดย \|P\| คือ จำนวนผู้เล่นทั้งหมดในเกม
 2.   นิยาม กลุ่มย่อยๆของผู้เล่น (Coalition) ด้วย S ⊆ P
 3.   นิยาม φ = {φ₁, φ₂, φ₃, …, φₚ} แทน ผลตอบแทนที่ควรจะแบ่งให้ ที่ผู้เล่นแต่ละคนในเกมนั้นๆ
 4.   นิยาม รางวัล หรือ ผลลัพธ์ที่เกิดขึ้น (Payout) ด้วย value function: v(S) มีโดเมนเป็น Power Set ของ P และ เรนจ์ เป็น real number
@@ -66,7 +66,7 @@ SHAP หรือ **SH**apley **A**dditive ex**P**lanations เป็นแน�
 
 งานของ L. Shapley ได้นิยาม “ความยุติธรรม” ด้วยคุณสมบัติ 4 ข้อ ได้แก่
 
-**#1. Efficiency:**ผลรวมของผลตอบแทน φᵢ ของผู้เล่นแต่ละคนได้รับ ต้องเท่ากับ รางวัลรวมทั้งหมดกรณีที่ผู้เล่นทุกคนร่วมมือกัน
+**#1. Efficiency:** ผลรวมของผลตอบแทน φᵢ ของผู้เล่นแต่ละคนได้รับ ต้องเท่ากับ รางวัลรวมทั้งหมดกรณีที่ผู้เล่นทุกคนร่วมมือกัน
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1yL3_Pf3L1-GDDsB8ESVZQNkBKex53wb6" column=1 %}
@@ -78,13 +78,13 @@ SHAP หรือ **SH**apley **A**dditive ex**P**lanations เป็นแน�
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1Sihi8HATkgYvNh8xGD0-OKta34O4l8Mw" column=1 %}
 </div>
 
-**#3. Null effects/Dummy:**ผู้เล่นที่ไม่ทำให้ผลลัพธ์ของเกมเปลี่ยนแปลง ในทุกๆ กลุ่มย่อย (Coalition) ที่ผู้เล่นนั้นๆลงไปเล่นด้วย (พวกผู้เล่นที่ไร้ประโยชน์ 🤔) ผู้เล่นคนนั้นจะต้องไม่ได้รับผลตอบแทนใดๆ
+**#3. Null effects/Dummy:** ผู้เล่นที่ไม่ทำให้ผลลัพธ์ของเกมเปลี่ยนแปลง ในทุกๆ กลุ่มย่อย (Coalition) ที่ผู้เล่นนั้นๆลงไปเล่นด้วย (พวกผู้เล่นที่ไร้ประโยชน์ 🤔) ผู้เล่นคนนั้นจะต้องไม่ได้รับผลตอบแทนใดๆ
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1yJw7KAY0vzaU4dkrI2usYnS21IuPT_u2" column=1 %}
 </div>
 
-**#4. Linearity:**ถ้ามีเกม 2 เกมที่แตกต่างกัน ผลตอบแทนที่ผู้เล่นแต่ละคนได้จะต้องเท่ากับผลรวมของของตอบแทนที่ผู้เล่นคนนั้นๆได้ จากแต่ละเกมมารวมกัน
+**#4. Linearity:** ถ้ามีเกม 2 เกมที่แตกต่างกัน ผลตอบแทนที่ผู้เล่นแต่ละคนได้จะต้องเท่ากับผลรวมของของตอบแทนที่ผู้เล่นคนนั้นๆได้ จากแต่ละเกมมารวมกัน
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1xzIt3PwCN5S5_EOkdl1snSWMA1I2pwtM" column=1 %}
@@ -92,13 +92,13 @@ SHAP หรือ **SH**apley **A**dditive ex**P**lanations เป็นแน�
 
 _//ถ้าความยุติธรรม ความดี ความสุข ในโลกความเป็นจริง มันนิยามง่ายๆแบบนี้ก็คงจะดีแฮะ_
 
-จากคุณสมบัติทั้งหมด 4 ข้อนี้ L. Shapley ได้พิสูจน์ว่า มีวิธีการแบ่งรางวัล**_แบบเดียวเท่านั้น_**ที่จะมีคุณสมบัติครบทั้ง 4 ข้อ (one and only one unique solution!!) และผลลัพธ์นั้น คือ Shapley Values ของเกมนั้นๆนั่นเอง
+จากคุณสมบัติทั้งหมด 4 ข้อนี้ L. Shapley ได้พิสูจน์ว่า มีวิธีการแบ่งรางวัล**_แบบเดียวเท่านั้น_** ที่จะมีคุณสมบัติครบทั้ง 4 ข้อ (one and only one unique solution!!) และผลลัพธ์นั้น คือ Shapley Values ของเกมนั้นๆนั่นเอง
 
 _//และแน่นอนว่า ถ้าใครไม่เห็นด้วยว่า คุณสมบัติ 4 ข้อนี้เป็นนิยามที่ดีสำหรับการแบ่งผลตอบแทนอย่างยุติธรรม แปลว่า Shapley Values น่าจะไม่ใช่คำตอบที่คุณตามหา_
 
 โดยต่อมา [H.P. Young (1985)](https://link.springer.com/article/10.1007/BF01769885) และ [S.M. Lundberg & S-I. Lee (2017)](https://papers.nips.cc/paper_files/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html) ได้พิสูจน์ว่า จริงๆแล้ว คุณสมบัติ 4 ข้อที่ว่ามา สามารถลดให้เลือกแค่ 2 ข้อ คือ Efficiency และ Monotonicity ก็พอแล้ว
 
-**#5. Monotonicity:**สำหรับเกม 2 เกมที่แตกต่างกัน v₁ และ v₂ ถ้าผลลัพธ์จากการมีส่วนร่วมของผู้เล่นในเกม v₁ มากกว่าหรือเท่ากับ v₂ จะได้ว่า ผลตอบแทนของผู้เล่นคนนั้น v₁ ต้องมากกว่าหรือเท่ากับ v₂ เสมอ
+**#5. Monotonicity:** สำหรับเกม 2 เกมที่แตกต่างกัน v₁ และ v₂ ถ้าผลลัพธ์จากการมีส่วนร่วมของผู้เล่นในเกม v₁ มากกว่าหรือเท่ากับ v₂ จะได้ว่า ผลตอบแทนของผู้เล่นคนนั้น v₁ ต้องมากกว่าหรือเท่ากับ v₂ เสมอ
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1ld9prF3joIx-002MNxmJeFEJPGcV7lw3" column=1 %}
@@ -133,11 +133,11 @@ _//คุณสมบัติสุดท้าย อาจจะทำให�
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1zAAdrehBv6SxoURFfgPxJMOZ5IaQfH8r" column=1 %}
 </div>
 
-ส่วนที่ 1 ขอเริ่มจากส่วนที่อยู่ด้านในที่สุด ซึ่งเป็นส่วนที่ง่ายที่สุดในสมการนี้(?) ซึ่งก็คือส่วนของสีแดง: **v(S ∪ {j})**หมายถึง _“ผลลัพธ์จากเกมที่ผู้เล่น i มีส่วนร่วม”_
+ส่วนที่ 1 ขอเริ่มจากส่วนที่อยู่ด้านในที่สุด ซึ่งเป็นส่วนที่ง่ายที่สุดในสมการนี้(?) ซึ่งก็คือส่วนของสีแดง: $$v(S ∪ {j})$$ หมายถึง _“ผลลัพธ์จากเกมที่ผู้เล่น i มีส่วนร่วม”_
 
-ไปต่อยัง ส่วนที่ 2 ใกล้ๆกัน ส่วนของสีเขียว: **v(S)**หมายถึง _“ผลลัพธ์จากเกมที่ผู้เล่น i ไม่มีส่วนร่วม”_
+ไปต่อยัง ส่วนที่ 2 ใกล้ๆกัน ส่วนของสีเขียว: $$v(S)$$ หมายถึง _“ผลลัพธ์จากเกมที่ผู้เล่น i ไม่มีส่วนร่วม”_
 
-ดังนั้นถ้าเราเอามารวมกัน จะได้ว่า **v(S ∪ {j})-****v(S)**คือ “ผลต่างระหว่าง (ผลลัพธ์จากเกมที่ผู้เล่น i มีส่วนร่วม และเกมที่ผู้เล่น i ไม่มีส่วนร่วม)”
+ดังนั้นถ้าเราเอามารวมกัน จะได้ว่า $$v(S ∪ {j})-v(S)$$ คือ “ผลต่างระหว่าง (ผลลัพธ์จากเกมที่ผู้เล่น i มีส่วนร่วม และเกมที่ผู้เล่น i ไม่มีส่วนร่วม)”
 
 ต่อมา ขอข้ามมาดูส่วนสีชมพู Sum of S ซึ่งหมายถึง “ในทุกๆกลุ่มย่อยที่ S ที่ไม่มีผู้เล่น j ”
 
@@ -153,84 +153,77 @@ _//ทำไมต้องทำให้ซับซ้อนด้วยน�
 
 การตีความแบบนี้ จะมองส่วนสีฟ้า คือ **ค่าน้ำหนัก (weights)**
 
-เนื่องจากกลุ่มย่อย S สามารถมีหลายๆขนาด ตั้งแต่ 0 ไปจนถึง |P|-1 แต่ กลุ่มย่อยในแต่ละขนาดมีจำนวนรูปแบบที่เป็นไปได้ต่างกัน เช่น กลุ่มย่อยที่มีขนาด = 0 หรือ ขนาด = |P|-1 จะมีได้เพียงรูปแบบเดียว แต่ กลุ่มย่อยขนาดอื่นสามารถมีจำนวนรูปแบบมากกว่า 1
+เนื่องจากกลุ่มย่อย S สามารถมีหลายๆขนาด ตั้งแต่ 0 ไปจนถึง \|P\|-1 แต่ กลุ่มย่อยในแต่ละขนาดมีจำนวนรูปแบบที่เป็นไปได้ต่างกัน เช่น กลุ่มย่อยที่มีขนาด = 0 หรือ ขนาด = \|P\|-1 จะมีได้เพียงรูปแบบเดียว แต่ กลุ่มย่อยขนาดอื่นสามารถมีจำนวนรูปแบบมากกว่า 1
 
-ดังนั้นจึงกำหนด weights ขึ้นเพื่อทำให้กลุ่มย่อยแต่ละขนาดมีอิทธิพลต่อการคำนวนผลตอบแทนแบบเท่าๆกัน โดยจะแทน term ส่วนสีฟ้านี้ด้วย w₁, w₂, w₃, …, เป็น weights ที่เกิดจาก |S| = 1, 2, 3, …
+ดังนั้นจึงกำหนด weights ขึ้นเพื่อทำให้กลุ่มย่อยแต่ละขนาดมีอิทธิพลต่อการคำนวนผลตอบแทนแบบเท่าๆกัน โดยจะแทน term ส่วนสีฟ้านี้ด้วย w₁, w₂, w₃, …, เป็น weights ที่เกิดจาก \|S\| = 1, 2, 3, …
 
 **สำหรับคนที่ยังงง สามารถดูตัวอย่างดังต่อไปนี้**
 
-> **ตัวอย่าง**
+------------
+#### ตัวอย่าง
 
 ถ้าให้ เซตของผู้เล่น P = {a, b, c, d, e}
 
 ในการพิจารณา φₐ หรือ ผลตอบแทนของผู้เล่น a จะต้องพิจารณากลุ่มย่อย S ในทุกๆกรณี ซึ่งจะประกอบไปด้วย
 
-_//กำหนดให้ S’ = เซตของผู้เล่นที่ไม่อยู่ใน S และไม่ใช่ผู้เล่นที่สนใจ ณ ขณะนั้น
+กำหนดให้ S’ = เซตของผู้เล่นที่ไม่อยู่ใน S และไม่ใช่ผู้เล่นที่สนใจ ณ ขณะนั้น
 
-// หรือ S’ = P — S — {a})_
+หรือ S’ = P — S — {a}
 
-กรณี |S| = 0 ซึ่งมี 1 กรณี คือ
 
+กรณี \|S\| = 0 ซึ่งมี 1 กรณี คือ
+
+```
 S = ∅ และ S' = {b, c, d, e}
-
 w0 = 0!(5–0–1)! / (5!) = (0! 4!) / 5! = 24/120
-
 w0*1 = 24/120
-กรณี |S| = 1 ซึ่งมี 4 กรณี คือ
+```
 
+
+กรณี \|S\| = 1 ซึ่งมี 4 กรณี คือ
+
+```
 S = {b} และ S' = {c, d, e}
-
 S = {c} และ S' = {b, d, e}
-
 S = {d} และ S' = {b, c, e}
-
 S = {e} และ S' = {b, c, d}
-
 w1 = 1!(5–1–1)! / (5!) = (1! 3!) / 5! = 6/120
-
 w1*4 = 24/120
+```
 
-กรณี |S| = 2 ซึ่งมี 6 กรณี คือ
+กรณี \|S\| = 2 ซึ่งมี 6 กรณี คือ
 
+```
 S = {b, c} และ S' = {d, e}
-
 S = {b, d} และ S' = {c, e}
-
 S = {b, e} และ S' = {c, d}
-
 S = {c, d} และ S' = {b, e}
-
 S = {c, e} และ S' = {b, d}
-
 S = {d, e} และ S' = {b, c}
-
 w2 = 2!(5–2–1)! / (5!) = (2! 2!) / 5! = 4/120
-
 w2*6 = 24/120
+```
 
-กรณี |S| = 3 ซึ่งมี 4 กรณี คือ
+กรณี \|S\| = 3 ซึ่งมี 4 กรณี คือ
 
+```
 S = {c, d, e} และ S' = {b}
-
 S = {b, d, e} และ S' = {c}
-
 S = {b, c, e} และ S' = {d}
-
 S = {b, c, d} และ S' = {e}
-
 w3 = 3!(5–3–1)! / (5!) = (3! 1!) / 5! = 6/120
-
 w3*4 = 24/120
+```
 
-กรณี |S| = 4 ซึ่งมี 1 กรณี คือ
+กรณี \|S\| = 4 ซึ่งมี 1 กรณี คือ
 
+```
 S = {b, c, d, e} และ S' = ∅
-
 w4 = 4!(5–4–1)! / (5!) = (4! 0!) / 5! = 24/120
-
 w4*1 = 24/120
+```
 
-จะเห็นว่า wᵢ * (จำนวนของกลุ่มย่อยที่มีขนาด i) เป็นค่าคงที่ = 1 / |P| เสมอ
+จะเห็นว่า wᵢ * (จำนวนของกลุ่มย่อยที่มีขนาด i) เป็นค่าคงที่ = 1 / \|P\| เสมอ
 
 หรือ ถ้าจะคำนวนย้อนกลับไป เพื่อหาค่า w จะได้ตรงกับ term สีฟ้าที่เห็นอยู่พอดิบพอดี
 
@@ -244,22 +237,16 @@ w4*1 = 24/120
 
 ตามการนิยามแบบ Set Definition สามารถคำนวน Shapley Values ได้โดยใช้แนวทาง [Shapley regression values](https://onlinelibrary.wiley.com/doi/abs/10.1002/asmb.446) โดยใช้ pseducode ดังนี้
 
+```python
 def ShapleyValue(p):
-
- phi = 0
-
- for S in getAllCombinations(P-{p}):
-
- payoutWithP = v(S+{p})
-
- payoutWithoutP = v(S)
-
- w = getWeight(len(S))
-
- phi += w*(payoutWithP - payoutWithoutP)
-
+    phi = 0
+    for S in getAllCombinations(P-{p}):
+        payoutWithP = v(S+{p})
+        payoutWithoutP = v(S)
+        w = getWeight(len(S))
+        phi += w*(payoutWithP - payoutWithoutP)
  return phi
-
+```
 **# Order Defitions:**
 
 การตีความแบบนี้ จะมองส่วนสีฟ้า คือ **จำนวนลำดับ**ที่เป็นไปได้ในการสร้างกลุ่มย่อย S — all possible different _permutations_ in which the coalition can be formed.
@@ -268,7 +255,7 @@ def ShapleyValue(p):
 
 ณ กลุ่มย่อย S ใดๆ เราจะสามารถแบ่งเซตของผู้เล่น P เป็น 3 กลุ่ม ดังนี้
 
-P = S + {i} + S’ โดย |S’| = |P| - |S| - 1
+P = S + {i} + S’ โดย \|S’\| = \|P\| - \|S\| - 1
 
 นั้น คือ
 
@@ -278,15 +265,16 @@ P = S + {i} + S’ โดย |S’| = |P| - |S| - 1
 
 (จำนวน permutation ของ {i}) *
 
-(จำนวน permutation ของ |S’| )
+(จำนวน permutation ของ \|S’\| )
 
-= |S|! * 1! * (|P| — |S| — 1)!
+= \|S\|! * 1! * (\|P\| — \|S\| — 1)!
 
-เมื่อเฉลี่ยในทุกๆลำดับที่เป็นไปได้ทั้งหมด หรือ |P|! ก็จะได้ เท่ากับ term ส่วนสีฟ้าพอดิบพอดีอีกแล้ว!!
+เมื่อเฉลี่ยในทุกๆลำดับที่เป็นไปได้ทั้งหมด หรือ \|P\|! ก็จะได้ เท่ากับ term ส่วนสีฟ้าพอดิบพอดีอีกแล้ว!!
 
 **สำหรับคนที่ยังงง สามารถดูตัวอย่างดังต่อไปนี้**
 
-> **ตัวอย่าง**
+------------
+#### ตัวอย่าง
 
 ถ้าให้ เซตของผู้เล่น P = {a, b, c, d, e}
 
@@ -305,9 +293,10 @@ P = S + {i} + S’ โดย |S’| = |P| - |S| - 1
 5. b > a > e > c > d
 
 6. b > a > e > d > c
+
 นั้นคือ weight ในขณะที่คำนวน S = {b} จะเท่ากับ (1!3!)/5! หรือ 6/120
 
-ลองอีกตัวอย่าง
+//ลองอีกตัวอย่าง
 
 กรณี S = {b, c} และ S' = {d, e} จะได้ลำดับที่เป็นไปได้ทั้งหมด 4 ลำดับ ดังนี้
 
@@ -323,14 +312,15 @@ P = S + {i} + S’ โดย |S’| = |P| - |S| - 1
 
 ดูๆไปแล้ว ก็ไม่ต่างอะไรกับการคำนวนแบบ Set Definitions แต่ แต่ แต่ การตีความแบบนี้ สามารถนำมา visualise การคำนวนที่อยู่ในรูปแบบตารางได้ ตามตัวอย่างต่อไปนี้
 
-> **ตัวอย่าง**
+
+#### ตัวอย่าง
 
 ถ้าให้ เซตของผู้เล่น P = {1, 2, 3} และ พิจารณา φ₁
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1CJLY_xxNG0NPYqWyDCxcA4K7EErf_miD" column=1 %}
 
-<p>credit: <a href="https://www.youtube.com/watch?v=_TEjJn9nemM">https://www.youtube.com/watch?v=_TEjJn9nemM</a> by</p>
+<p>credit: <a href="https://www.youtube.com/watch?v=_TEjJn9nemM">https://www.youtube.com/watch?v=_TEjJn9nemM</a></p>
 </div>
 
 จะเห็นว่า เราสามารถคำนวน φ₁ สามารถทำได้ง่ายๆ โดยการหาค่าเฉลี่ยของ **ผลต่างของผลลัพท์** ในจังหวะที่ผู้เล่น 1 โดยเพิ่มเข้ามาในเกมจากทุกๆลำดับที่เป็นไปได้
@@ -353,13 +343,14 @@ P = S + {i} + S’ โดย |S’| = |P| - |S| - 1
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1cnC_Pc2LJjJBOAeQh6d6nq1Vwh-_EQcg" column=1 %}
 </div>
 
-โดยมี Π แทน ลำดับทั้งหมดที่เป็นไปได้ ซึ่ง |Π| = |P|! และ Sⱼ ที่ 𝜏 แทน เซตของผู้เล่นที่อยู่ก่อน j ในลำดับ 𝜏
+โดยมี Π แทน ลำดับทั้งหมดที่เป็นไปได้ ซึ่ง \|Π\| = \|P\|! และ Sⱼ ที่ 𝜏 แทน เซตของผู้เล่นที่อยู่ก่อน j ในลำดับ 𝜏
 
-> **ตัวอย่าง**
+#### ตัวอย่าง
 
 ถ้าให้ เซตของผู้เล่น P = {1, 2, 3} จะได้ว่า
 
 Π = {(1, 2, 3), (1, 3, 2), (2, 1, 3), (2, 3, 1), (3, 1, 2), (3, 2, 1)}
+
 ถ้าให้ 𝜏 = (1, 2, 3) จะได้ว่า S₁ ที่ 𝜏 = ∅
 
 ถ้าให้ 𝜏 = (1, 3, 2) จะได้ว่า S₁ ที่ 𝜏 = ∅
@@ -372,30 +363,26 @@ P = S + {i} + S’ โดย |S’| = |P| - |S| - 1
 
 ถ้าให้ 𝜏 = (3, 2, 1) จะได้ว่า S₁ ที่ 𝜏 = {2, 3}
 
-สิ่งหนึ่งที่น่าสนใจ คือ การนิยามแบบนี้ ลำดับของผู้เล่นแต่ละอัน จะมี weight เท่ากันทั้งหมด คือ 1/|P|! เนื่องจาก |Π| = |P|! ซึ่งทำให้การคำนวนยุ่งยากน้อยลง (รึปล่าว?)
+สิ่งหนึ่งที่น่าสนใจ คือ การนิยามแบบนี้ ลำดับของผู้เล่นแต่ละอัน จะมี weight เท่ากันทั้งหมด คือ 1/\|P\|! เนื่องจาก \|Π\| = \|P\|! ซึ่งทำให้การคำนวนยุ่งยากน้อยลง (รึปล่าว?)
 
 **คำนวน Shapley Values**
 
 ต่อยอดตามการตีความแบบ Order Definition สามารถคำนวน Shapley Values ได้โดยใช้แนวทาง [Shapley regression values](https://onlinelibrary.wiley.com/doi/abs/10.1002/asmb.446) โดยใช้ pseducode ดังนี้
 
+
+```python
 def ShapleyValue(p):
+    phi = 0
+    permutations = getAllPermutations(P)
+    for prm in permutations:
+        S = getPlayersFromPermu(prm, p)
+        payoutWithP = v(S+{p})
+        payoutWithoutP = v(S)
+        phi += (payoutWithP - payoutWithoutP)
+    phi /= len(permutations)
 
- phi = 0
-
- permutations = getAllPermutations(P)
-
- for prm in permutations:
-
- S = getPlayersFromPermu(prm, p)
-
- payoutWithP = v(S+{p})
-
- payoutWithoutP = v(S)
-
- phi += (payoutWithP - payoutWithoutP)
-phi /= len(permutations)
-
- return phi
+    return phi
+```
 
 พูดไปแล้วการตีความแบบ Order Definition ดูจะไม่ได้แตกต่าง หรือ พิเศษไปกว่าการตีความแบบ Set Definition
 
@@ -403,7 +390,7 @@ phi /= len(permutations)
 
 ## Approximating Shapley Value
 
-จากที่ผ่านๆมา สิ่งหนึ่งที่น่าสังเกต คือ วิธีการคำนวน Shapley Values ล้วนมี BigO อยู่ในระดับ O(|P|!) เป็นอย่างน้อย เนื่องจาก ขั้นต่ำๆแล้วต้องคำนวนผลลัพธ์จากทุกๆ combinations (ในการนิยามแบบ Set Definition) หรือ ทุกๆ permutations (ในการนิยามแบบ Order Definition)
+จากที่ผ่านๆมา สิ่งหนึ่งที่น่าสังเกต คือ วิธีการคำนวน Shapley Values ล้วนมี BigO อยู่ในระดับ O(\|P\|!) เป็นอย่างน้อย เนื่องจาก ขั้นต่ำๆแล้วต้องคำนวนผลลัพธ์จากทุกๆ combinations (ในการนิยามแบบ Set Definition) หรือ ทุกๆ permutations (ในการนิยามแบบ Order Definition)
 
 แปลว่า ในความเป็นจริงๆ หากต้องการคำนวน Shapley Values สำหรับเกมที่มีผู้เล่น 10 คน อาจจะต้องการการคำนวนทั้งหมดราวๆ 3,628,800 รอบ ถ้าเพิ่มจำนวนผู้เล่นเป็น 20 คน อาจจะต้องการการคำนวนมากถึง 2.4 ล้านล้านล้าน รอบ ซึ่งไม่สามารถทำได้จริงในเชิงปฎิบัติ
 
@@ -435,24 +422,19 @@ _//เอ๋ สรุปที่เขียนมา คือ ไม่ม�
 
 สามารถคำนวน Shapley Values ได้โดยใช้แนวทาง [Shapley sampling values](https://link.springer.com/article/10.1007/s10115-013-0679-x) โดยใช้ pseducode ดังนี้
 
+```python
 def ShapleySamplingValue(p):
+    phi = 0 
+    for i in range(M):
+        prm = getARandomPermutation(n=len(P))
+        S = getPlayersFromPermu(prm, p)
+        payoutWithP = v(S+{p})
+        payoutWithoutP = v(S)
+        phi += (payoutWithP - payoutWithoutP)
+    phi /= M
 
- phi = 0
-
- for i in range(M):
-
- prm = getARandomPermutation(n=len(P))
-
- S = getPlayersFromPermu(prm, p)
-
- payoutWithP = v(S+{p})
-
- payoutWithoutP = v(S)
-
- phi += (payoutWithP - payoutWithoutP)
-phi /= M
-
- return phi
+    return phi
+```
 
 ## What about SHAP?
 
@@ -479,11 +461,11 @@ phi /= M
 
 ในมุมมองนี้ เป็นการเปลี่ยนจากคำถามเดิม ของ L. Shapley ที่ว่า
 
-_“ผู้เล่น (players) แต่ละคนมีส่วน (contributions) มากน้อยเท่าไรในผลลัพธ์ที่เกิดขึ้นในเกม นึงๆ (payout)”_
+> _"ผู้เล่น (players) แต่ละคนมีส่วน (contributions) มากน้อยเท่าไรในผลลัพธ์ที่เกิดขึ้นในเกม นึงๆ (payout)”_
 
 เป็น
 
-_“ฟีเจอร์ (features) แต่ละตัวมีความสำคัญ (feature importance) มากน้อยเท่าไรใน การคำนวนคำตอบ (prediction) ของโมเดล”_
+> _“ฟีเจอร์ (features) แต่ละตัวมีความสำคัญ (feature importance) มากน้อยเท่าไรใน การคำนวนคำตอบ (prediction) ของโมเดล”_
 
 แต่แค่เปลี่ยนมุมมองมันไม่พอที่จะนำ Shapley Values ไปใช้ เนื่องจากการทำงานของ Model แตกต่างจาก Cooperation Game แบบทั่วๆไป นั้นคือ
 
@@ -499,13 +481,11 @@ _โดยปกติแล้ว เป็นเรื่องที่ยา
 
 ก่อนที่จะพูดต่อไปถึงการนิยาม SHAP ขอแวะนิยามตัวแปรต่างๆที่เกี่ยวข้องกันก่อน เริ่มจาก
 
-1.   นิยาม ชุดข้อมูลนำเข้า X = {x¹, x², x³, …, xᶰ} โดย |X| = N
+1.   นิยาม ชุดข้อมูลนำเข้า X = {x¹, x², x³, …, xᶰ} โดย \|X\| = N
 2.   นิยาม ข้อมูลนำเข้าที่ต้องการศึกษา ด้วย x = {x₁, x₂, x₃, …, xₖ} กล่าวคือ x แต่ละตัวประกอบไปด้วยฟีเจอร์ k ตัว หรือ x ∈ Rᵏ
 3.   นิยาม x′ ∈ {0, 1}ᵏ แทน ข้อมูลนำเข้าแบบง่าย (simplified input) ของ x
-
-โดย x′ᵢ = 0 แทนความหมายว่า ไม่ต้องสนใจ feature i
-
-และ x′ᵢ = 1 แทนความหมายว่า ต้องสนใจ feature i
+    โดย x′ᵢ = 0 แทนความหมายว่า ไม่ต้องสนใจ feature i
+    และ x′ᵢ = 1 แทนความหมายว่า ต้องสนใจ feature i
 4.   นิยาม ฟังก์ชั่น hₓ เป็นฟังก์ชันที่แมพ binary input value ไปเป็น original input value ของข้อมูลนำเข้า x นั้นคือ hₓ(x′) = x
 5.   นิยาม z′ ∈ {0, 1}ᵏ เช่นเดียวกับ x′ โดย z′ ≈ x′ กล่าวคือ z′ เป็น binary input vector ที่มีหน้าตาคล้ายๆกับ x′ (หรือมี distance จาก x′ ไม่มาก)
 6.   นิยาม โมเดลที่ต้องการศึกษา หรือ the target model ด้วย _f(x) = ŷ_
@@ -563,34 +543,23 @@ S.M. Lundberg & S-I. Lee ใช้ v(S) = _f(zₛ)_ - Eₓ[_f(x)_] แทนท�
 
 สามารถคำนวน SHAP ได้โดยใช้แนวทาง [Shapley sampling values](https://link.springer.com/article/10.1007/s10115-013-0679-x) ตาม pseducode ดังนี้
 
+```python
 def SHAPSampling(x, j):
-
- X = trainingData
-
- f = targetModel
-phi = 0
-
- for i in range(M):
-
- prm = getARandomPermutation(n=len(P))
-
- S = getFeaturesFromPermu(prm, j)
-
-xi = getARandomData(X)
-
- z1 = replaceFeatureValues(x, S+{j}, xi)
-
- z2 = replaceFeatureValues(x, S, xi)
-
-payoutWithP = f(z1)
-
- payoutWithoutP = f(z2)
-
- phi += (payoutWithP - payoutWithoutP)
-
-phi /= M
-
+    X = trainingData
+    f = targetModel
+    phi = 0
+    for i in range(M):
+        prm = getARandomPermutation(n=len(P))
+        S = getFeaturesFromPermu(prm, j)
+        xi = getARandomData(X)
+        z1 = replaceFeatureValues(x, S+{j}, xi)
+        z2 = replaceFeatureValues(x, S, xi)
+        payoutWithP = f(z1)
+        payoutWithoutP = f(z2)
+        phi += (payoutWithP - payoutWithoutP)
+    phi /= M
  return phi
+```
 
 ย้อนกลับไปที่ตอนแรก จากนิยามแรก ของ SHAP
 
@@ -672,19 +641,19 @@ _//โดยจริงๆแล้ว S.M. Lundberg & S-I. Lee พิสูจ
 
 โดย KernalSHAP คือ แนวทางที่ S.M. Lundberg & S-I. Lee เสนอ เพื่อใช้ในการเทรน explanation model _g_ เพื่อให้มี weights ที่มีคุณสมบัติแบบเดียวกับ Shapley Values โดยมีรายละเอียดดังนี้
 
-**# ขั้นที่ 1**สร้าง training data สำหรับ explanation model _g_ โดยการสุ่ม z′ ขึ้นมาหลายๆอันเป็นข้อมูลนำเข้า โดย z′ ต้องไม่ใช่ all 0's หรือ all 1's และ z′ ที่ดีต้องไม่ต่างจาก x′ มาก นั้นคือ |z′| ≈|x′| โดย |z′| หมายถึงจำนวนค่า 1's ใน z′
+**# ขั้นที่ 1** สร้าง training data สำหรับ explanation model _g_ โดยการสุ่ม z′ ขึ้นมาหลายๆอันเป็นข้อมูลนำเข้า โดย z′ ต้องไม่ใช่ all 0's หรือ all 1's และ z′ ที่ดีต้องไม่ต่างจาก x′ มาก นั้นคือ \|z′\| ≈\|x′\| โดย \|z′\| หมายถึงจำนวนค่า 1's ใน z′
 
 > Quick Reminder: z′ ∈ {0, 1}ᵏ เป็น binary feature vector
 
-**# ขั้นที่ 2**คำนวน _f(hₓ(z′))_ เพื่อเป็นเป้าหมายที่ g ใช้เป็น labels
+**# ขั้นที่ 2** คำนวน _f(hₓ(z′))_ เพื่อเป็นเป้าหมายที่ g ใช้เป็น labels
 
-**# ขั้นที่ 3**คำนวนค่าน้ำหนัก (weights) สำหรับ z′ แต่ละตัว ตามสมการต่อไปนี้
+**# ขั้นที่ 3** คำนวนค่าน้ำหนัก (weights) สำหรับ z′ แต่ละตัว ตามสมการต่อไปนี้
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1IlkLGJdjZBg4VkNZUnVxUUlx2JLD_Kcs" column=1 %}
 </div>
 
-โดยมี k = จำนวนฟีเจอร์ใน x และ |z′| = จำนวนค่า 1's ใน z′
+โดยมี k = จำนวนฟีเจอร์ใน x และ \|z′\| = จำนวนค่า 1's ใน z′
 
 โดยเมื่อ plot πₓ ออกมาดู จะได้กราฟหน้าตาแบบนี้
 
@@ -702,19 +671,19 @@ _//โดยจริงๆแล้ว S.M. Lundberg & S-I. Lee พิสูจ
 
 เมื่อเทียบกับกรณีที่ z′ มี 1 และ 0 อยู่แบบครึ่งๆ เราจะแทบไม่รู้เลยว่าผลลัพธ์ที่ได้เป็นผลมาจากฟีเจอร์อะไร ?
 
-ซึ่งนี้มีผลใน **# ขั้นที่ 1**ที่เราควรเลือกสุ่มเลือก z′ จากอันที่มี |z′| = 1 หรือ |z′| = k-1 ก่อน
+ซึ่งนี้มีผลใน **# ขั้นที่ 1**ที่เราควรเลือกสุ่มเลือก z′ จากอันที่มี \|z′\| = 1 หรือ \|z′\| = k-1 ก่อน
 
-และที่สำคัญอีกจุด คือ จะเห็นว่า πₓ(z′) = ∞ เมื่อ |z′| = 0 หรือ |z′| = k อันนี้ถูกออกแบบมาเพื่อที่จะบังคับให้ φ₀ = Eₓ[_f(x)_] และ _f(x)_ = φ₀ + φ₁ + φ₂ + φ₃ + … + φₖ
+และที่สำคัญอีกจุด คือ จะเห็นว่า πₓ(z′) = ∞ เมื่อ \|z′\| = 0 หรือ \|z′\| = k อันนี้ถูกออกแบบมาเพื่อที่จะบังคับให้ φ₀ = Eₓ[_f(x)_] และ _f(x)_ = φ₀ + φ₁ + φ₂ + φ₃ + … + φₖ
 
 _//นั้นคือ ตัวแปรใน g จะลดลงไป 2 ตัวแปร เพื่อเป็น fixed values (_ φ _₀ และ_ φ _ₖ)_
 
-**# ขั้นที่ 4**เทรน Linear Regression โดยใช้ Weighted Linear Square Loss (WLS) ตามสมการต่อไปนี้ โดยไม่มี regularisation term
+**# ขั้นที่ 4** เทรน Linear Regression โดยใช้ Weighted Linear Square Loss (WLS) ตามสมการต่อไปนี้ โดยไม่มี regularisation term
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1J-nEkrN8_4dwrAXd6o85e_lpx9eI5xw-" column=1 %}
 </div>
 
-**# ขั้นที่ 5**ส่งออกค่า weights ที่ได้จาก Linear Regression เป็นค่า SHAP ที่ต้องการ
+**# ขั้นที่ 5** ส่งออกค่า weights ที่ได้จาก Linear Regression เป็นค่า SHAP ที่ต้องการ
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1aSzF_vAaj9oYR_TPH6TwrB4Oo-rFzs0l" column=1 %}
@@ -730,46 +699,41 @@ _//นั้นคือ ตัวแปรใน g จะลดลงไป 2 �
 
 สำหรับใครที่สนใจอ่านพิสูจน์ที่มาที่ไปของเงื่อนไขทั้งหมดนี้ สามารถอ่านได้จาก[ลิงค์นี้](https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Supplemental.zip)เลย
 
+```python
 def KernalSHAP(x):
+    X = trainingData
+    f = targetModel
+    x_prime = [1 for f in feat(x)]
+    kernalX = []
+    kernalY = []
+    kernalWeight = []
+    for i in range(M):
+        # ขั้นที่ 1
+        z_prime = getARandomCoalition(x_prime)      
+        xi = getARandomData(X)
 
- X = trainingData
+        # ขั้นที่ 2
+        z = replaceFeatureValues(x, z_prime, xi)    
+        yhat = f(z)                
 
- f = targetModel
-x_prime = [1 for f in feat(x)]
+        # ขั้นที่ 3
+        weight = getWeight(z_prime)                 
 
-kernalX = []
+        kernalX.append(z_prime)                     
+        kernalY.append(yhat)                        
+        kernalWeight.append(weight)                 
 
- kernalY = []
+    # ขั้นที่ 4
+    WLSloss = WeightedLinearSquares()               
+    M = LinearRegression(WLSloss)       
+    M.train(kernalX, kernalY, kernalWeight)
 
- kernalWeight = []
+    # ขั้นที่ 5
+    phi = M.weights                                 
 
-for i in range(M):
+    return phi
 
- z_prime = getARandomCoalition(x_prime)
-
- xi = getARandomData(X)
-
-z = replaceFeatureValues(x, z_prime, xi)
-
- yhat = f(z)
-
-weight = getWeight(z_prime)
-
-kernalX.append(z_prime)
-
- kernalY.append(yhat)
-
- kernalWeight.append(weight)
-
-WLSloss = WeightedLinearSquares()
-
- M = LinearRegression(WLSloss)
-
- M.train(kernalX, kernalY, kernalWeight)
-
-phi = M.weights
-
-return phi
+```
 
 ## From Local to Global
 
@@ -795,11 +759,11 @@ S.M. Lundberg อธิบายไว้ใน github ดังนี้
 
 นอกจากนี้ S.M. Lundberg ยังเสนอเพิ่มเติมว่า การใช้ SHAP ใน global explanation อาจจะไม่ใช่คำตอบที่ดีที่สุดซะทีเดียว [แนวทางอื่นอาจจะดีกว่า](https://www.nature.com/articles/s42256-019-0138-9)
 
-_ทั้งนี้ ส่วนตัวก็เห็นคล้ายๆกัน ไม่มั่นใจว่า การใช้ SHAP แบบนี้ จะรอบรับด้วยทฤษฎีของ Shapley Values ด้วยหรือไม่ ?? ทั้งนี้ ถ้าใครไม่มั่นใจ ยังมีเทคนิคคล้ายๆกัน SHAP ที่ใช้สำหรับ Global Explanation อย่าง_[_SAGE_](https://iancovert.com/blog/understanding-shap-sage/)_เป็นอีกหนึ่งตัวเลือก_
+_ทั้งนี้ ส่วนตัวก็เห็นคล้ายๆกัน ไม่มั่นใจว่า การใช้ SHAP แบบนี้ จะรอบรับด้วยทฤษฎีของ Shapley Values ด้วยหรือไม่ ?? ทั้งนี้ ถ้าใครไม่มั่นใจ ยังมีเทคนิคคล้ายๆกัน SHAP ที่ใช้สำหรับ Global Explanation อย่าง [SAGE](https://iancovert.com/blog/understanding-shap-sage/) เป็นอีกหนึ่งตัวเลือก_
 
 อย่างไรก็ตาม ถ้าใครยังคงต้องการดื้นดึงที่จะใช้ SHAP เป็น global explanation แนวทางนึงที่เป็นไปได้ คือการใช้ Summary Plot
 
-> ตัวอย่าง
+#### ตัวอย่าง
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1ZDnON4T564POMPxOiWfU4XycSIYJiwqq" column=1 %}
@@ -827,7 +791,7 @@ _ทั้งนี้ ส่วนตัวก็เห็นคล้ายๆ
 
 โดยที่มาส่วนหนึ่งของการใช้สมมติฐาน feature independence เกิดขึ้นในขั้นตอนการสุ่มเลือก Coalitions ของฟีเจอร์ เพราะว่า ในความเป็นจริง ฟีเจอร์แต่ละตัวไม่ได้ 100% อิสระต่อกัน
 
-> ตัวอย่าง
+#### ตัวอย่าง
 
 ถ้าข้อมูลที่ต้องการศึกษา คือ ข้อความ “This is a cat” และ ใช้ words เป็น features ของข้อมูลนี้ จะได้ว่าเรามีข้อมูลนำเข้า 4 ตัวได้แก่ {This, is, a, cat}
 
@@ -847,7 +811,7 @@ This is a _ → เราสามารถบอกได้ว่าตัว�
 
 โจทย์ที่ SHAP ออกแบบมา คือเพื่อตอบคำถามที่ว่า
 
-_“ฟีเจอร์ (features) แต่ละตัวมีความสำคัญ (feature importance) มากน้อยเท่าไรใน การคำนวนคำตอบ (prediction)_**_ของโมเดล_**_”_
+_“ฟีเจอร์ (features) แต่ละตัวมีความสำคัญ (feature importance) มากน้อยเท่าไรใน การคำนวนคำตอบ (prediction)_ **_ของโมเดล_**_”_
 
 และหลายคน อาจจะละเลยส่วนที่สำคัญอันนึงไป คือ “**_ของโมเดล_**” แปลว่า สิ่งที่ได้จาก SHAP เป็นแค่มาตรวัดความสำคัญของฟีเจอร์จากมุมมองของโมเดลที่เรียนรู้มาจากข้อมูล ไม่ใช่บริบทของโลกจริง
 

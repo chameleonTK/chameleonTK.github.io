@@ -2,7 +2,7 @@
 layout: post
 title: "พิสูจน์สูตรตรีโกณ ด้วย เรขาคณิต"
 tags: [Archive, Mathematics]
-thumbnail: "assets/feats/trigonometric-identities-with-geometry/image-01.jpg"
+thumbnail: "assets/feats/trigonometric-identities-with-geometry.png"
 author: Pakawat Nakwijit
 excerpt_separator: <!--more-->
 color: rgb(19, 196, 165)

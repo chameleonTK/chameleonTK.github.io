@@ -2,7 +2,7 @@
 layout: post
 title: "ทำความเข้าใจ Hopfield Network"
 tags: [Archive, Code Code and Code]
-thumbnail: "assets/feats/understanding-hopfield-network/image-01.jpg"
+thumbnail: "assets/feats/understanding-hopfield-network.png"
 author: Pakawat Nakwijit
 excerpt_separator: <!--more-->
 color: rgb(19, 196, 165)
@@ -228,7 +228,7 @@ _“วิธีในการเปลี่ยนแปลง stage ของ
 <p>ไปกดเล่นได้ที่ <a href="https://chameleontk.github.io/code-challanges/week7_hopfield_network/index.html">https://chameleontk.github.io/code-challanges/week7_hopfield_network/index.html</a></p>
 </div>
 
-โดย John Hopfield เสนอว่า Hopfield Network สามารถ converge ไปยัง local minima ได้เสมอ โดยใช้กฎง่ายๆ โดยการสุ่มเลือก neuron **ทีละ 1 ตัว (**asynchronously**)**และ อัพเดต stage โดยใช้สมการดังนี้
+โดย John Hopfield เสนอว่า Hopfield Network สามารถ converge ไปยัง local minima ได้เสมอ โดยใช้กฎง่ายๆ โดยการสุ่มเลือก neuron **ทีละ 1 ตัว (asynchronously)** และ อัพเดต stage โดยใช้สมการดังนี้
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1riChCm5WEFRx5JAUF_PSj6jlCPAEVy5z" column=1 %}

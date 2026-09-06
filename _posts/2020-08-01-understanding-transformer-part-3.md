@@ -2,13 +2,13 @@
 layout: post
 title: "ทำความเข้าใจ Transformer [Part III]"
 tags: [Archive, Code Code and Code]
-thumbnail: "assets/feats/understanding-transformer-part-3/image-01.png"
+thumbnail: "assets/feats/understanding-transformer.png"
 author: Pakawat Nakwijit
 excerpt_separator: <!--more-->
 color: rgb(19, 196, 165)
 ---
 
-> **_คำเตือน_**_เนื้อหาในบทความนี้เต็มไปด้วยศัพท์แสงทางวิชาการ โปรดใช้วิจารณญาณก่อนเสพ_
+> **คำเตือน** เนื้อหาในบทความนี้เต็มไปด้วยศัพท์แสงทางวิชาการ โปรดใช้วิจารณญาณก่อนเสพ
 
 <!--more-->
 
@@ -22,7 +22,7 @@ color: rgb(19, 196, 165)
 
 ในบทความนี้ ผู้เขียนจะเน้นไปที่รายละเอียดปลีกย่อยที่ยังไม่ได้พูดถึงใน 2 บทความก่อนหน้า ซึ่งประกอบด้วยเทคนิคการเทรน Transformer, การทำ prediction และส่วนสุดท้าย Visualisation เพื่อทำความเข้าใจสิ่งที่เกิดขึ้นภายใน Self-attention head
 
-สำหรับใครที่ยังไม่ได้ตามอ่าน 2 บทความ ก่อนหน้านี้ สามารถจิ้มได้ที่ลิงค์ตรงนี้ได้เลยครับ [Part I](/understanding-transformer-part-1/) และ [Part II](/understanding-transformer-part-2/)ได้เลยครับ
+สำหรับใครที่ยังไม่ได้ตามอ่าน 2 บทความ ก่อนหน้านี้ สามารถจิ้มได้ที่ลิงค์ตรงนี้ได้เลยครับ <a href="/understanding-transformer-part-1/" target="_blank" rel="noopener noreferrer">Part I</a> และ <a href="/understanding-transformer-part-2/" target="_blank" rel="noopener noreferrer">Part II</a> ได้เลยครับ
 
 ## Training the Transformer
 
@@ -39,13 +39,13 @@ color: rgb(19, 196, 165)
 โดยในเปเปอร์ จะพบว่า Transformer ถูกเทรนด้วย parallel corpus 2 ก้อน จาก WMT 2014
 
 *   ข้อมูลก้อนแรก เป็นข้อมูลประโยคภาษาอังกฤษ-เยอรมัน มีข้อมูลประมาณ 4.5 ล้านคู่ประโยค (ใช้ขนาดของ BPE vocab = 37000 tokens)
-*   ข้อมูลก้อนที่ 2 เป็นข้อมูลประโยคภาษาอังกฤษ-ฝรั่งเศษ มีข้อมูลประมาณ 36ล้านคู่ประโยค (ใช้ขนาดของ BPE vocab = 32000 tokens)
+*   ข้อมูลก้อนที่ 2 เป็นข้อมูลประโยคภาษาอังกฤษ-ฝรั่งเศษ มีข้อมูลประมาณ 36 ล้านคู่ประโยค (ใช้ขนาดของ BPE vocab = 32000 tokens)
 
 — _เทียบกับภาษาไทย ซึ่งข้อมูลแต่ละก้อนมีไม่ถึง 1 ล้านคู่ประโยค พูดแล้วก็เศร้า แต่ก็ต้องดิ้นรนกันต่อไป_
 
 ### Batching
 
-เทคนิคนึงที่ใช้กันเป็นมาตรฐานในการเทรนโมเดล deep learning คือ เทคนิคการใช้ **_mini batch_**หรือก็คือ แทนที่จะป้อนข้อมูลทั้งก้อนไปสอนโมเดล เราจะหั่นข้อมูลเป็นชิ้นเล็กๆ เรียกว่า **_batch_**
+เทคนิคนึงที่ใช้กันเป็นมาตรฐานในการเทรนโมเดล deep learning คือ เทคนิคการใช้ **_mini batch_** หรือก็คือ แทนที่จะป้อนข้อมูลทั้งก้อนไปสอนโมเดล เราจะหั่นข้อมูลเป็นชิ้นเล็กๆ เรียกว่า **_batch_**
 
 เมื่อไรก็ตามที่โมเดลประมวลผลทุกๆประโยคใน batch แล้ว โมเดลก็จะอัพเดต 1 ครั้ง และ หลังจากอัพเดตครบทุก mini batch แล้ว จะเรียกว่าจบ 1 epoch
 
@@ -145,7 +145,7 @@ _— ในเปเปอร์จริงๆแล้ว ไม่ได้�
 
 Regularization เป็นส่วนประกอบสำคัญชิ้นสุดท้ายในการเทรนทุกๆโมเดลเลยก็ว่าได้ เนื่องจากว่า เราไม่ต้องการสอนให้โมเดลแก้ปัญหาเฉพาะในกรณีๆที่มันเคยเจอเพียงอย่างเดียว (overfitting) แต่เราต้องการโมเดลที่สามารถเข้าใจข้อมูลในภาพรวม (generalization) เหมือนกับสิ่งที่คุณครูสอนเด็กนักเรียน คุณครูต้องสอนให้นักเรียนสามารถแก้โจทย์ได้ แม้ว่าจะเปลี่ยนตัวเลขไปบ้าง หรือ มีการพลิกแพลงเล็กๆน้อยๆ ไม่ใช่แค่แก้โจทย์เฉพาะตามที่เขียนอธิบายบนกระดาน
 
-โดยในเปเปอร์ อธิบายว่า Transformer มีการใช้เทคนิค regularization 3 อย่าง ประกอบไปด้วย: Residual, Dropout และ Label smoothing โดย 2 อันแรกได้อธิบายไปแล้วใน [Part II](/understanding-transformer-part-2/) ดังนั้นใน part นี้ จึงจะอธิบายเฉพาะในเทคนิคสุดท้าย
+โดยในเปเปอร์ อธิบายว่า Transformer มีการใช้เทคนิค regularization 3 อย่าง ประกอบไปด้วย: Residual, Dropout และ Label smoothing โดย 2 อันแรกได้อธิบายไปแล้วใน <a href="/understanding-transformer-part-2/" target="_blank" rel="noopener noreferrer">Part II</a> ดังนั้นใน part นี้ จึงจะอธิบายเฉพาะในเทคนิคสุดท้าย
 
 ### Label Smoothing
 
@@ -166,7 +166,8 @@ Regularization เป็นส่วนประกอบสำคัญชิ�
 
 Label smoothing จึงถูกออกแบบมาเพื่อแก้ปัญหานี้ ด้วยการพยายามกระจายความน่าจะเป็นของคำที่ได้ probability มากๆ ไปให้กับคำอื่น โดยแทนที่ คำตอบที่เป็น one-hot encoding ด้วย เวกเตอร์ที่มีค่ามากกว่าแค่ 0 และ 1 ตามสมการด้านล่าง
 
-_y\_smoothing_ = (1 — e) * _y\_onehot_ + e / _K_
+> _y\_smoothing_ = (1 — e) * _y\_onehot_ + e / _K_
+
 ตัวเลขในตำแหน่งที่เคยมีค่า=1 จะโดนลดค่ามาเท่ากับ e-e/K แต่จะไปเพิ่มให้กับค่าในตำแหน่งอื่นๆ e/K
 
 โดย e คือ ปริมาณที่จะเกลี่ยให้กับค่าอื่นๆ และ K คือ ขนาดของเวกเตอร์ y
@@ -186,29 +187,25 @@ _y\_smoothing_ = (1 — e) * _y\_onehot_ + e / _K_
 
 โดยสรุปแล้วการเทรน Transformer ก็จะเป็นไปตาม pseudocode ด้านล่าง
 
-model **=** make_model(...)
-
+```python
+model = make_model(...)
 training_data = load_data(...)
+batches = mini_batching(training_data)
+opt = Adam(..)
+scheduler = learningRateScheduler(optimizer, ...) 
 
-batches = mini_batching(training_data)opt = Adam(..)
-
-scheduler = learningRateScheduler(optimizer, ...)**for** epoch **in** range(n_epoch):
-
- model.train()
-
- **for** i, batch **in** enumerate(batches):
-
- x, y = batch
-
- out **=** model.forward(x)
-
- loss **=** cross_entropy(out, labelsmoothing(y))
-
- loss.backward() # calculate gradient
-
- opt.step() # update model's weights model.eval()
-
+for epoch in range(n_epoch):
+    model.train()
+    for i, batch in enumerate(batches):
+        x, y = batch
+        out = model.forward(x)
+        loss = cross_entropy(out, labelsmoothing(y))
+        loss.backward() # calculate gradient
+        opt.step() # update model's weights 
+    
+model.eval()
 sentence = model.predict(...)
+```
 
 ## Getting Prediction
 
@@ -236,7 +233,7 @@ sentence = model.predict(...)
 
 นอกจากนี้ การใช้ greedy search ในหลายๆงานมักพบว่า ประโยคที่ได้มักจะมีคำซ้ำๆ หรือ มีคำวนไปวนมาแค่ไม่กี่คำ ได้คำไม่หลากหลาย ทั้งนี้เพราะว่า คำที่มีค่าความน่าจะเป็นสูงๆมักจับกลุ่มกันเพียงแค่ไม่กี่คำ
 
-ด้วยเหตุนี้ หลายๆโมเดลจึงเลือกที่จะใช้วิธีการอีกวิธีที่เรียกว่า **Beam search**เพื่อแก้ไขปัญหาที่อธิบายมาก่อนหน้านี้
+ด้วยเหตุนี้ หลายๆโมเดลจึงเลือกที่จะใช้วิธีการอีกวิธีที่เรียกว่า **Beam search** เพื่อแก้ไขปัญหาที่อธิบายมาก่อนหน้านี้
 
 โดย Beam search ทำงานคล้ายๆกับ Greedy search แต่แทนที่จะเลือกแค่คำที่มี probability สูงที่สุด แค่ 1 คำ; Beam search เลือก K คำที่ดีที่สุด จากนั้นก็คำนวน ทุกๆตัวเลือกที่เกิดจากทุกคำที่เลือกมา แล้วเลือกคำต่อมาที่ดีที่สุด K คำ จากนั้นก็ทำซ้ำไปเรื่อยๆ เช่นเดียวกับ Greedy search —_ปกติจะเรียกตัวเลือกแต่ละตัวว่า “beam”_
 
@@ -328,7 +325,7 @@ _— ผู้แปลยังไม่ค่อยเข้าใจวิธ
 
 สิ่งที่น่าสนใจ คือ หากพิจารณา attention score โดยละเอียด จะพบว่า Transformer สามารถแก้ปัญหา coreference resolution หรือการหาคำทั้งหมดที่อ้างถึงสิ่ง ๆ เดียวกัน ได้อย่างถูกต้อง
 
-เช่น ในกรณีของประโยค “**my cat**always takes a nap on the tree in my garden because **she** loves that tree”
+เช่น ในกรณีของประโยค “**my cat** always takes a nap on the tree in my garden because **she** loves that tree”
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1RsMIFextS45iystH2oosHY7gGQq8f4ho" column=1 %}
@@ -350,7 +347,7 @@ _— ผู้แปลยังไม่ค่อยเข้าใจวิธ
 
 ทั้งนี้ ปัญหาทาง NLP ยังไม่ถึงทางตัน งานวิจัยใหม่ๆผุดขึ้นมาแก้ปัญหาเดิมๆด้วยมุมมองใหม่ๆ โมเดลใหม่ๆ อย่าง BERT, GPT-2, Transformer-XL, RoBert etc ตบเท้าเข้ามาเรื่อยๆ เรายังไม่ถึงเวลาที่จะหยุดการเรียนรู้ ต้องสู้กันต่อไป เฮ้!!
 
-สุดท้ายนี้ ขอขอบคุณทุกๆคนที่ตามอ่านมาจนถึงจุดนี้ และที่สำคัญ สำหรับใครที่พลาดตอนก่อนๆ สามารถตามอ่านได้ที่ [Part I](/understanding-transformer-part-1/) และ [Part II](/understanding-transformer-part-2/)ได้เลยครับ
+สุดท้ายนี้ ขอขอบคุณทุกๆคนที่ตามอ่านมาจนถึงจุดนี้ และที่สำคัญ สำหรับใครที่พลาดตอนก่อนๆ สามารถตามอ่านได้ที่ <a href="/understanding-transformer-part-1/" target="_blank" rel="noopener noreferrer">Part I</a> และ <a href="/understanding-transformer-part-2/" target="_blank" rel="noopener noreferrer">Part II</a> ได้เลยครับ
 
 ## Credit
 

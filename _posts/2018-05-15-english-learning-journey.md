@@ -2,7 +2,7 @@
 layout: post
 title: "หนทางการฝึกภาษาอังกฤษ ตลอด 3 ปี เพื่อไปเรียนต่อ อย่างจริงจัง?"
 tags: [Archive]
-thumbnail: "assets/feats/english-learning-journey/image-01.jpg"
+thumbnail: "assets/feats/english-learning-journey.jpg"
 author: Pakawat Nakwijit
 excerpt_separator: <!--more-->
 color: rgb(19, 196, 165)

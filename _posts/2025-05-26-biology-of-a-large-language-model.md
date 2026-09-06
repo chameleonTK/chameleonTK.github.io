@@ -2,15 +2,15 @@
 layout: post
 title: "ชวนอ่านเปเปอร์ ตอนที่ 1 On the Biology of a Large Language Model"
 tags: [Archive, Code Code and Code]
-thumbnail: "assets/feats/biology-of-a-large-language-model/image-01.png"
+thumbnail: "assets/feats/biology-of-a-large-language-model.png"
 author: Pakawat Nakwijit
 excerpt_separator: <!--more-->
 color: rgb(19, 196, 165)
 ---
 
-<div class="inline-figure" style="text-align: center;margin-bottom:20px">
+<!-- <div class="inline-figure" style="text-align: center;margin-bottom:20px">
 {% include aligner.html images="https://lh3.googleusercontent.com/d/1DlHMp0Jay1sSugJMGPi7Ma4cMIB8Y-xE" column=1 %}
-</div>
+</div> -->
 
 > /me พึ่งไปเจอเปเปอร์ใหม่จากทีม Antropic แล้วรู้สึกน่าสนใจมาก อยากจะชวนเพื่อนๆมาอ่านไปด้วยกัน
 
@@ -30,7 +30,7 @@ color: rgb(19, 196, 165)
 *   เข้ามาเป็นแหล่งอ้างอิงในการเรียนการสอน (??)
 *   เข้ามาเป็นเครื่องมือในการพิจารณาคดี (??)
 
-เรายิ่งต้องระมัดระวัง เพื่อการันตีว่าโมเดลจะต้องตอบได้อย่างถูกต้องตามความเป็นจริง (**helpful**), ไม่เกินจริง ไม่มโนขึ้นมาเอง (**honest**),ไม่อคติ และ ไม่นำเสนอเรื่องที่ทำให้เกิดความเสียหาย (**harmless**)
+เรายิ่งต้องระมัดระวัง เพื่อการันตีว่าโมเดลจะต้องตอบได้อย่างถูกต้องตามความเป็นจริง **(helpful)**, ไม่เกินจริง ไม่มโนขึ้นมาเอง **(honest)**, ไม่อคติ และ ไม่นำเสนอเรื่องที่ทำให้เกิดความเสียหาย **(harmless)**
 
 เปเปอร์ชิ้นนี้ เป็นส่วนหนึ่งของการพัฒนาเพื่อทำความเข้าใจการทำงานของ LLMs จากทีม Antropic ซึ่งจริงๆแล้วประกอบด้วย 2 เปเปอร์ คือ
 
@@ -57,7 +57,7 @@ color: rgb(19, 196, 165)
 
 โดยเมื่อได้เจ้าโมเดลง่ายๆ หรือ replacement model ที่ว่ามาแล้ว ถ้าเราเชื่อว่า มันสามารถเลียบแบบพฤติกรรมของโมเลต้นแบบได้จริงๆ แปลว่า เราก็สามารถทำความเข้าใจการทำงานของโมเดลต้นแบบได้ โดยศึกษาการทำงานของเจ้า replacement model
 
-เทคนิค Circuit Tracing นำแนวคิดที่ว่ามาใช้ โดยเริ่มต้นจากการสร้างโมเดลใหม่ที่เรียกว่า **_Trancoder_**_(เป็น replacement model)_ ขึ้นมาสวมอยู่บน LLMs เพื่อเลียนแบบพฤติกรรมของโมเดลต้นฉบับ ภายใต้เงื่อนไขของ **_sparsity penalty_**(เพื่อการันตีว่า Trancoder จะเป็นโมเดลง่ายๆ ที่สามารถเข้าใจได้)
+เทคนิค Circuit Tracing นำแนวคิดที่ว่ามาใช้ โดยเริ่มต้นจากการสร้างโมเดลใหม่ที่เรียกว่า **_Trancoder_**_ (เป็น replacement model)_ ขึ้นมาสวมอยู่บน LLMs เพื่อเลียนแบบพฤติกรรมของโมเดลต้นฉบับ ภายใต้เงื่อนไขของ **_sparsity penalty_** (เพื่อการันตีว่า Trancoder จะเป็นโมเดลง่ายๆ ที่สามารถเข้าใจได้)
 
 และ จากนั้น Circuit Tracing จะนำ Trancoder ที่ได้ไปใช้สร้าง สิ่งที่เรียกว่า **_Attribution Graphs_** ที่ทำหน้าที่ในการแสดงว่า โมเดลประมวลผลอะไรบ้างเพื่อตอบสนองต่อ prompt หนึ่งๆ — _describe the steps a model used to produce an output for a target token on a particular prompt_
 
@@ -127,7 +127,7 @@ _— Local ในที่นี้ ต้องการจะเน้นว�
 
 ### Attribution Graphs
 
-> **Attribution graphs,**a graphical representation of the computational steps the model uses to determine its output for a particular input, in which nodes represent features and edges represent the causal interactions between them
+> **Attribution graphs**, a graphical representation of the computational steps the model uses to determine its output for a particular input, in which nodes represent features and edges represent the causal interactions between them
 
 Attribution Graphs เป็นผลลัพท์สุดท้ายที่เกิดขึ้น จาก Circuit Tracing เพื่อ ใช้ในการศึกษาพฤติกรรมต่างๆของโมเดล
 
@@ -141,7 +141,7 @@ Attribution Graphs เป็นผลลัพท์สุดท้ายที�
 
 โดย Nodes สามารถแบ่งคร่าวๆเป็น 3 ประเภท คือ
 
-**_1. Input features_**เป็นฟีเจอร์ที่มักมาจาก CLT ที่อยู่ในชั้นแรกๆของโมเดล โดยจะทำงานเมื่อโมเดลเจอคำบางคำ หรือ เจอกลุ่มคำที่มีความหมายใกล้ๆกันบางกลุ่ม (activate on specific tokens or categories of closely-related tokens) เช่น
+**_1. Input features_** เป็นฟีเจอร์ที่มักมาจาก CLT ที่อยู่ในชั้นแรกๆของโมเดล โดยจะทำงานเมื่อโมเดลเจอคำบางคำ หรือ เจอกลุ่มคำที่มีความหมายใกล้ๆกันบางกลุ่ม (activate on specific tokens or categories of closely-related tokens) เช่น
 
 _* ฟีเจอร์เพื่อระบุว่าข้อมูลก้อนนี้เป็นข้อมูลที่มาจากคำว่า “แมว”
 
@@ -247,7 +247,7 @@ _— และแน่นอนว่า นี่ไม่ใช่การ�
 
 Thessaloniki → Byzantine Empire → Constantinople
 
-และ**สิ่งที่น่าสนใจชิ้นที่ 2**คือ หากเราแก้ไขการทำงานของ LLMs โดยแทนที่ Texas node ด้วย China node หรือ Byzantine Empire node ที่ได้จาก prompts อื่นๆ สิ่งที่ได้ คือ LLMs เปลี่ยนคำตอบ จาก Austin เป็นคำตอบที่สอดคล้องกับ node ที่ไปแทนที่ ตามรูปด้านล่าง
+และ**สิ่งที่น่าสนใจชิ้นที่ 2** คือ หากเราแก้ไขการทำงานของ LLMs โดยแทนที่ Texas node ด้วย China node หรือ Byzantine Empire node ที่ได้จาก prompts อื่นๆ สิ่งที่ได้ คือ LLMs เปลี่ยนคำตอบ จาก Austin เป็นคำตอบที่สอดคล้องกับ node ที่ไปแทนที่ ตามรูปด้านล่าง
 
 แต่ทั้งนี้ จะเห็นว่า มีการเพิ่ม factors: +2x, -2x และ +8x เพื่อเพิ่มอิทธิผลของ Node ใหม่/ยับยั้งอิทธิผลของ Node เดิม
 

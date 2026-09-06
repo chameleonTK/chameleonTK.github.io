@@ -2,7 +2,7 @@
 layout: post
 title: "Cat vocab; ศัพท์แมวแมว"
 tags: [Archive, Cat Story]
-thumbnail: "assets/feats/cat-vocabulary/image-01.jpg"
+thumbnail: "assets/feats/cat-vocabulary.jpg"
 author: Pakawat Nakwijit
 excerpt_separator: <!--more-->
 color: rgb(19, 196, 165)
@@ -31,7 +31,7 @@ color: rgb(19, 196, 165)
 
 ซึ่งเราจะเรียกการทำหมันในแมวเพศผู้ว่า **neutering**แต่ใช้ **spaying**ในแมวเพศเมีย
 
-*   **Feline;**สำหรับเรียกรวมๆ ใน สัตว์ตระกูลแมว ซึ่งรวมทั้ง แมวบ้าน และแมวป่า
+*   **Feline;**ส ำหรับเรียกรวมๆ ใน สัตว์ตระกูลแมว ซึ่งรวมทั้ง แมวบ้าน และแมวป่า
 *   **Moggy**; อันนี้เรียกแมวพันธุ์ทาง หรือ แมวบ้านที่ไม่รู้เชื้อสายโคตรเง้าต้นตระกูล
 *   **Pussy**; คำไม่เป็นทางการ ของคำว่า แมว แต่ส่วนใหญ่ใช้เป็นแสลง แปลว่า จิมิ
 *   **Strays**; แมวข้างทาง แมววัด แมวตามซอย _//ถ้าใครสงสารก็เอาไปรับเลี้ยงนะครับ แล้วชีวิตจะมีสีสัน :)_
@@ -45,9 +45,9 @@ color: rgb(19, 196, 165)
 
 ## เรียกตามจากสี;
 
-*   **Ginger**ใช้เรียกแมวสีส้ม (เมื่อก่อนจะเรียกขนสีส้ม ว่า Red fur แต่หลังๆเข้าใจว่าจะใช้ Orange fur แทนละ)
-*   **Blue cat/Maltese cat**จะหมายถึง แมวที่มีขนสีเทา //น่าร๊ากกก~~
-*   **Harlequin**ใช้เรียกแมวที่มีแต่ขนสีขาวกะดำ
+*   **Ginger** ใช้เรียกแมวสีส้ม (เมื่อก่อนจะเรียกขนสีส้ม ว่า Red fur แต่หลังๆเข้าใจว่าจะใช้ Orange fur แทนละ)
+*   **Blue cat/Maltese cat** จะหมายถึง แมวที่มีขนสีเทา //น่าร๊ากกก~~
+*   **Harlequin** ใช้เรียกแมวที่มีแต่ขนสีขาวกะดำ
 *   **Tortoiseshell** ใช้เรียกแมวลายเปรอะ
 
 <div class="inline-figure" style="text-align: center;margin-bottom:20px">
@@ -94,7 +94,9 @@ color: rgb(19, 196, 165)
 *   **Catnap**; หมายถึง งีบสั้นๆ 10–15 นาที ระหว่างวัน
 *   แต่ **Catnip**; จะหมายถึง กัญชาแมว
 
-## Don’t forget to share to these purrfec words to your f**ur-end.**
+<div class="blockquote">
+Don’t forget to share to these purrfec words to your <b>fur-end</b>.
+</div>
 
 ## References
 
